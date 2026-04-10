@@ -1,0 +1,79 @@
+## This is an example of a default syntax.  The default syntax is used for
+## files that do not match any other syntax.
+
+syntax "txt" "\.txt$"
+comment "#"
+
+# Spaces in front of tabs.
+color ,red " +	+"
+
+# Code
+color green start="^[[:space:]]*```" end="^[[:space:]]*```"
+color green,black "`[^`]+`"
+
+# Datestamps and Timestamps
+color brightyellow "\<[12][0-9]{3}\-(0[1-9]|1[012])\-(0[1-9]|[12][0-9]|3[01])\>"
+color brightyellow "(1[0-2]|0?[1-9]):[0-5][0-9] ?[AaPp][Mm]"
+color brightyellow "([01]?[0-9]|2[0-3]):[0-5][0-9] ?(ZULU|Zulu|zulu|[Zz])\b"
+
+# Email addresses.
+color magenta "<[[:alnum:].%_+-]+@[[:alnum:].-]+\.[[:alpha:]]{2,}>"
+
+# URLs.
+color lightblue "\<https?://\S+\.\S+[^])>[:space:],.]"
+color lightblue "file://.*$"
+
+# Bracketed captions in certain config files.
+color brightgreen "^\[[^][]+\]$"
+
+# Comments.
+color cyan "^[[:blank:]]*#.*"
+
+# Control codes.
+color orange "[[:cntrl:]]"
+
+# BUJO / GTD
+color yellow "\. \*.*"
+color lightblue "\. >.*"
+color blue "\. <.*"
+color green "\. \X.*"
+color brightmagenta "\. \/.*"
+color brightyellow "\. \@.*"
+color red "\. \-.*"
+
+# MEETING NOTES
+color magenta "^[A-Z][A-Z0-9_-]*:"
+
+# COLORS
+color lightred	"color lightred"
+color brightred	"color brightred"
+color red "color red"
+color green "color green"
+color lightgreen "color lightgreen"
+color brightgreen "color brightgreen"
+color blue "color blue"
+color lightblue "color lightblue"
+color brightblue "color brightblue"
+color lightmagenta "color lightmagenta"
+color brightmagenta "color brightmagenta"
+color magenta "color magenta"
+color lightyellow "color lightyellow"
+color brightyellow "color brightyellow"
+color yellow "color yellow"
+color lightcyan "color lightcyan"
+color brightcyan "color brightcyan"
+color cyan "color cyan"
+color lightwhite "color lightwhite"
+color brightwhite "color brightwhite"
+color white "color white"
+color lightblack "color lightblack"
+color brightblack "color brightblack"
+color black "color black"
+
+# EMJ COLORS
+color brightwhite,red "\\\\m/\(>\.<\)\\\\m/"
+color brightwhite,red "metal"
+color brightwhite,red "METAL"
+color brightwhite,red "ROCK"
+color brightwhite,red "rock"
+color brightwhite,red "\\m/\(>\.<\)\\m/"
