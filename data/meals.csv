@@ -1,0 +1,477 @@
+Date,Time,Meal_Type,Food_Name,Measure,kcal,Protein_g,Carb_g,Fat_g
+2026-03-16,08:35,breakfast,Omelet spanish made with 2 eggs (mushrooms onions green peppers tomatoes),1 omelet,319,15,13,10.4
+2026-03-16,08:36,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-03-16,08:36,lunch,Hummus commercial,60 mL,94,4,8,5
+2026-03-16,08:36,lunch,Tuna salad sandwich,1,371,20,33,18
+2026-03-16,08:37,lunch,Carrots baby raw,8,28,1,7,tr
+2026-03-16,08:38,dinner,Vegetables broccoli and cauliflower frozen boiled drained,125 mL,22,2,4,tr
+2026-03-16,08:39,dinner,Ground regular crumbled pan-fried,75 g,243,22,0,7.9
+2026-03-16,08:37,dinner,Feta,50 g,132,7,2,7.7
+2026-03-16,08:37,snack,Beer high alcohol (7%alcohol by volume),1 bottle,183,1,10,0
+2026-03-17,08:38,breakfast,Oatmeal large flakes/quick,175 mL,99,4,17,2
+2026-03-17,08:38,breakfast,Peanut butter chunk type fat sugar and salt added,30 mL,191,8,7,16
+2026-03-17,08:38,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-03-17,12:10,snack,Coffee brewed,250 mL,3,tr,0,tr
+2026-03-17,13:26,lunch,Tortilla wheat (20 cm diam),1,159,4,27,3
+2026-03-17,13:27,lunch,ALLMAX ISO WHEY - Strawberry,1,120,27,3,0.5
+2026-03-17,14:22,lunch,Hummus commercial,60 mL,94,4,8,5
+2026-03-17,14:26,lunch,Mushrooms raw,3 medium,12,2,2,tr
+2026-03-17,14:30,lunch,Spinach chopped raw,250 mL,7,1,1,tr
+2026-03-17,14:34,lunch,Deli meat chicken breast low fat,2 slices,48,10,1,0.1
+2026-03-17,14:36,lunch,Feta,50 g,132,7,2,7.7
+2026-03-17,14:41,snack,Banana,1,105,1,27,tr
+2026-03-17,18:29,dinner,Shepherd's pie,250 mL,389,17,40,17
+2026-03-17,21:31,snack,Beer regular (5% alcohol by volume),1 bottle,140,1,10,0
+2026-03-17,21:32,snack,Apple with skin (7 cm.diam),1,72,tr,19,tr
+2026-03-17,21:32,snack,Plain Greek Yogurt 5%,175 g,180,16,8,9
+2026-03-18,09:09,breakfast,Omelet spanish made with 2 eggs (mushrooms onions green peppers tomatoes),1 omelet,319,15,13,10.4
+2026-03-18,09:09,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-03-18,09:09,breakfast,Zucchini raw slices,4,6,tr,1,tr
+2026-03-18,12:10,lunch,Tortilla wheat (20 cm diam),1,159,4,27,3
+2026-03-18,12:11,lunch,Hummus commercial,60 mL,94,4,8,5
+2026-03-18,12:11,lunch,Spinach chopped raw,250 mL,7,1,1,tr
+2026-03-18,12:11,lunch,Zucchini raw slices,4,6,tr,1,tr
+2026-03-18,12:12,lunch,Feta,50 g,132,7,2,7.7
+2026-03-18,12:12,lunch,Walnuts dried,60 mL,166,4,3,17
+2026-03-18,12:12,lunch,Tea brewed,250 mL,3,0,1,tr
+2026-03-18,18:09,snack,Bread Italian,1 slice,95,3,18,1
+2026-03-18,18:09,snack,Apple with skin (7 cm.diam),1,72,tr,19,tr
+2026-03-18,18:10,snack,Peanut butter chunk type fat sugar and salt added,30 mL,191,8,7,16
+2026-03-18,18:10,snack,Coffee brewed,250 mL,3,tr,0,tr
+2026-03-18,18:11,dinner,Shepherd's pie,250 mL,389,17,40,17
+2026-03-18,19:50,snack,Beer high alcohol (7%alcohol by volume),1 bottle,183,1,10,0
+2026-03-18,22:12,snack,Tea brewed herbal,250 mL,3,0,1,tr
+2026-03-19,02:55,snack,Oatmeal large flakes/quick,175 mL,99,4,17,2
+2026-03-19,02:56,snack,Peanut butter chunk type fat sugar and salt added,30 mL,191,8,7,16
+2026-03-19,07:23,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-03-19,10:01,breakfast,Omelet spanish made with 2 eggs (mushrooms onions green peppers tomatoes),1 omelet,319,15,13,10.4
+2026-03-19,10:01,breakfast,Feta,50 g,132,7,2,7.7
+2026-03-19,21:06,lunch,Sour dough bread,1 slice,164,5.3,31.1,1.8
+2026-03-19,21:06,lunch,Sour dough bread,1 slice,164,5.3,31.1,1.8
+2026-03-19,21:07,lunch,Deli meat chicken breast low fat,2 slices,48,10,1,0.1
+2026-03-19,21:09,lunch,Vegetables mixed (corn lima beans snap beans peas carrots) frozen boiled drained,125 mL,63,3,13,tr
+2026-03-19,21:09,lunch,Hummus commercial,60 mL,94,4,8,5
+2026-03-19,21:10,lunch,Mushrooms raw,3 medium,12,2,2,tr
+2026-03-19,21:10,lunch,Walnuts dried,60 mL,166,4,3,17
+2026-03-19,21:11,snack,Apple with skin (7 cm.diam),1,72,tr,19,tr
+2026-03-19,21:11,snack,Peanut butter chunk type fat sugar and salt added,30 mL,191,8,7,16
+2026-03-19,21:12,dinner,Chicken broiler drumstick meat and skin roasted,75g,161,16,0,3.8
+2026-03-19,21:12,dinner,Vegetables Asian mix (broccoli carrots green beans mini corn snow peas sweet red pepper) frozen boiled drained,125 mL,29,1,6,tr
+2026-03-19,21:13,snack,Tea brewed herbal,250 mL,3,0,1,tr
+2026-03-20,11:08,breakfast,Omelet spanish made with 2 eggs (mushrooms onions green peppers tomatoes),1 omelet,319,15,13,10.4
+2026-03-20,11:08,breakfast,Feta,50 g,132,7,2,7.7
+2026-03-20,11:09,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-03-20,14:31,lunch,Chicken broiler drumstick meat and skin roasted,75g,161,16,0,3.8
+2026-03-20,14:32,lunch,Spinach chopped raw,250 mL,7,1,1,tr
+2026-03-20,14:32,lunch,Vegetables Asian mix (broccoli carrots green beans mini corn snow peas sweet red pepper) frozen boiled drained,125 mL,29,1,6,tr
+2026-03-20,14:33,lunch,Mushrooms raw,3 medium,12,2,2,tr
+2026-03-20,14:33,lunch,Chia seeds,1 tbsp,59,2,5.1,3.7
+2026-03-20,14:33,lunch,Hummus commercial,60 mL,94,4,8,5
+2026-03-20,14:34,lunch,Walnuts dried,60 mL,166,4,3,17
+2026-03-20,21:33,dinner,Crazy Uncle Hard root beer,473 mL,325,0,30,0
+2026-03-20,21:33,dinner,Pizza with cheese meat and vegetables (medium - 12 inches),1 slice,250,11,24,12
+2026-03-20,21:33,dinner,Pizza with cheese meat and vegetables (medium - 12 inches),1 slice,250,11,24,12
+2026-03-20,23:02,snack,Mushrooms raw,3 medium,12,2,2,tr
+2026-03-20,23:03,snack,Carrots baby raw,8,28,1,7,tr
+2026-03-21,10:15,breakfast,Omelet spanish made with 2 eggs (mushrooms onions green peppers tomatoes),1 omelet,319,15,13,10.4
+2026-03-21,10:15,breakfast,Feta,50 g,132,7,2,7.7
+2026-03-21,10:15,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-03-21,22:37,lunch,Cheeseburger single patty ,1,319,15,32,15
+2026-03-21,22:37,lunch,Chicken sandwich breaded chicken + condiments + vegetables,1,632,29,42,39
+2026-03-21,12:04,lunch,French fries,20-25 fries,236,3,29,12
+2026-03-21,12:05,lunch,Coffee brewed,250 mL,3,tr,0,tr
+2026-03-21,18:06,dinner,Sushi with fish,4,164,5,35,tr
+2026-03-21,18:06,dinner,Sushi with fish,4,164,5,35,tr
+2026-03-21,20:07,snack,Pepper sweet red raw,0.5,15,1,4,tr
+2026-03-21,20:08,snack,Wheat crackers,4,95,2,13,3
+2026-03-21,21:09,snack,Beer light (4% alcohol by volume),1 bottle,99,1,5,0
+2026-03-21,22:09,snack,Beer regular (5% alcohol by volume),1 bottle,140,1,10,0
+2026-03-22,07:10,breakfast,Oatmeal instant apple-cinnamon,1 packet,141,3,29,2
+2026-03-22,09:02,breakfast,Raisin Bran Kellogg's,250 mL,187,5,47,1
+2026-03-22,10:02,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-03-22,13:02,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-03-22,13:02,lunch,Pizza with cheese and pepperoni (medium - 12 inches),1 slice,219,11,23,9
+2026-03-22,13:22,lunch,Pizza with cheese and pepperoni (medium - 12 inches),1 slice,219,11,23,9
+2026-03-22,18:19,snack,Soft serve ice cream with Oreo cookies (Blizzard McFlurry),1 small,575,13,89,20
+2026-03-22,18:21,dinner,Tortilla wheat (20 cm diam),1,159,4,27,3
+2026-03-22,18:21,dinner,Cheddar,50 g,202,12,1,10.5
+2026-03-22,18:22,dinner,Deli meat chicken breast roll,2 slices,75,8,1,1.6
+2026-03-22,18:23,dinner,Lettuce spring mix (mesclun),250 mL,12,1,2,tr
+2026-03-22,18:23,dinner,Mushrooms raw,3 medium,12,2,2,tr
+2026-03-22,18:23,dinner,Hummus commercial,60 mL,94,4,8,5
+2026-03-22,21:31,snack,Egg hard-boiled,1 large,78,6,1,2
+2026-03-22,21:34,snack,Tuna light canned in water drained salted,75 g,87,19,0,0.3
+2026-03-23,08:50,breakfast,Omelet spanish made with 2 eggs (mushrooms onions green peppers tomatoes),1 omelet,319,15,13,10.4
+2026-03-23,08:50,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-03-23,11:56,snack,ALLMAX ISO WHEY - Strawberry,1,120,27,3,0.5
+2026-03-23,11:56,snack,Granola bar hard chocolate chip,1,105,2,17,4
+2026-03-23,16:42,lunch,Dempster's Protein Tortilla,1,150,13,19,3.5
+2026-03-23,16:42,lunch,Hummus commercial,60 mL,94,4,8,5
+2026-03-23,16:43,lunch,Spinach chopped raw,250 mL,7,1,1,tr
+2026-03-23,16:44,lunch,Deli meat chicken breast roll,2 slices,75,8,1,1.6
+2026-03-23,16:44,lunch,Feta,50 g,132,7,2,7.7
+2026-03-23,16:47,snack,Carrots baby raw,8,28,1,7,tr
+2026-03-23,16:47,snack,ALLMAX ISO WHEY - Strawberry,1,120,27,3,0.5
+2026-03-23,18:15,dinner,Quesadilla with meat,1,627,31,40,38
+2026-03-23,22:05,snack,Cheeseburger single patty ,1,319,15,32,15
+2026-03-23,22:05,snack,Crazy Uncle Hard root beer,473 mL,325,0,30,0
+2026-03-24,09:00,breakfast,Oatmeal large flakes/quick,175 mL,99,4,17,2
+2026-03-24,09:00,breakfast,Peanut butter chunk type fat sugar and salt added,30 mL,191,8,7,16
+2026-03-24,09:00,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-03-24,14:09,lunch,Tortilla wheat (20 cm diam),1,159,4,27,3
+2026-03-24,14:10,lunch,Hummus commercial,60 mL,94,4,8,5
+2026-03-24,14:11,lunch,Chicken broiler breast meat roasted,75g,119,25,0,0.5
+2026-03-24,14:11,lunch,Zucchini raw slices,4,6,tr,1,tr
+2026-03-24,14:11,lunch,Cabbage red shredded raw,125 mL,11,1,3,tr
+2026-03-24,14:11,lunch,Pepper sweet yellow raw,0.5,25,1,6,tr
+2026-03-24,14:12,lunch,Apple with skin (7 cm.diam),1,72,tr,19,tr
+2026-03-24,14:12,lunch,Feta,50 g,132,7,2,7.7
+2026-03-24,14:14,lunch,Plain Greek Yogurt 5%,175 g,180,16,8,9
+2026-03-24,14:14,lunch,Strawberries,7,27,1,6,tr
+2026-03-24,14:15,lunch,Walnuts dried,60 mL,166,4,3,17
+2026-03-24,14:18,snack,Tea brewed,250 mL,3,0,1,tr
+2026-03-24,18:15,dinner,Fish fillet battered and fried,1,265,22,9,3.4
+2026-03-24,18:15,dinner,Fish fillet battered and fried,1,265,22,9,3.4
+2026-03-24,18:16,dinner,French fries,20-25 fries,236,3,29,12
+2026-03-24,18:17,dinner,Ketchup,15 mL,15,tr,4,tr
+2026-03-24,20:22,snack,Egg white cooked,1 large,16,3,tr,0
+2026-03-24,20:22,snack,Egg white cooked,1 large,16,3,tr,0
+2026-03-24,20:23,snack,Cabbage red shredded raw,125 mL,11,1,3,tr
+2026-03-24,20:23,snack,Spinach chopped raw,250 mL,7,1,1,tr
+2026-03-24,20:24,snack,Apple with skin (7 cm.diam),1,72,tr,19,tr
+2026-03-24,20:24,snack,Cottage cheese (1% M.F.),125 mL,86,15,3,0.8
+2026-03-25,08:34,breakfast,Egg white cooked,1 large,16,3,tr,0
+2026-03-25,08:34,breakfast,Egg white cooked,1 large,16,3,tr,0
+2026-03-25,08:34,breakfast,Egg yolk cooked,1 large,59,3,1,2.3
+2026-03-25,08:34,breakfast,Cottage cheese (1% M.F.),125 mL,86,15,3,0.8
+2026-03-25,08:35,breakfast,Spinach chopped raw,250 mL,7,1,1,tr
+2026-03-25,08:36,breakfast,Zucchini raw slices,4,6,tr,1,tr
+2026-03-25,08:36,breakfast,Pepper sweet yellow sauteed,125 mL,36,1,5,2
+2026-03-25,08:36,breakfast,Onions yellow chopped sauteed,125 mL,61,tr,4,5
+2026-03-25,08:36,breakfast,Apple with skin (7 cm.diam),1,72,tr,19,tr
+2026-03-25,08:36,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-03-25,08:36,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-03-25,10:37,breakfast,Plain Greek Yogurt 5%,175 g,180,16,8,9
+2026-03-25,10:37,breakfast,Walnuts dried,60 mL,166,4,3,17
+2026-03-25,12:23,snack,ALLMAX ISO WHEY - Strawberry,1,120,27,3,0.5
+2026-03-25,12:23,snack,Granola bar hard chocolate chip,1,105,2,17,4
+2026-03-25,18:44,lunch,Dempster's Protein Tortilla,1,150,13,19,3.5
+2026-03-25,18:44,lunch,Hummus commercial,60 mL,94,4,8,5
+2026-03-25,18:44,lunch,Zucchini raw slices,4,6,tr,1,tr
+2026-03-25,18:45,lunch,Spinach chopped raw,250 mL,7,1,1,tr
+2026-03-25,18:45,lunch,Apple with skin (7 cm.diam),1,72,tr,19,tr
+2026-03-25,18:46,lunch,Deli meat chicken breast roll,2 slices,75,8,1,1.6
+2026-03-25,18:47,snack,Trail mix regular,60 mL,176,5,17,11
+2026-03-25,18:47,snack,ALLMAX ISO WHEY - Strawberry,1,120,27,3,0.5
+2026-03-25,18:47,dinner,Fish fillet battered and fried,1,265,22,9,3.4
+2026-03-25,18:48,dinner,Spinach chopped raw,250 mL,7,1,1,tr
+2026-03-25,18:48,dinner,Salsa,15 mL,5,tr,1,tr
+2026-03-25,18:49,snack,Tea brewed herbal,250 mL,3,0,1,tr
+2026-03-25,19:16,snack,Cottage cheese (1% M.F.),125 mL,86,15,3,0.8
+2026-03-25,19:16,snack,Walnuts dried,60 mL,166,4,3,17
+2026-03-25,19:20,snack,Strawberries frozen unsweetened,125 mL,41,1,11,tr
+2026-03-26,08:30,breakfast,Egg fried,2 large,173,12,2,5.8
+2026-03-26,08:30,breakfast,Sour dough bread,1 slice,164,5.3,31.1,1.8
+2026-03-26,08:30,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-03-26,10:42,snack,Cottage cheese (1% M.F.),125 mL,86,15,3,0.8
+2026-03-26,10:43,snack,Oatmeal large flakes/quick,175 mL,99,4,17,2
+2026-03-26,10:43,snack,Tea brewed,250 mL,3,0,1,tr
+2026-03-26,12:42,lunch,Fish fillet battered and fried,1,265,22,9,3.4
+2026-03-26,12:42,lunch,Spinach chopped raw,250 mL,7,1,1,tr
+2026-03-26,12:42,lunch,Hummus commercial,60 mL,94,4,8,5
+2026-03-26,12:44,lunch,Cheddar,50 g,202,12,1,10.5
+2026-03-26,12:44,lunch,Creamy Caesar,15 mL,79,tr,tr,2
+2026-03-26,12:46,lunch,Dempster's Protein Tortilla,1,150,13,19,3.5
+2026-03-26,16:34,snack,Banana,1,105,1,27,tr
+2026-03-26,16:34,snack,Babybel Original Mini Cheese,1 mini wheel,70,5,0,6
+2026-03-26,18:10,snack,Babybel Original Mini Cheese,1 mini wheel,70,5,0,6
+2026-03-26,18:10,snack,Babybel Original Mini Cheese,1 mini wheel,70,5,0,6
+2026-03-26,19:23,dinner,Tortilla corn (15 cm diam),1,41,1,8,1
+2026-03-26,19:23,dinner,Tortilla corn (15 cm diam),1,41,1,8,1
+2026-03-26,19:23,dinner,Tortilla corn (15 cm diam),1,41,1,8,1
+2026-03-26,19:23,dinner,Tortilla corn (15 cm diam),1,41,1,8,1
+2026-03-26,19:24,dinner,Centre cut loin chop lean + fat broiled,75g,180,22,0,4.4
+2026-03-26,19:25,dinner,Onions yellow chopped sauteed,125 mL,61,tr,4,5
+2026-03-26,19:29,dinner,PC Lime Crema,15 mL,50,0,1,6
+2026-03-26,19:29,dinner,Cheddar,50 g,202,12,1,10.5
+2026-03-26,21:33,snack,Beer high alcohol (7%alcohol by volume),1 bottle,183,1,10,0
+2026-03-27,09:22,breakfast,Omelet cheese made with 2 eggs,1 omelet,273,18,5,7.8
+2026-03-27,09:22,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-03-27,10:19,breakfast,PC Baba Ghanouj,2 tbsp,35,0.8,3.2,2.5
+2026-03-27,10:19,breakfast,Herdez Salsa Verde,2 tbsp,10,0,2,0
+2026-03-27,12:24,lunch,Lay's Classic Snack size,1 bag,330,4,33,21
+2026-03-27,12:30,lunch,Nectar mango,125 mL,68,tr,17,tr
+2026-03-27,12:24,lunch,MadeGood chewy cholate chip,1 bar,100,2,17,3.5
+2026-03-27,12:25,lunch,Pizza with cheese meat and vegetables (medium - 12 inches),1 slice,250,11,24,12
+2026-03-27,12:25,lunch,Chocolate chip commercial,2,98,1,13,5
+2026-03-27,14:28,snack,Doughnut cake-type plain chocolate coated (9 cm diam),1,270,3,27,18
+2026-03-27,16:28,snack,Dempster's Protein Tortilla,1,150,13,19,3.5
+2026-03-27,16:28,snack,Hummus commercial,60 mL,94,4,8,5
+2026-03-27,16:28,snack,Pepper sweet yellow raw,0.5,25,1,6,tr
+2026-03-27,16:29,snack,Spinach chopped raw,250 mL,7,1,1,tr
+2026-03-27,16:29,snack,Centre cut loin chop lean + fat broiled,75g,180,22,0,4.4
+2026-03-27,19:02,snack,Granola bar hard chocolate chip,1,105,2,17,4
+2026-03-27,19:02,snack,Coffee brewed,250 mL,3,tr,0,tr
+2026-03-27,19:30,snack,Doughnut cake-type plain chocolate coated (9 cm diam),1,270,3,27,18
+2026-03-27,20:13,dinner,Chicken broiler wing meat and skin roasted,75g,218,20,0,5.7
+2026-03-27,20:13,dinner,Short ribs lean + fat simmered,75 g,309,17,0,11.8
+2026-03-28,20:13,dinner,Beer high alcohol (7%alcohol by volume),1 bottle,183,1,10,0
+2026-03-28,00:30,snack,Beer high alcohol (7%alcohol by volume),1 bottle,183,1,10,0
+2026-03-28,02:30,snack,Garlic bread,2 slices,192,5,26,8
+2026-03-28,12:02,breakfast,Egg fried,2 large,173,12,2,5.8
+2026-03-28,12:02,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-03-28,14:00,lunch,Tortilla wheat (20 cm diam),1,159,4,27,3
+2026-03-28,14:00,lunch,Hummus commercial,60 mL,94,4,8,5
+2026-03-28,14:00,lunch,Zucchini raw slices,4,6,tr,1,tr
+2026-03-28,14:00,lunch,Pepper sweet red sauteed,125 mL,99,1,5,9
+2026-03-28,14:00,lunch,Onions yellow chopped raw,60 mL,17,tr,4,tr
+2026-03-28,14:00,lunch,Spinach chopped raw,250 mL,7,1,1,tr
+2026-03-28,14:00,lunch,Chicken broiler breast meat roasted,75g,119,25,0,0.5
+2026-03-28,15:01,snack,Oil-popped regular and microwaved,250 mL,58,1,7,3
+2026-03-28,15:02,snack,Beer regular (5% alcohol by volume),1 bottle,140,1,10,0
+2026-03-28,16:01,snack,Oil-popped regular and microwaved,250 mL,58,1,7,3
+2026-03-28,16:02,snack,Beer regular (5% alcohol by volume),1 bottle,140,1,10,0
+2026-03-28,16:30,snack,Jellybeans,10 beans,105,0,26,tr
+2026-03-28,17:00,snack,Lay's Ketchup Chips,1 small bag,150,2,16,9
+2026-03-28,19:07,snack,Hamburger single patty plain,1,275,12,31,12
+2026-03-28,19:07,snack,Greek,250 mL,139,4,4,13
+2026-03-28,19:07,snack,Beer high alcohol (7%alcohol by volume),1 bottle,183,1,10,0
+2026-03-28,01:00,snack,Cheerios Honey Nut General Mills,250 mL,134,3,28,1
+2026-03-28,01:00,snack,Silk Original Almond Milk,1 cup,60,1,8,2.5
+2026-03-29,10:00,lunch,Sour dough bread,1 slice,164,5.3,31.1,1.8
+2026-03-29,10:00,breakfast,Egg fried,2 large,173,12,2,5.8
+2026-03-29,10:00,breakfast,Parmesan grated,15 mL,27,2,tr,1.1
+2026-03-29,14:00,snack,Tortilla wheat (20 cm diam),1,159,4,27,3
+2026-03-29,14:00,snack,Hummus commercial,60 mL,94,4,8,5
+2026-03-29,14:00,snack,Zucchini raw slices,4,6,tr,1,tr
+2026-03-29,14:00,snack,Pepper sweet red sauteed,125 mL,99,1,5,9
+2026-03-29,14:00,snack,Onions yellow chopped raw,60 mL,17,tr,4,tr
+2026-03-29,14:00,snack,Spinach chopped raw,250 mL,7,1,1,tr
+2026-03-29,14:00,snack,Chicken broiler breast meat roasted,75g,119,25,0,0.5
+2026-03-29,14:00,lunch,Tea brewed,250 mL,3,0,1,tr
+2026-03-29,17:00,snack,Beer high alcohol (7%alcohol by volume),1 bottle,183,1,10,0
+2026-03-29,18:25,dinner,Pizza with cheese meat and vegetables (medium - 12 inches),1 slice,250,11,24,12
+2026-03-29,18:25,dinner,Pizza with cheese meat and vegetables (medium - 12 inches),1 slice,250,11,24,12
+2026-03-30,10:41,breakfast,Omelet spanish made with 2 eggs (mushrooms onions green peppers tomatoes),1 omelet,319,15,13,10.4
+2026-03-30,10:42,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-03-30,10:42,snack,Tortilla wheat (20 cm diam),1,159,4,27,3
+2026-03-30,10:42,snack,Hummus commercial,60 mL,94,4,8,5
+2026-03-30,10:43,snack,Zucchini raw slices,4,6,tr,1,tr
+2026-03-30,10:43,snack,Pepper sweet red sauteed,125 mL,99,1,5,9
+2026-03-30,10:43,snack,Onions yellow chopped raw,60 mL,17,tr,4,tr
+2026-03-30,10:44,snack,Spinach chopped raw,250 mL,7,1,1,tr
+2026-03-30,10:44,snack,Chicken broiler breast meat roasted,75g,119,25,0,0.5
+2026-03-30,12:00,lunch,Tim Hortons Chili – Regular,1 serving,410,23,40,20
+2026-03-30,14:30,snack,Tortilla wheat (20 cm diam),1,159,4,27,3
+2026-03-30,14:30,snack,Hummus commercial,60 mL,94,4,8,5
+2026-03-30,14:30,snack,Zucchini raw slices,4,6,tr,1,tr
+2026-03-30,14:30,snack,Pepper sweet red sauteed,125 mL,99,1,5,9
+2026-03-30,14:30,snack,Onions yellow chopped raw,60 mL,17,tr,4,tr
+2026-03-30,14:30,snack,Spinach chopped raw,250 mL,7,1,1,tr
+2026-03-30,14:30,snack,Chicken broiler breast meat roasted,75g,119,25,0,0.5
+2026-03-30,14:30,snack,ALLMAX ISO WHEY - Strawberry,1,120,27,3,0.5
+2026-03-30,17:12,snack,Banana,1,105,1,27,tr
+2026-03-30,17:12,snack,Granola bar hard chocolate chip,1,105,2,17,4
+2026-03-30,17:16,snack,ALLMAX ISO WHEY - Strawberry,1,120,27,3,0.5
+2026-03-30,21:22,dinner,Egg white cooked,1 large,16,3,tr,0
+2026-03-30,21:23,dinner,Egg white cooked,1 large,16,3,tr,0
+2026-03-30,21:23,dinner,Egg white cooked,1 large,16,3,tr,0
+2026-03-30,21:23,dinner,Cabbage red shredded raw,125 mL,11,1,3,tr
+2026-03-30,21:24,dinner,Cottage cheese (1% M.F.),125 mL,86,15,3,0.8
+2026-03-31,09:04,breakfast,Egg fried,2 large,173,12,2,5.8
+2026-03-31,09:04,breakfast,Bacon pork broiled pan-fried or roasted,3 slices,130,9,tr,4.4
+2026-03-31,09:04,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-03-31,13:25,lunch,Tortilla wheat (20 cm diam),1,159,4,27,3
+2026-03-31,13:26,lunch,Hummus commercial,60 mL,94,4,8,5
+2026-03-31,13:26,lunch,Spinach chopped raw,250 mL,7,1,1,tr
+2026-03-31,13:27,lunch,Deli meat turkey breast,2 slices,63,8,4,0.3
+2026-03-31,14:00,lunch,Tea brewed,250 mL,3,0,1,tr
+2026-03-31,16:41,snack,Cottage cheese (1% M.F.),125 mL,86,15,3,0.8
+2026-03-31,17:37,dinner,Rice white long-grain cooked,125 mL,109,2,24,tr
+2026-03-31,17:37,dinner,Carrots raw,1 medium,25,1,6,tr
+2026-03-31,17:38,dinner,Sweet and sour meatballs,6,472,26,33,26
+2026-03-18,19:12,snack,Tea brewed herbal,250 mL,3,0,1,tr
+2026-03-31,21:17,snack,Beer light (4% alcohol by volume),1 bottle,99,1,5,0
+2026-03-31,22:42,snack,pierogi pierogies potato and cheese,1,60,2,10,1.5
+2026-03-31,22:47,snack,Spinach chopped raw,250 mL,7,1,1,tr
+2026-03-31,22:47,snack,Sweet and sour meatballs,6,472,26,33,26
+2026-03-31,22:47,snack,Plain Greek Yogurt 5%,175 g,180,16,8,9
+2026-04-01,12:41,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-04-01,12:42,breakfast,Plain Greek Yogurt 5%,175 g,180,16,8,9
+2026-04-01,12:42,breakfast,Strawberries,7,27,1,6,tr
+2026-04-01,12:42,breakfast,Blueberries raw,125 mL,44,1,11,tr
+2026-04-01,12:43,breakfast,Granola with Raisins low fat Kellogg's,125 mL,226,5,46,3
+2026-04-01,12:44,breakfast,Granola bar hard chocolate chip,1,105,2,17,4
+2026-04-01,12:44,breakfast,ALLMAX ISO WHEY - Strawberry,1,120,27,3,0.5
+2026-04-01,13:25,lunch,Tortilla wheat (20 cm diam),1,159,4,27,3
+2026-04-01,13:26,lunch,Hummus commercial,60 mL,94,4,8,5
+2026-04-01,13:26,lunch,Spinach chopped raw,250 mL,7,1,1,tr
+2026-04-01,13:27,lunch,Deli meat turkey breast,2 slices,63,8,4,0.3
+2026-04-01,16:21,snack,Tortilla wheat (20 cm diam),1,159,4,27,3
+2026-04-01,16:21,snack,Hummus commercial,60 mL,94,4,8,5
+2026-04-01,16:21,snack,Spinach chopped raw,250 mL,7,1,1,tr
+2026-04-01,16:21,snack,Deli meat turkey breast,2 slices,63,8,4,0.3
+2026-04-01,17:24,snack,Granola bar hard chocolate chip,1,105,2,17,4
+2026-04-01,17:24,snack,ALLMAX ISO WHEY - Strawberry,1,120,27,3,0.5
+2026-04-01,21:11,dinner,Shepherd's pie,250 mL,389,17,40,17
+2026-04-01,22:00,snack,Oikos Greek Yogurt 0% Plain,0.75 cup,100,17,6,0
+2026-04-01,22:00,snack,Blueberries frozen unsweetened,125 mL,42,tr,10,1
+2026-04-01,22:00,snack,North Coast Naturals ISO Protein 100 - chocolate,1 scoop,120,24,2,1.5
+2026-04-02,08:40,breakfast,Oatmeal large flakes/quick,175 mL,99,4,17,2
+2026-04-02,08:41,breakfast,Peanut butter smooth type fat sugar and salt added,30 mL,191,8,6,16
+2026-04-02,08:41,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-04-02,10:10,snack,Coffee brewed,250 mL,3,tr,0,tr
+2026-04-02,11:32,snack,Tortilla wheat (20 cm diam),1,159,4,27,3
+2026-04-02,11:32,snack,Hummus commercial,60 mL,94,4,8,5
+2026-04-02,11:33,snack,Spinach chopped raw,250 mL,7,1,1,tr
+2026-04-02,11:33,snack,Pepper sweet red raw,0.5,15,1,4,tr
+2026-04-02,11:34,snack,Mushrooms raw,3 medium,12,2,2,tr
+2026-04-02,11:34,snack,Chicken broiler breast meat roasted,75g,119,25,0,0.5
+2026-04-02,12:42,snack,ALLMAX ISO WHEY - Strawberry,1,120,27,3,0.5
+2026-04-02,12:42,snack,Granola bar hard chocolate chip,1,105,2,17,4
+2026-04-02,14:32,lunch,Tortilla wheat (20 cm diam),1,159,4,27,3
+2026-04-02,14:32,lunch,Hummus commercial,60 mL,94,4,8,5
+2026-04-02,14:33,lunch,Spinach chopped raw,250 mL,7,1,1,tr
+2026-04-02,14:33,lunch,Pepper sweet red raw,0.5,15,1,4,tr
+2026-04-02,14:34,lunch,Mushrooms raw,3 medium,12,2,2,tr
+2026-04-02,14:34,lunch,Chicken broiler breast meat roasted,75g,119,25,0,0.5
+2026-04-02,14:42,lunch,ALLMAX ISO WHEY - Strawberry,1,120,27,3,0.5
+2026-04-02,16:30,snack,Shepherd's pie,250 mL,389,17,40,17
+2026-04-02,20:00,dinner,Stir fry with tofu,250 mL,183,14,10,10
+2026-04-02,20:00,dinner,Beer high alcohol (7%alcohol by volume),1 bottle,183,1,10,0
+2026-04-03,10:15,breakfast,Omelet spanish made with 2 eggs (mushrooms onions green peppers tomatoes),1 omelet,319,15,13,10.4
+2026-04-03,12:05,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-04-03,12:06,snack,Timbit,1,70,1,10,3
+2026-04-03,12:06,snack,Timbit,1,70,1,10,3
+2026-04-03,15:50,lunch,Pizza with cheese meat and vegetables (medium - 12 inches),1 slice,250,11,24,12
+2026-04-03,15:50,lunch,Pizza with cheese meat and vegetables (medium - 12 inches),1 slice,250,11,24,12
+2026-04-03,15:50,lunch,Pizza with cheese meat and vegetables (medium - 12 inches),1 slice,250,11,24,12
+2026-04-03,15:51,lunch,Tortilla chips nacho flavoured (Doritos),1 small bag,249,4,31,13
+2026-04-03,15:51,lunch,Coffee brewed,250 mL,3,tr,0,tr
+2026-04-03,18:38,dinner,Stir fry with tofu,250 mL,183,14,10,10
+2026-04-03,18:39,dinner,Tortilla chips plain,26 small,234,3,29,12
+2026-04-03,20:39,snack,Wine table red,125 mL,90,tr,2,0
+2026-04-03,20:50,snack,Oikos Greek Yogurt 0% Plain,0.75 cup,100,17,6,0
+2026-04-03,20:50,snack,North Coast Naturals ISO Protein 100 - chocolate,1 scoop,120,24,2,1.5
+2026-04-04,12:40,breakfast,Omelet spanish made with 2 eggs (mushrooms onions green peppers tomatoes),1 omelet,319,15,13,10.4
+2026-04-04,12:40,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-04-04,12:07,lunch,Tortilla wheat (20 cm diam),1,159,4,27,3
+2026-04-04,12:07,lunch,Hummus commercial,60 mL,94,4,8,5
+2026-04-04,12:08,lunch,Tenderloin lean roasted,75g,108,21,0,0.9
+2026-04-04,12:08,lunch,Rice white long-grain parboiled cooked,125 mL,105,2,23,tr
+2026-04-04,12:08,lunch,Beans baked plain or vegetarian canned,175 mL,177,9,40,1
+2026-04-04,12:09,lunch,Spinach chopped raw,250 mL,7,1,1,tr
+2026-04-04,12:09,lunch,Tea brewed,250 mL,3,0,1,tr
+2026-04-04,12:09,lunch,Tortilla chips plain,26 small,234,3,29,12
+2026-04-04,12:09,lunch,Pepper sweet yellow raw,0.5,25,1,6,tr
+2026-04-04,14:40,snack,Coffee brewed,250 mL,3,tr,0,tr
+2026-04-04,15:30,dinner,Pizza with cheese meat and vegetables (medium - 12 inches),1 slice,250,11,24,12
+2026-04-04,15:30,dinner,Pizza with cheese meat and vegetables (medium - 12 inches),1 slice,250,11,24,12
+2026-04-04,16:00,snack,Chocolate homemade with icing (2 layer 23 cm diam),0.8,408,4,67,16
+2026-04-04,19:53,snack,Beer regular (5% alcohol by volume),1 bottle,140,1,10,0
+2026-04-04,21:05,snack,Stir fry with tofu,250 mL,183,14,10,10
+2026-04-04,21:35,snack,PC Greek Yogurt 0% Plain,0.50 cup,60,12,4,0
+2026-04-04,21:35,snack,North Coast Naturals ISO Protein 100 - chocolate,1 scoop,120,24,2,1.5
+2026-04-04,21:35,snack,Blueberries frozen unsweetened,125 mL,42,tr,10,1
+2026-04-05,09:00,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-04-05,12:07,lunch,Tortilla wheat (20 cm diam),1,159,4,27,3
+2026-04-05,12:07,lunch,Hummus commercial,60 mL,94,4,8,5
+2026-04-05,12:08,lunch,Tenderloin lean roasted,75g,108,21,0,0.9
+2026-04-05,12:08,lunch,Rice white long-grain parboiled cooked,125 mL,105,2,23,tr
+2026-04-05,12:08,lunch,Beans baked plain or vegetarian canned,175 mL,177,9,40,1
+2026-04-05,12:09,lunch,Spinach chopped raw,250 mL,7,1,1,tr
+2026-04-05,12:09,lunch,Tea brewed,250 mL,3,0,1,tr
+2026-04-05,12:09,lunch,Tortilla chips plain,26 small,234,3,29,12
+2026-04-05,12:09,lunch,Pepper sweet yellow raw,0.5,25,1,6,tr
+2026-04-05,12:09,lunch,North Coast Naturals ISO Protein 100 - chocolate,1 scoop,120,24,2,1.5
+2026-04-05,14:30,snack,Beer high alcohol (7%alcohol by volume),1 bottle,183,1,10,0
+2026-04-05,15:30,snack,Beer regular (5% alcohol by volume),1 bottle,140,1,10,0
+2026-04-05,15:30,snack,Sweet and sour meatballs,6,472,26,33,26
+2026-04-05,15:30,snack,Ham sandwich,1,260,13,28,10
+2026-04-05,15:30,snack,Cheddar,50 g,202,12,1,10.5
+2026-04-05,15:30,snack,Mozzarella (22.5% M.F.),50 g,141,10,1,6.8
+2026-04-05,15:45,snack,Chocolate chip homemade,2,156,2,19,9
+2026-04-05,16:30,snack,Sour dough bread,1 slice,164,5.3,31.1,1.8
+2026-04-05,16:30,snack,Sour dough bread,1 slice,164,5.3,31.1,1.8
+2026-04-05,17:30,snack,Beer regular (5% alcohol by volume),1 bottle,140,1,10,0
+2026-04-05,19:30,snack,Beer regular (5% alcohol by volume),1 bottle,140,1,10,0
+2026-04-05,22:30,dinner,Pizza with cheese meat and vegetables (medium - 12 inches),1 slice,250,11,24,12
+2026-04-05,23:30,dinner,Pizza with cheese meat and vegetables (medium - 12 inches),1 slice,250,11,24,12
+2026-04-05,23:30,dinner,Pizza with cheese meat and vegetables (medium - 12 inches),1 slice,250,11,24,12
+2026-04-05,23:30,snack,Cola aspartame sweetened,250 mL,3,tr,tr,0
+2026-04-06,09:00,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-04-06,10:00,breakfast,Egg fried,2 large,173,12,2,5.8
+2026-04-06,10:00,breakfast,Bacon pork broiled pan-fried or roasted,3 slices,130,9,tr,4.4
+2026-04-06,10:00,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-04-06,11:00,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-04-06,13:00,snack,PC Blue Menu Granola Boost with Protein,0.75 cup,215,12,35,4.5
+2026-04-06,14:00,snack,Sour dough bread,1 slice,164,5.3,31.1,1.8
+2026-04-06,18:00,dinner,Nachos with cheese,15-20 nachos,346,9,36,19
+2026-04-06,18:00,dinner,Nachos with cheese,15-20 nachos,346,9,36,19
+2026-04-06,21:46,snack,PC Greek Yogurt 0% Plain,0.50 cup,60,12,4,0
+2026-04-06,21:46,snack,North Coast Naturals ISO Protein 100 - chocolate,1 scoop,120,24,2,1.5
+2026-04-06,21:46,snack,Blueberries frozen unsweetened,125 mL,42,tr,10,1
+2026-04-07,08:31,breakfast,Oatmeal large flakes/quick,175 mL,99,4,17,2
+2026-04-07,08:31,breakfast,Peanut butter smooth type fat sugar and salt added,30 mL,191,8,6,16
+2026-04-07,08:31,lunch,Tea brewed,250 mL,3,0,1,tr
+2026-04-07,12:07,lunch,Tortilla wheat (20 cm diam),1,159,4,27,3
+2026-04-07,12:07,lunch,Hummus commercial,60 mL,94,4,8,5
+2026-04-07,12:08,lunch,Tenderloin lean roasted,75g,108,21,0,0.9
+2026-04-07,12:08,lunch,Rice white long-grain parboiled cooked,125 mL,105,2,23,tr
+2026-04-07,12:08,lunch,Beans baked plain or vegetarian canned,175 mL,177,9,40,1
+2026-04-07,12:09,lunch,Spinach chopped raw,250 mL,7,1,1,tr
+2026-04-07,12:09,lunch,Tortilla chips plain,26 small,234,3,29,12
+2026-04-07,14:24,snack,Coffee brewed,250 mL,3,tr,0,tr
+2026-04-07,17:54,lunch,Tortilla wheat (20 cm diam),1,159,4,27,3
+2026-04-07,17:54,lunch,Hummus commercial,60 mL,94,4,8,5
+2026-04-07,17:54,lunch,Chicken broiler breast meat roasted,75g,119,25,0,0.5
+2026-04-07,17:54,lunch,Rice white long-grain parboiled cooked,125 mL,105,2,23,tr
+2026-04-07,17:54,lunch,Beans baked plain or vegetarian canned,175 mL,177,9,40,1
+2026-04-07,17:54,lunch,Spinach chopped raw,250 mL,7,1,1,tr
+2026-04-07,17:54,lunch,Tortilla chips plain,26 small,234,3,29,12
+2026-04-07,19:00,snack,Beer regular (5% alcohol by volume),1 bottle,140,1,10,0
+2026-04-07,21:30,snack,Tea brewed herbal,250 mL,3,0,1,tr
+2026-04-07,22:22,snack,PC Greek Yogurt 0% Plain,0.50 cup,60,12,4,0
+2026-04-07,22:22,snack,North Coast Naturals ISO Protein 100 - chocolate,1 scoop,120,24,2,1.5
+2026-04-07,22:22,snack,Blueberries frozen unsweetened,125 mL,42,tr,10,1
+2026-04-08,09:57,snack,Oatmeal large flakes/quick,175 mL,99,4,17,2
+2026-04-08,09:57,snack,Peanut butter smooth type fat sugar and salt added,30 mL,191,8,6,16
+2026-04-08,09:57,snack,Coffee brewed,250 mL,3,tr,0,tr
+2026-04-08,10:33,lunch,Granola bar hard chocolate chip,1,105,2,17,4
+2026-04-08,12:04,snack,Mango Dried Kirkland,0.5 cup,140,1,34,0
+2026-04-08,12:04,snack,ALLMAX ISO WHEY - Strawberry,1,120,27,3,0.5
+2026-04-08,14:51,lunch,Cilantro Lime Crispy Chicken Loaded Bowl,1 bowl,690,25,72,35
+2026-04-08,14:51,lunch,Coffee brewed,250 mL,3,tr,0,tr
+2026-04-08,18:00,dinner,Ground medium crumbled pan-fried,75 g,214,22,0,6
+2026-04-08,18:00,dinner,Lettuce iceberg shredded,250 mL,8,1,2,tr
+2026-04-08,18:00,dinner,Mozzarella (22.5% M.F.),50 g,141,10,1,6.8
+2026-04-08,21:00,snack,PC Greek Yogurt 0% Plain,0.50 cup,60,12,4,0
+2026-04-08,21:00,snack,North Coast Naturals ISO Protein 100 - chocolate,1 scoop,120,24,2,1.5
+2026-04-08,21:00,snack,Blueberries frozen unsweetened,125 mL,42,tr,10,1
+2026-04-09,09:01,breakfast,Strawberries frozen unsweetened,125 mL,41,1,11,tr
+2026-04-09,09:01,breakfast,Blueberries frozen unsweetened,125 mL,42,tr,10,1
+2026-04-09,09:03,breakfast,Silk Original Almond Milk,1 cup,60,1,8,2.5
+2026-04-09,09:04,breakfast,Honey,5 mL,22,tr,6,0
+2026-04-09,09:04,breakfast,Peanut butter natural,30 mL,184,7,7,16
+2026-04-09,09:04,breakfast,Egg fried,2 large,173,12,2,5.8
+2026-04-09,09:04,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-04-09,12:15,lunch,Tortilla wheat (20 cm diam),1,159,4,27,3
+2026-04-09,12:15,lunch,Hummus commercial,60 mL,94,4,8,5
+2026-04-09,12:15,lunch,Mayonnaise,15 mL,100,tr,1,2.7
+2026-04-09,12:15,lunch,Tuna light canned in water drained salted,75 g,87,19,0,0.3
+2026-04-09,12:15,lunch,Mushrooms raw,3 medium,12,2,2,tr
+2026-04-09,12:15,lunch,Spinach chopped raw,250 mL,7,1,1,tr
+2026-04-09,12:15,lunch,Pepper sweet red raw,0.5,15,1,4,tr
+2026-04-09,12:15,lunch,Rice white long-grain cooked,125 mL,109,2,24,tr
+2026-04-09,12:25,lunch,Beans black canned not drained,175 mL,162,11,29,1
+2026-04-09,18:25,dinner,Shepherd's pie,250 mL,389,17,40,17
+2026-04-09,18:25,dinner,Beer high alcohol (7%alcohol by volume),1 bottle,183,1,10,0
+2026-04-09,21:46,snack,Beer light (4% alcohol by volume),1 bottle,99,1,5,0
+2026-04-09,22:50,snack,Silk Original Almond Milk,1 cup,60,1,8,2.5
+2026-04-09,22:50,snack,North Coast Naturals ISO Protein 100 - chocolate,1 scoop,120,24,2,1.5
+2026-04-09,22:51,snack,PC Greek Yogurt 0% Plain,0.50 cup,60,12,4,0
+2026-04-09,22:51,snack,Blueberries frozen unsweetened,125 mL,42,tr,10,1
+2026-04-10,10:35,breakfast,Oatmeal large flakes/quick,175 mL,99,4,17,2
+2026-04-10,10:36,breakfast,Peanut butter chunk type fat sugar and salt added,30 mL,191,8,7,16
+2026-04-10,10:36,breakfast,Coffee brewed,250 mL,3,tr,0,tr
+2026-04-10,10:36,breakfast,Eggs scrambled made with 2 eggs,2 eggs,189,13,4,5.9
