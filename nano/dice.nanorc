@@ -1,0 +1,20 @@
+# DICEBABY COLORS
+# ===============
+
+#â€˘ = nope
+#¶ = today
+#X = yup
+#. = day
+#- = leave
+
+
+syntax "dice" "\.dice$"
+comment "#"
+
+color lightblue "^#.*"
+color green "\."
+color red "â€˘" "o"
+color brightmagenta "\-"
+color yellow "\¶" "\$"
+color lightgreen "\X"
+color lightblue "[A-WY-Z0-9]+"
