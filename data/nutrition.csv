@@ -1,0 +1,1203 @@
+Food Name,Measure,Weight (g),Energy (kcal),Energy (kJ),Protein (g),Carbohydrate (g),Total Sugar (g),Total Dietary Fibre (g),Total Fat (g),Saturated Fat (g),Cholesterol (mg),Calcium (mg),Iron (mg),Sodium (mg),Potassium (mg),Magnesium (mg),Phosphorus (mg),Vitamin A (RAE),Folate (DFE),Vitamin C (mg),Vitamin B12 (mcg)
+#Supplements
+ALLMAX ISO WHEY - Strawberry,1,30,120,502,27,3,0,0,0.5,0,0,120,0,60,160,0,0,0,0,2,0
+North Coast Naturals ISO Protein 100 - chocolate,1 scoop,30,120,502,24,2,1,1,1.5,0.5,10,220,0.6,30,100,25,60,tr,tr,tr,tr
+#Fast Food Side Dishes
+Milk shake chocolate,250 mL,175,223,931,6,36,33,3.3,6,4.1,23,198,0.5,170,351,30,179,46,9,1,0.6
+Milk shake vanilla,250 mL,175,195,814,6,31,31,0.2,5,3.3,19,214,0.2,144,305,21,179,65,9,1,0.63
+French fries,20-25 fries,76,236,989,3,29,N/A,2.5,12,5,11,12,1,124,541,25,101,2,25,4,0.09
+Garlic bread,2 slices,52,192,801,5,26,tr,1.5,8,1.3,0,40,1.3,384,65,14,56,74,97,tr,0.01
+Onion rings breaded and fried,9,83,276,1152,4,31,N/A,1.7,16,7,14,73,0.8,430,129,16,86,1,85,1,0.12
+Zucchini breaded and fried sticks,4,36,60,250,1,3,1,0.3,5,0.5,5,18,0.2,44,81,6,36,8,9,3,0.05
+#Fast Food Sandwiches
+Breakfast bagel with ham egg and cheese,1,191,483,2019,27,52,7,0.4,18,7.8,243,185,4.1,1259,262,40,397,181,172,0,1.39
+Breakfast biscuit with egg cheese and bacon,1,144,477,1993,16,33,3,1.1,31,11.4,261,164,2.5,1260,230,20,459,N/A,64,2,1.05
+Breakfast English muffin with egg cheese and bacon,1,137,289,1208,17,27,3,1.5,13,4.7,234,151,2.4,729,199,23,270,177,86,2,0.67
+Cheeseburger double patty + condiments + vegetables,1,228,650,2718,30,53,N/A,1.8,35,12.8,93,169,4.7,921,390,36,349,N/A,131,3,2.07
+Cheeseburger single patty ,1,102,319,1335,15,32,6,1.3,15,6.5,50,141,2.4,500,164,21,196,N/A,N/A,0,0.97
+Chicken sandwich breaded chicken + condiments + vegetables,1,228,632,2640,29,42,N/A,2.2,39,12.4,78,258,3.6,1238,333,43,406,164,154,3,0.46
+Chicken sandwich grilled chicken + condiments + vegetables,1,169,335,1402,33,23,3,1.2,12,2.2,78,70,2.1,330,449,37,36,23,83,2,0.41
+Donair / Gyro,1,195,310,1295,22,37,3,2,7,2.8,49,98,3.1,361,404,40,223,22,115,6,1.82
+Fish sandwich with breaded fish,1,183,523,2189,21,48,N/A,2.4,29,8.1,68,185,3.5,939,353,37,311,N/A,134,3,1.08
+Hamburger double patty + condiments,1,215,576,2410,32,39,N/A,1.9,32,12,103,92,5.5,742,527,45,284,N/A,111,1,3.33
+Hamburger single patty plain,1,90,275,1148,12,31,5,1.3,12,4.1,35,63,2.4,387,145,19,103,0,N/A,0,0.89
+Submarine sandwich (6 inches) vegetarian,1,167,216,904,7,38,3,3.4,4,0.8,0,77,2.7,529,236,27,88,25,213,20,0
+Submarine sandwich (6 inches) with cold cuts,1,228,456,1906,22,51,N/A,3,19,6.8,36,189,2.5,1651,394,68,287,71,109,12,1.09
+Submarine sandwich (6 inches) with grilled/roasted chicken,1,229,417,1742,24,44,3,3.3,16,2.8,47,81,3,722,437,44,104,37,255,12,0.2
+Submarine sandwich (6 inches) with tuna,1,256,584,2440,30,55,N/A,2.9,28,5.3,49,74,2.6,1293,335,79,220,46,135,4,1.61
+Veggie burger single patty + condiments + vegetables,1,157,359,1504,19,28,4,4.5,19,2.9,5,86,3.1,671,233,25,278,22,135,3,1.8
+Wrap sandwich chicken ranch,1,249,532,2227,32,44,3,3.5,25,6.7,77,134,3.3,847,544,50,235,50,146,12,0.47
+#Tim Horton's Fast Food
+Tim Hortons Chili – Regular,1 serving,425,410,1716,23,40,9,9,20,9,55,0,0,1060,1650,0,0,0,0,0,0
+Timbit,1,20,70,293,1,10,4,0.3,3,1.5,5,20,0.5,65,30,3,30,5,15,0,.05
+Cilantro Lime Crispy Chicken Loaded Bowl,1 bowl,88,690,2886.96,25,72,5,6,35,8,40,tr,tr,1200,tr,tr,tr,tr,tr,tr,tr
+#Chinese
+Beef and broccoli stir fry,250 mL,229,266,1111,24,9,1,2.2,15,3.5,58,48,2.8,433,473,35,189,90,104,59,2
+Chicken almond guy ding,250 mL,256,295,1232,22,18,3,2.6,15,1.6,42,58,1.7,510,591,61,123,14,27,7,0.29
+Chicken chow mein,250 mL,232,200,837,21,10,7,2.2,9,1.6,51,38,1.7,982,423,35,191,17,50,8,0.26
+Chicken fried rice,250 mL,209,343,1436,12,44,1,1.3,13,1.8,99,36,1.3,797,169,28,139,59,30,4,0.42
+Egg roll,1,64,113,472,5,9,1,0.7,6,1.2,35,14,0.8,249,121,9,53,17,27,2,0.19
+General Tao/Tso chicken,250 mL,258,806,3371,50,8,3,0.6,62,11,163,39,2.2,1285,476,47,340,38,13,11,0.56
+Hot and sour soup,250 mL,258,167,697,17,5,1,0.5,8,2.8,36,45,1.8,1596,383,20,192,2,12,1,0.45
+Sweet and sour chicken balls,3,75,199,831,9,17,7,0.5,10,2.7,46,24,1,390,90,13,23,18,19,1,0.17
+Won ton soup,250 mL,255,191,798,15,15,1,1,7,2.4,53,37,1.8,810,339,23,159,74,55,2,0.49
+#Pizza
+Pizza with cheese (medium - 12 inches),1 slice,84,210,880,9,25,2,1.5,8,3.4,14,171,2,515,180,19,161,32,70,4,0.13
+Pizza with cheese and pepperoni (medium - 12 inches),1 slice,85,219,916,11,23,1,1.4,9,4.2,21,187,1.7,340,157,18,182,37,74,2,0.2
+Pizza with cheese and vegetables (medium - 12 inches),1 slice,93,193,809,8,24,3,1.8,7,3,12,154,1.9,482,201,19,147,31,63,11,0.11
+Pizza with cheese meat and vegetables (medium - 12 inches),1 slice,105,250,1044,11,24,3,1.9,12,4.8,24,159,2.1,629,237,21,168,31,65,11,0.24
+#Other Fast food
+Chicken breaded and fried (pieces),2 pieces,98,283,1184,22,9,0,0.3,17,4.6,85,20,1.3,286,181,20,151,0,N/A,0,0.27
+Chicken breaded and fried boneless (nuggets),6,96,285,1192,15,16,1,0.9,18,3.9,53,13,0.8,551,251,24,277,5,14,1,0.32
+Chili con carne,250 mL,267,270,1128,26,23,N/A,4.9,9,3.6,142,72,5.5,1064,730,48,209,88,59,2,1.2
+Corndog (Pogo),1,75,197,825,7,24,N/A,1.1,8,2.2,34,44,2.6,417,113,8,71,16,57,0,0.19
+Hot-dog plain,1,98,242,1012,10,18,N/A,0.9,15,5.1,44,24,2.3,670,143,13,97,0,61,tr,0.51
+#Other Grain Products Flour
+Chickpea flour,125 mL,49,188,786,11,28,5,5.2,3,0.3,0,22,2.4,31,411,81,155,0.2,0.05,2.9,212
+Cornmeal dry,125 mL,73,267,1116,6,57,1,5.4,1,0.2,0,4,0.8,2,118,29,61,0.1,0.04,1.9,35
+Oat bran dry,125 mL,50,122,511,9,33,1,5.2,3,0.7,0,29,2.7,2,281,117,365,0.6,0.11,3.2,26
+Oat flour,125 mL,53,200,838,7,35,1,5.3,4,0.7,0,27,2.2,2,199,78,226,0.3,0.08,1.8,15
+Potato flour,125 mL,85,302,1262,6,70,3,0.1,tr,0.1,0,55,1.2,46,846,55,142,0.2,0.04,4.6,21
+Rice flour,125 mL,83,305,1278,5,67,tr,2,1,0.3,0,8,0.3,0,63,29,82,0.1,0.02,3.2,3
+Rye flour light,125 mL,54,198,827,5,43,1,7.9,1,0.1,0,11,1,1,126,38,105,0.2,0.05,1.3,12
+Soy flour,125 mL,53,174,729,25,20,11,9.2,1,0.1,0,127,4.9,11,1259,153,356,0.4,0.13,7.4,161
+Wheat bran,15 mL,4,8,33,1,2,tr,1.6,tr,tr,0,3,0.4,tr,43,22,37,tr,0.02,0.7,3
+Wheat flour all purpose,125 mL,66,240,1005,7,50,tr,2,1,0.1,0,10,3.1,1,71,15,71,0.5,0.33,5.3,192
+Wheat flour bread,125 mL,72,261,1093,9,52,tr,1.7,1,0.2,0,11,3.2,1,72,18,70,0.6,0.37,7.1,208
+Wheat flour cake,125 mL,72,262,1096,6,56,tr,1.2,1,0.1,0,10,5.3,1,76,12,62,0.6,0.31,6.3,204
+Wheat flour whole grain,125 mL,63,215,899,9,46,tr,7.7,1,0.2,0,22,2.5,3,257,87,219,0.3,0.14,6.3,28
+Wheat germ toasted,15 mL,7,27,114,2,4,1,1.1,1,0.1,0,3,0.7,tr,68,23,82,0.1,0.06,0.9,25
+#Breads and Buns
+Bagel plain (10 cm diam),1,71,195,817,7,38,4,1.6,1,0.2,0,53,2.5,379,72,21,68,0.4,0.22,4.7,117
+Bannock, 1 medium,37,84,353,2,19,N/A,0.5,tr,0,1,84,0.7,N/A,N/A,N/A,60,0.1,0.06,1.4,N/A
+Bread French or Vienna,1 slice,35,96,401,3,18,tr,1.1,1,0.2,0,26,0.9,213,40,9,37,0.2,0.12,2.3,80
+Bread Italian,1 slice,35,95,397,3,18,tr,0.9,1,0.3,0,27,1,204,39,9,36,0.2,0.1,2.1,106
+Bread mixed-grain,1 slice,35,88,366,4,16,4,2.2,1,0.3,0,32,1.2,170,71,19,62,0.1,0.12,2.3,58
+Bread naan,0.5,63,192,803,7,36,2,1.4,2,0.8,3,78,2.3,208,115,16,89,0.3,0.33,5.6,115
+Bread oatmeal,1 slice,35,94,394,3,17,3,1.4,2,0.2,0,23,0.9,210,50,13,44,0.1,0.08,1.8,30
+Bread pita  white (17 cm diam),1,60,165,690,5,33,1,1.3,1,0.1,0,52,1.6,322,72,16,58,0.4,0.2,3.8,99
+Bread pita  whole wheat (17 cm diam),1,64,170,712,6,35,1,4.7,2,0.3,0,10,2,340,109,44,115,0.2,0.05,3.4,22
+Bread pumpernickel,1 slice,35,88,366,3,17,tr,2.3,1,0.2,0,24,1,235,73,19,62,0.1,0.11,1.6,47
+Bread raisin,1 slice,35,96,401,3,18,2,1.5,2,0.4,0,23,1,137,79,9,38,0.1,0.14,1.7,55
+Bread rye,1 slice,35,91,379,3,17,1,2,1,0.2,0,26,1,231,58,14,44,0.2,0.12,1.9,53
+Bread white Calorie-reduced,1 slice,35,72,303,3,16,2,3.4,1,0.2,0,33,1.1,159,27,8,42,0.1,0.1,1.9,48
+Bread white commercial,1 slice,35,93,389,3,18,2,0.8,1,0.3,0,53,1.3,238,35,8,35,0.2,0.12,2.1,60
+Bread white homemade with 2% milk,1 slice,35,100,417,3,17, ,0.7,2,0.4,1,20,1,126,51,7,40,0.1,0.13,1.8,44
+Bread whole wheat commercial,1 slice,35,86,360,3,16,7,2.4,1,0.3,0,25,1.2,184,88,30,80,0.1,0.07,2.2,18
+Bread whole wheat homemade with 2% milk,1 slice,35,97,407,3,18,1,2.1,2,0.3,0,12,1.1,121,110,28,65,0.1,0.08,2.1,27
+English muffin white toasted,1,52,133,554,4,26,2,1.5,1,0.1,0,98,1.4,262,74,11,75,0.2,0.14,2.8,65
+English muffin whole wheat toasted,1,52,126,528,5,25,1,2.6,1,0.2,0,100,1.6,216,105,22,65,0.2,0.15,2.8,41
+Fry bread,1,37,122,511,2,18,1,1,5,1.7,3,21,1.5,122,28,7,46,0.2,0.08,2.2,73
+Roll crusty (kaiser),1,57,167,698,6,30,1,1.3,2,0.3,0,54,1.9,310,62,15,57,0.3,0.19,3.5,86
+Roll dinner white,1,28,85,356,2,14,2,0.9,2,0.5,tr,34,0.9,148,38,7,33,0.1,0.09,1.6,41
+Roll dinner whole wheat,1,28,75,315,2,14,2,2.1,1,0.2,0,30,0.7,136,77,24,64,0.1,0.04,1.7,9
+Roll hamburger or hotdog white,1,43,120,502,4,21,3,0.9,2,0.5,0,59,1.4,206,40,9,27,0.2,0.14,2.5,73
+Roll hamburger or hotdog whole wheat,1,43,113,473,4,19,3,1.6,3,0.6,0,41,1.7,197,69,19,52,0.2,0.13,2.8,74
+Sour dough bread,1 slice,60,164,687,5.3,31.1,0.1,1.8,1.8,0.38,0,45,1.52,365,68,14,72,0,27,0,0
+#Other Bread Products
+Bread stick plain (19 cm X 2 cm),1,10,41,172,1,7,tr,0.3,1,0.1,0,2,0.4,66,12,3,12,0.1,0.06,0.8,25
+Bread stuffing dry mix prepared,125 mL,106,188,786,3,23,2,3.1,9,1.8,0,34,1.2,574,78,13,44,0.1,0.11,2.3,56
+Croutons plain,60 mL,8,31,129,1,6,N/A,0.4,1,0.1,0,6,0.3,53,9,2,9,tr,0.02,0.6,16
+Dumpling,1 dumpling,35,69,289,1,8,tr,0.3,4,1,1,23,0.4,138,23,3,22,0.1,0.06,0.8,19
+Matzo plain,1,28,112,468,3,24,tr,0.9,tr,0.1,0,4,0.9,1,32,7,25,0.1,0.08,1.7,5
+Taco shell baked (13 cm diam),1 shell,13,61,254,1,8,tr,1,3,0.4,0,21,0.3,48,23,14,32,tr,0.01,0.3,28
+Tortilla corn (15 cm diam),1,19,41,173,1,8,tr,1.2,1,0.1,0,15,0.2,9,35,14,60,tr,0.01,0.4,1
+Tortilla wheat (20 cm diam),1,49,159,666,4,27,N/A,1.6,3,0.9,0,19,1.6,234,64,13,61,0.3,0.14,2.6,98
+Dempster's Protein Tortilla,1,55,150,628,13,19,2,4,3.5,1,0,100,2.5,260,175,35,125,0,90,0,0
+#Pancakes Waffles and French Toast
+French toast frozen ready to heat heated,1 slice,59,126,526,4,19,N/A,0.6,4,0.9,48,63,1.3,292,79,10,82,0.2,0.22,2.5,42
+French toast homemade,1 slice,65,149,623,5,16,N/A,0.7,7,1.8,75,65,1.1,311,87,11,76,0.1,0.21,2.1,37
+Pancake buckwheat prepared from mix (13 cm diam),1,40,73,305,3,10,2,1.1,3,0.6,20,89,0.7,191,80,27,143,0.1,0.09,1.2,9
+Pancake homemade with butter and syrup (13 cm diam),1,50,112,468,3,20,2,0.8,3,1,11,85,0.5,211,78,9,118,0.1,0.11,1.1,23
+Pancake plain from complete mix (13 cm diam),1,40,64,266,1,11,N/A,0.4,2,0.2,3,36,0.4,180,50,6,96,0.1,0.06,0.8,15
+Pancake plain frozen ready-to-heat (13 cm diam) heated,1,41,94,393,2,18,4,0.7,1,0.3,4,25,1.4,209,30,6,153,0.2,0.19,2.1,27
+Pancake plain homemade (13 cm diam),1,38,86,361,2,11,N/A,0.5,4,0.8,22,83,0.7,167,50,6,60,0.1,0.11,1.1,21
+Potato pancake homemade (8 cm diam),1,37,112,467,2,13,1,1,6,0.6,23,12,0.7,191,277,16,46,0.1,0.06,1.4,15
+Waffle homemade,1,37,103,432,3,14,2,0.5,4,0.7,33,44,0.9,146,58,7,53,0.1,0.15,1.7,37
+Waffle plain frozen ready-to-heat heated,1,33,87,364,2,13,2,0.8,3,0.5,8,77,1.5,260,42,7,139,0.1,0.16,1.9,22
+#Rice Pasta and Other Grains
+Barley pearled cooked,125 mL,83,102,426,2,23,tr,2,tr,0.1,0,9,1.1,2,77,18,45,0.1,0.05,2.2,13
+Bulgur cooked,125 mL,96,80,334,3,18,tr,2.7,tr,tr,0,10,0.9,5,65,31,38,0.1,0.03,1.7,17
+Couscous cooked,125 mL,83,93,388,3,19,tr,0.7,tr,tr,0,7,0.3,4,48,7,18,0.1,0.02,1.5,12
+Quinoa cooked,125 mL,73,70,293,2,13,N/A,1.3,1,0.1,0,11,1.7,4,138,39,77,tr,0.07,1,9
+Macaroni cooked,250 mL,148,209,873,7,42,1,1.8,1,0.1,0,10,2.1,1,46,27,80,0.3,0.14,4,184
+Noodles Chinese chow mein,60 mL,11,60,252,1,7,tr,0.4,4,0.5,0,2,0.5,50,14,6,18,0.1,0.05,0.9,16
+Noodles egg cooked,250 mL,169,225,940,8,42,1,1.9,2,0.5,56,20,2.7,12,47,32,117,0.3,0.14,4.3,176
+Pasta fresh-refrigerated cooked,250 mL,169,220,920,9,40,N/A,3.7,3,0.7,69,17,2,140,36,24,88,0.3,0.29,4,101
+Pasta fresh-refrigerated spinach cooked,250 mL,169,223,933,9,41,1,2.2,3,0.6,56,32,1.8,20,63,41,96,0.4,0.21,4.4,159
+Ramen noodles chicken flavour dry,1 package,85,371,1554,9,54,1,2,13,6,N/A,23,3.3,1760,147,19,100,0.5,0.21,3.8,150
+Rice noodles cooked,250 mL,186,203,848,2,46,N/A,1.9,tr,tr,0,7,0.3,35,7,6,37,tr,0.01,0.5,6
+Rice brown long-grain cooked,125 mL,103,115,479,3,24,tr,1.5,1,0.2,0,10,0.4,5,44,44,86,0.1,0.03,2.1,4
+Rice white long-grain cooked,125 mL,83,109,454,2,24,tr,0.4,tr,0.1,0,8,0.2,1,29,10,36,tr,0.01,0.8,3
+Rice white long-grain instant prepared,125 mL,87,85,357,2,19,0,0.5,tr,tr,0,7,0.2,3,3,4,12,tr,0.04,0.9,7
+Rice white long-grain parboiled cooked,125 mL,92,105,441,2,23,tr,0.4,tr,0.1,0,18,0.2,3,34,11,39,tr,0.02,1.7,4
+Rice wild cooked,125 mL,87,88,366,3,18,1,1.6,tr,tr,0,3,0.5,3,88,28,71,tr,0.08,1.8,23
+Soba noodles cooked,250 mL,120,119,499,6,26,N/A,N/A,tr,tr,0,5,0.6,72,42,11,30,0.1,0.03,2.1,8
+Spaghetti cooked,250 mL,148,209,873,7,42,1,2.5,1,0.1,0,10,2.1,1,46,27,80,0.3,0.14,4,184
+Spaghetti whole wheat cooked,250 mL,148,183,768,8,39,1,4.8,1,0.1,0,22,1.6,4,65,44,132,0.2,0.07,2.7,7
+#Breakfast Cereals
+Cream of wheat regular,175 mL,186,46,195,2,9,tr,0.7,tr,0,0,2,1.6,tr,15,2,17,tr,0.01,0.4,N/A
+Oat bran cooked,175 mL,179,73,306,3,12,tr,3.4,1,0.3,0,17,1.3,1,120,N/A,127,0.2,0.06,0.9,9
+Oatmeal instant apple-cinnamon,1 packet,186,141,592,3,29,12,2.8,2,0.3,0,21,5,256,108,36,88,0.8,0.03,1.4,50
+Oatmeal instant regular,1 packet,186,112,468,4,20,1,2.7,2,0.4,0,21,4,241,112,45,132,0.6,0.04,1.5,N/A
+Oatmeal large flakes/quick,175 mL,173,99,412,4,17,tr,2.6,2,0.3,0,13,1,1,98,N/A,111,0.2,0.04,0.9,8
+Red River Robin Hood,175 mL,180,115,482,4,24,N/A,4,1,0.1,tr,15,1.3,27,N/A,18,63,0.1,0.02,1.4,19
+All Bran Buds with psyllium Kellogg's,75 mL,27,70,292,2,22,7,11.3,1,N/A,0,17,3.5,181,242,74,242,0.5,0.09,2.5,38
+All Bran Kellogg's,125 mL,35,92,384,4,27,6,11.8,1,N/A,0,30,4.7,305,408,130,350,0.7,0.07,6,50
+Almond Raisin Muslix Kellogg's,175 mL,44,173,722,4,34,13,3,3,N/A,0,24,5.9,140,191,30,86,0.9,0.07,2.1,N/A
+Alpha-Bits Post,250 mL,34,139,580,2,30,14,1.1,1,0.2,0,3,4.5,126,21,24,74,0.7,0,2,41
+Bran Flakes Post,250 mL,53,185,776,5,41,9,7.4,1,0.2,0,24,7,302,253,121,276,1.1,0.08,3.5,64
+Cap'n Crunch Quaker,175 mL,27,108,452,1,23,10,0.7,1,1.1,0,0,3.6,213,30,11,22,0.5,0,1.3,32
+Cheerios Honey Nut General Mills,250 mL,35,134,561,3,28,12,2.1,1,N/A,0,128,4.7,252,99,38,115,0,0.06,1.6,41
+Cheerios regular General Mills,250 mL,24,95,396,3,18,1,2.2,2,N/A,0,44,3.2,219,78,32,105,tr,0.04,1.1,28
+Cinnamon Toast Crunch General Mills,175 mL,28,123,514,1,22,9,1,3,N/A,0,103,3.8,193,41,12,93,0,0.01,1.3,33
+Corn Bran Quaker,250 mL,38,124,520,3,30,8,6.1,2,0.8,0,0,5,349,91,N/A,42,0.8,0.02,1.7,45
+Corn Flakes Kellogg's,250 mL,26,103,430,2,23,2,0.7,tr,0,0,1,3.5,190,28,2,12,0.5,0.71,1.6,32
+Corn Pops Kellogg's,250 mL,33,130,544,1,30,12,0.4,tr,0,0,2,4.4,192,26,3,13,0.7,0.01,1.8,40
+Fibre 1 General Mills,125 mL,30,79,329,3,24,0,14.1,1,0.1,0,110,4.1,130,239,68,188,0.1,0.06,1.4,36
+Froot Loops Kellogg's,250 mL,30,116,485,1,26,14,0.6,1,N/A,0,3,3.9,121,30,7,31,0.6,0.02,1.7,36
+Frosted Flakes Kellogg's,250 mL,37,142,595,2,33,15,0.6,tr,0,0,1,4.9,196,28,2,9,0.7,0.67,2.1,45
+Fruit & Fibre Dates/Raisins/Walnuts Post,125 mL,29,93,389,3,22,7,4.3,1,N/A,0,16,3.9,134,145,55,126,0.6,0.05,1.9,35
+Granola with Raisins low fat Kellogg's,125 mL,59,226,944,5,46,17,3.5,3,N/A,0,24,7.8,147,173,47,135,1.2,0.14,3.7,71
+Granola with Raisins Rogers,125 mL,59,245,1023,5,41,N/A,5.3,8,N/A,0,28,1.9,95,198,N/A,157,0.4,0.06,1.8,N/A
+Grape-Nuts Post,125 mL,58,208,872,6,46,5,6,1,N/A,0,24,2,348,253,59,241,0.2,0.09,4.5,68
+Harvest Crunch regular Quaker,125 mL,47,218,911,5,31,12,3.3,9,6.7,1,51,1.1,45,226,N/A,N/A,0.1,0.07,1.5,14
+Honeycomb Post,250 mL,23,92,384,1,21,8,0.2,tr,N/A,0,8,3.7,93,46,7,36,0.5,tr,1.4,28
+Just Right Kellogg's,250 mL,45,172,720,4,38,10,2.2,1,N/A,0,11,6,250,105,28,93,0.9,0.1,2.9,55
+Life Quaker,175 mL,33,124,518,5,23,7,2.9,2,0.3,0,24,4.3,195,188,10,160,0.6,0.03,1.5,19
+Lucky Charms General Mills,250 mL,34,132,550,2,28,15,1.7,1,N/A,0,124,4.6,227,64,28,87,0,0.02,1.6,40
+Mini-Wheats with White Frosting Kellogg's,175 mL,35,121,505,3,29,3,3.6,1,N/A,0,14,4.7,4,135,31,102,0.7,0.02,2.3,42
+Muesli President's Choice,75 mL,40,144,603,5,28,10,3.5,2,N/A,0,9,1.6,24,228,13,40,0.1,0.1,1.4,N/A
+Nesquik General Mills,250 mL,30,120,502,1,27,14,0.6,1,N/A,0,33,4.1,192,49,8,44,0,0,1.4,36
+Oatmeal Crisp Almond General Mills,125 mL,32,131,546,3,23,8,2.3,3,N/A,0,81,4.3,108,93,34,93,0.6,0.05,1.5,38
+Oatmeal Crisp Maple Walnut General Mills,125 mL,32,133,557,3,25,9,2.3,2,0.3,0,81,4.3,142,101,29,81,0.6,0.05,1.5,38
+Puffed Wheat Quaker,250 mL,13,45,188,2,9,tr,1.4,tr,0.1,0,9,0.5,0,60,18,40,0.1,0.01,1,1
+Raisin Bran Kellogg's,250 mL,59,187,782,5,47,17,6.7,1,N/A,0,22,7.9,367,334,75,189,1.2,0.08,4.5,72
+Reese's Puffs General Mills,175 mL,30,128,533,2,24,13,0.6,3,0.6,0,98,4,178,43,2,11,0,0,1.4,35
+Rice Krispies Kellogg's,250 mL,29,110,458,2,24,3,0.3,tr,0,0,4,3.8,315,31,11,41,0.6,0.01,1.7,30
+Shredded Wheat Post,1 biscuit,25,91,379,3,21,tr,3.5,1,0.1,0,9,1.5,1,92,31,83,0.1,0.06,2.3,11
+Shreddies Post,175 mL,38,138,579,4,32,6,4.4,1,N/A,0,14,5.1,241,143,38,109,0.8,0.01,2.5,N/A
+Special K Kellogg's,250 mL,24,94,392,4,18,2,0.3,tr,N/A,0,tr,3.2,226,34,13,49,0.5,0.03,1.9,29
+Sugar Crisp Post,250 mL,26,103,432,1,24,14,0.8,1,N/A,0,3,0.3,33,1,11,44,0.5,tr,1.5,32
+Trix General Mills,250 mL,30,117,491,1,27,13,1,1,N/A,0,98,4,195,16,2,22,0,0,1.4,35
+Weetabix,2 biscuits,35,130,543,4,29,2,4.4,1,0.1,0,14,1.1,126,141,58,144,0.7,N/A,2.6,13
+PC Blue Menu Granola Boost with Protein,0.75 cup,55,215,900,12,35,13,7,4.5,1.7,3,110,8,100,300,tr,tr,0,tr,0,tr
+#Crackers
+Cheese crackers small,15,15,75,316,2,9,tr,0.4,4,1.4,2,23,0.7,149,22,5,33,0.1,0.06,1,36
+Melba toast plain,2,10,39,163,1,8,tr,0.6,tr,tr,0,9,0.4,83,20,6,20,tr,0.03,0.6,19
+Milk crackers,2,24,109,457,2,17,4,0.5,4,0.6,3,41,0.9,142,27,5,73,0.1,0.1,1.5,34
+Rusk toast,1,10,41,170,1,7,N/A,0.6,1,0.1,0,3,0.3,25,25,4,15,tr,0.04,0.7,10
+Rye wafers plain,2,20,67,279,2,16,tr,4.6,tr,tr,0,8,1.2,159,99,24,67,0.1,0.06,0.7,9
+Saltine (oyster soda soup),4,12,51,215,1,9,tr,0.4,1,0.2,0,8,0.7,129,18,3,12,tr,0.05,0.9,26
+Saltine (oyster soda soup) unsalted top,4,12,52,218,1,9,0,0.4,1,0.4,0,14,0.6,92,15,3,13,0.1,0.06,0.9,23
+Standard-type (snack-type) (Ritz),4,12,60,252,1,7,tr,0.2,3,0.5,0,14,0.4,102,16,3,27,tr,0.04,0.7,17
+Standard-type reduced sodium (Ritz),4,12,60,252,1,7,tr,0.2,3,0.5,0,14,0.4,45,43,3,27,tr,0.04,0.7,17
+Wheat crackers,4,20,95,396,2,13,1,1.4,3,2,0,10,1,173,60,12,44,0.1,0.07,1.4,37
+Wheat crackers low fat,4,18,79,330,2,12,2,0.9,2,1.2,tr,34,0.7,112,72,13,52,0.1,0.1,1.3,28
+Whole wheat crackers,4,16,71,296,1,11,tr,1.7,3,0.5,0,8,0.5,105,48,16,47,tr,0.02,1.1,4
+#Baked Goods Muffins Biscuit
+Biscuit plain or buttermilk fast food,1,51,186,776,3,25,2,0.7,8,1.3,1,25,1.7,537,114,9,219,0.2,0.15,2.4,58
+Biscuit plain or buttermilk from mix baked,1,30,97,404,2,14,3,0.4,4,1,2,54,0.6,273,55,7,136,0.1,0.11,1.4,31
+Biscuit plain or buttermilk homemade,1,60,212,888,4,27,1,0.9,10,2.6,2,141,1.7,348,73,11,98,0.2,0.19,2.6,57
+Biscuit plain refrigerated dough baked,1,27,93,391,2,13,tr,0.4,4,1,0,5,0.7,325,42,4,104,0.1,0.06,1.2,37
+Croissant butter,1,57,231,968,5,26,6,1.5,12,6.6,38,21,1.2,424,67,9,60,0.2,0.14,2.2,74
+Muffin blueberry from mix prepared,1,54,149,623,3,24,N/A,N/A,5,1.2,32,14,0.6,216,41,6,93,0.1,0.17,1.9,61
+Muffin bran from mix prepared,1,55,159,666,4,27,N/A,N/A,5,1.4,32,18,1.5,271,84,33,189,0.1,0.13,2.9,38
+Muffin bran homemade,1,57,199,833,4,32,13,3.7,8,0.9,23,82,2.3,242,363,80,129,0.1,0.16,3,37
+Muffin carrot commercial,1,113,344,1439,7,49,17,1.9,14,1.6,34,100,2.2,396,208,18,117,0.3,0.31,4.1,90
+Muffin chocolate chip commercial,1,113,366,1530,8,53,16,2.4,14,5.3,37,116,2.9,341,192,34,147,0.3,0.35,4.6,102
+Muffin fruit commercial,1,113,313,1309,6,54,22,2.9,7,1.6,34,64,1.8,505,139,18,223,0.2,0.14,2.5,129
+Muffin fruit homemade,1,57,162,679,4,23,N/A,0.9,6,1.2,21,108,1.3,251,70,9,83,0.2,0.16,2,42
+#Granola Bars and Other Breakfast Bars
+Breakfast bar Oatmeal to Go,1,47,197,825,3,33,10,2.4,5,0.9,tr,17,4.2,202,102,N/A,N/A,0.7,N/A,1.7,N/A
+Cereal bar fruit filled (Nutri-Grain),1,37,135,566,2,26,14,1.2,3,0.5,tr,17,0.6,96,72,3,43,0.1,0.04,0.8,N/A
+Granola bar hard chocolate chip,1,24,105,440,2,17,N/A,1.1,4,2.7,0,18,0.7,83,60,17,49,tr,0.02,0.7,3
+Granola bar hard plain,1,25,118,493,3,16,N/A,1.3,5,0.6,0,15,0.7,74,84,24,69,0.1,0.03,1.1,6
+Granola bar soft chocolate chip graham and marshmallow,1,26,109,454,1,20,6,1,3,0.6,0,6,0.6,90,48,18,53,tr,0.04,0.5,3
+Granola bar soft nuts and raisins,1,28,127,532,2,18,N/A,1.6,6,2.7,tr,24,0.6,71,110,25,67,0.1,0.05,1.2,8
+Granola bar soft peanut butter chocolate coated,1,37,188,788,4,20,N/A,1,12,6.3,4,40,0.5,71,125,25,84,tr,0.08,2,9
+Granola bar soft plain,1,28,124,519,2,19,N/A,1.3,5,2,tr,29,0.7,78,91,21,64,0.1,0.05,0.6,7
+Muffin bar (Hop&Go Sweet Mornings),1,50,178,746,2,30,18,0.6,6,1,20,7,0.8,175,64,7,26,0.1,0.1,1.4,33
+MadeGood chewy cholate chip,1 bar,24,100,418,2,17,6,1,3.5,1,0,20,1,10,70,15,60,50,10,5,0
+#Cookies
+Chocolate chip commercial,2,20,98,409,1,13,7,0.6,5,1.5,N/A,7,0.7,59,30,10,23,tr,0.05,0.7,20
+Chocolate chip homemade,2,32,156,653,2,19,N/A,0.9,9,2.6,10,12,0.8,116,72,18,32,0.1,0.06,0.8,15
+Chocolate chip refrigerated dough baked,2,24,118,494,1,16,N/A,0.4,5,1.9,6,7,0.6,56,48,6,18,tr,0.05,0.7,17
+Chocolate coated marshmallow,2,30,129,541,1,21,14,0.6,4,2.2,tr,6,0.9,46,43,11,29,tr,0.06,0.4,11
+Chocolate sandwich,2,20,93,390,1,14,8,0.6,4,1.8,0,4,2.1,97,37,10,18,tr,0.03,0.8,17
+Coconut macaroons homemade,2,48,194,811,2,35,34,0.9,6,5.4,0,3,0.4,119,75,10,21,tr,0.05,0.4,2
+Fig,2,32,111,466,1,23,15,1.5,2,0.4,0,20,0.9,112,66,9,20,0.1,0.07,0.8,17
+Ginger snaps,2,14,58,244,1,11,3,0.3,1,0.3,0,11,0.9,92,48,7,12,tr,0.04,0.6,20
+Graham crackers plain or honey,2,14,59,248,1,11,4,0.4,1,0.2,0,3,0.5,85,19,4,15,tr,0.04,0.8,9
+Molasses,2,30,129,539,2,22,5,0.3,4,1,0,22,1.9,138,104,16,29,0.1,0.08,1.3,44
+Oatmeal with raisins commercial,2,26,117,489,2,18,6,0.7,5,1.2,0,10,0.7,100,37,9,36,0.1,0.06,1,19
+Oatmeal without raisins homemade,2,30,134,561,2,20,N/A,0.7,5,1.1,11,32,0.8,179,55,13,50,0.1,0.05,0.8,14
+Peanut butter sandwich,2,28,134,560,2,18,10,0.5,6,1.4,0,15,0.7,103,54,14,53,0.1,0.07,1.6,26
+Peanut butter homemade,2,40,190,794,4,24,N/A,1.5,10,1.8,12,16,0.9,207,92,16,46,0.1,0.08,2.1,32
+Shortbread commercial plain,2,16,80,336,1,10,2,0.3,4,1,3,6,0.4,73,16,3,17,0.1,0.05,0.8,18
+Shortbread homemade,2,33,185,773,2,19,7,0.5,12,7.3,31,6,0.7,130,20,4,20,0.1,0.08,1.3,32
+Animal crackers (arrowroot social tea),2,10,45,187,1,7,1,0.2,1,0.3,0,4,0.3,39,10,2,11,tr,0.03,0.5,17
+Sugar cookies commercial,2,30,143,600,2,20,11,0.2,6,1.6,15,6,0.6,107,19,4,24,0.1,0.06,1.2,25
+Sugar cookies homemade,2,32,142,592,2,25,16,0.4,4,1.1,8,18,0.6,72,23,3,23,0.1,0.07,1,24
+Vanilla wafers,2,12,57,237,1,9,N/A,0.2,2,0.6,0,3,0.3,37,13,1,8,tr,0.03,0.5,8
+#Cakes
+Angelfood commercial (25 cm diam),0.8,28,73,306,2,16,N/A,0.4,tr,tr,0,40,0.1,212,26,3,9,tr,0.14,0.6,16
+Angelfood from mix (25 cm diam),0.8,50,129,538,3,29,15,0.1,tr,tr,0,42,0.1,255,68,4,116,tr,0.1,0.7,14
+Banana bread homemade (11 cm X 6 cm X 1 cm),1 slice,60,196,818,3,33,N/A,0.7,6,1.3,26,13,0.8,181,80,8,35,0.1,0.12,1.4,29
+Boston cream pie commercial,0.17,92,232,970,2,39,33,1.3,8,2.2,34,21,0.3,132,36,6,45,0.4,0.25,0.7,17
+Brownies commercial (5 cm X 5 cm),1 square,34,138,576,2,22,12,0.7,6,1.4,6,10,0.8,106,51,11,34,0,0.07,0.9,24
+Brownies homemade (5 cm X 5 cm),1 square,36,168,702,2,18,N/A,0.8,10,2.6,26,21,0.7,123,63,19,48,0.1,0.07,0.8,14
+Carrot homemade with cream cheese icing (2 layer 23 cm diam),0.8,133,542,2266,5,70,52,1.5,28,3.8,73,49,1.6,201,131,10,70,0.2,0.22,2.7,57
+Cheesecake commercial (15 cm diam),0.17,100,321,1342,6,26,N/A,0.4,23,9.9,55,51,0.6,207,90,11,93,tr,0.19,1.3,20
+Cheesecake from mix no-bake type (20 cm diam),0.125,149,407,1702,8,53,N/A,2.8,19,9.9,43,255,0.7,564,313,28,347,0.2,0.39,2.4,57
+Cheesecake plain homemade with cherry topping (20 cm diam),0.125,168,459,1920,11,55,45,0.8,23,8.8,75,65,1.6,496,146,12,124,tr,0.24,2.8,23
+Chocolate from mix with icing (23 cm diam),0.8,109,362,1513,4,61,47,2,13,1.9,43,63,1.6,396,177,27,141,0.1,0.13,1.9,26
+Chocolate frozen commercial with chocolate icing (1 layer 5 cm X 20 cm diam),0.17,85,282,1180,3,48,37,2,10,1,33,49,1,309,138,21,110,N/A,N/A,1,20
+Chocolate homemade with icing (2 layer 23 cm diam),0.8,109,408,1706,4,67,52,1.9,16,5,28,66,2.5,253,138,34,91,0.1,0.15,2,36
+Coffee cake cinnamon with crumb topping commercial,0.1,57,237,991,4,26,N/A,1.1,13,3.3,18,31,1.1,199,70,12,61,0.1,0.13,1.7,46
+Coffee cake cinnamon with crumb topping from mix (20 cm X 15 cm),0.1,45,142,596,2,24,13,0.5,4,0.8,22,61,0.6,189,50,8,96,0.1,0.08,1.2,33
+Fruitcake commercial,1 piece,43,139,583,1,26,13,1.6,4,0.5,2,14,0.9,116,66,7,22,tr,0.04,0.6,14
+Gingerbread from mix (23 cm X 23 cm),0.11,69,212,889,3,35,22,0.8,7,1.8,22,47,2.3,315,166,11,113,0.1,0.13,1.9,28
+Pound cake homemade (23 cm X 13 cm X 7.5 cm),0.1,91,391,1633,5,42,22,0.4,23,4.1,96,22,2.1,368,66,7,59,0.2,0.23,3,62
+Shortcake biscuit-type homemade (4 cm X 7.5 cm diam),1,75,234,978,5,34,8,1,8,2.4,28,106,1.7,459,96,12,100,0.2,0.24,3.1,72
+Sponge commercial individual shell,1,25,72,302,1,15,9,0.1,1,0.2,26,18,0.7,61,25,3,34,0,0.07,0.8,18
+Sponge homemade (25 cm diam),0.8,63,187,782,5,36,N/A,0.2,3,0.8,107,26,1,144,89,6,63,0.1,0.19,1.7,33
+White from mix with icing (2 layer 23 cm diam),0.8,109,363,1518,3,66,51,0.9,10,1.6,N/A,41,0.9,342,76,15,138,0.1,0.12,1.9,47
+White homemade with icing (2 layer 23 cm diam),0.8,109,371,1553,3,70,56,0.3,9,2.5,1,50,1.3,205,55,5,41,0.1,0.14,1.9,33
+White frozen commercial with icing (1 layer 5 cm X 20 cm diam),0.17,85,283,1184,2,52,40,1,8,1,0,32,1,266,59,12,108,N/A,N/A,1,37
+Yellow from mix with icing (2 layer 23 cm diam),0.8,109,363,1519,4,64,47,0.9,11,2,46,60,1.1,338,74,15,137,0.1,0.14,2,57
+#Pies
+Apple commercial 2 crust (23 cm diam),0.125,125,296,1239,2,43,20,2,14,4.7,0,14,0.6,333,81,9,30,tr,0.03,0.9,54
+Apple homemade 2 crust (23 cm diam),0.125,155,411,1717,4,58,N/A,2.3,19,4.7,0,11,1.7,327,122,11,43,0.2,0.17,2.7,59
+Banana cream from mix no-bake type (23 cm diam),0.125,92,231,966,3,29,N/A,0.6,12,6.4,27,67,0.4,267,104,11,154,0.1,0.13,1.4,28
+Butter tart,1,54,248,1038,2,29,15,0.7,14,5.6,30,22,1.1,164,109,10,35,0.1,0.1,1.5,35
+Cherry commercial 2 crust (23 cm diam),0.125,125,325,1359,3,50,18,1,14,3.2,0,15,2,308,101,10,36,0.2,0.16,2.5,50
+Chocolate cream commercial (20 cm diam),0.17,113,344,1436,3,38,N/A,2.3,22,5.6,6,41,1.2,154,144,24,77,tr,0.12,1.4,19
+Coconut cream commercial (20 cm diam),0.17,64,191,797,1,24,23,0.8,11,4.5,0,19,0.5,163,42,13,54,tr,0.05,0.4,5
+Fried pie fruit (13 cm X 10 cm),1,128,404,1692,4,55,27,3.3,21,3.1,0,28,1.6,479,83,13,55,0.2,0.14,2.7,36
+Lemon meringue commercial (20 cm diam),0.17,113,303,1267,2,53,27,1.4,10,2,51,63,0.7,165,101,17,119,0.1,0.24,1.1,40
+Mincemeat pie homemade 2 crust (23 cm diam),0.125,165,477,1995,4,79,47,4.3,18,4.4,0,36,2.5,419,335,23,69,0.2,0.17,2.7,59
+Pecan commercial (20 cm diam),0.17,113,452,1890,5,65,32,4,21,4,36,19,1.2,479,84,20,87,0.1,0.14,1.5,61
+Pumpki commercial (20 cm diam),0.17,109,229,957,4,30,15,2.9,10,1.9,22,65,1.5,307,168,16,77,0.2,0.22,1.9,35
+Sugar pie homemade 1 crust,0.125,88,407,1703,3,31,18,0.5,31,17.3,84,61,1.1,81,139,13,59,0.1,0.15,1.6,34
+#Other Baked Goods
+Apple crisp homemade,125 mL,128,206,863,2,39,25,1.8,4,0.9,0,45,1,449,100,10,36,0.1,0.1,N/A,31
+Bread pudding with raisins homemade,125 mL,106,162,677,6,24,15,0.9,5,1.8,61,124,1.2,252,228,18,111,0.1,0.26,2.1,31
+Danish pastry cinnamon (11 cm diam),1,65,262,1095,5,29,13,0.8,15,3.7,14,46,1.3,241,81,12,70,0.2,0.17,2.8,60
+Danish pastry fruit (11 cm diam),1,71,263,1102,4,34,20,1.3,13,3.5,81,33,1.3,251,59,11,63,0.2,0.16,2.2,49
+Date squares homemade,1 square,61,226,944,3,37,N/A,2.3,8,4.7,20,21,2,241,154,23,61,0.2,0.08,1.7,31
+Doughnut cake-type plain (8 cm diam),1,47,198,828,2,23,11,0.7,11,1.7,17,21,0.9,257,60,9,126,0.1,0.11,1.4,39
+Doughnut cake-type plain chocolate coated (9 cm diam),1,57,270,1130,3,27,13,1.1,18,4.6,35,20,1.4,245,112,23,115,0.1,0.06,1.4,39
+Doughnut yeast-leavened honey bun glazed (9 cm x 6 cm),1,60,242,1011,4,27,14,0.7,14,3.5,4,26,1.2,205,65,13,56,0.2,0.13,2.5,41
+Doughnut yeast-leavened jelly filled (9 cm X 6 cm),1,85,289,1209,5,33,18,0.8,16,4.1,22,21,1.5,249,67,17,72,0.3,0.12,2.8,88
+Eclairs custard filled chocolate glaze,1,100,262,1096,6,24,7,0.6,16,4.1,127,63,1.2,337,117,15,107,0.1,0.27,2.1,63
+Rice Krispies Squares commercial,1 square,22,91,381,1,18,N/A,0.1,2,0.3,0,1,0.3,77,9,3,9,0.3,0.3,3.7,38
+Toaster pastries (Pop-Tarts) brown sugar & cinnamon,1,50,206,862,3,34,N/A,0.5,7,1.8,0,17,2,212,57,12,67,0.2,0.29,2.8,21
+Toaster pastries (Pop-Tarts) fruit frosted,1,55,215,900,2,39,20,0.4,6,1.5,0,16,3.9,387,81,13,75,0.2,0.2,N/A,39
+#Vegetables
+Alfalfa sprouts raw,60 mL,8,2,10,tr,tr,tr,0.2,tr,3,0.1,1,7,2,6,1,7,0,3,1,0
+Artichoke hearts canned in water,1 heart,27,13,56,1,3,tr,1,tr,12,0.3,74,95,16,23,2,28,0,14,3,0
+Artichoke hearts marinated in oil,1 heart,28,27,111,1,3,tr,1,2,12,0.3,79,93,16,23,2,28,0,13,3,0
+Artichoke boiled drained,1 medium,120,60,251,4,13,1,4.7,tr,54,1.5,114,425,72,103,11,127,0,61,12,0
+Asparagus canned drained,6 spears,108,21,85,2,3,1,1.5,1,17,2,310,186,11,46,44,532,26,104,20,0
+Asparagus fresh or frozen boiled drained,6 spears,90,18,75,2,3,1,1.6,tr,18,0.7,8,178,11,46,41,489,24,128,14,0
+Bean sprouts stir-fried,125 mL,66,33,137,3,7,N/A,1.2,tr,9,1.2,6,143,22,52,1,12,N/A,46,10,0
+Beans lima frozen boiled drained,125 mL,95,100,417,6,18,1,4,tr,27,1.9,28,391,53,107,8,95,0,15,6,0
+Beans snap (green yellow Italian) canned drained,125 mL,71,14,60,1,3,1,1.5,tr,19,0.6,187,78,9,14,16,186,0,23,2,0
+Beans snap (green yellow Italian) fresh or frozen boiled drained,125 mL,71,22,94,1,5,1,1.9,tr,33,0.5,4,97,15,21,22,269,0,20,5,0
+Beets pickled sliced not drained,125 mL,120,78,326,1,20,N/A,2.2,tr,13,0.5,317,177,18,20,1,7,N/A,32,3,0
+Beets sliced boiled drained,125 mL,90,40,165,2,9,7,1.8,tr,14,0.7,69,274,21,34,2,19,0,72,3,0
+Beets sliced canned drained,125 mL,90,28,117,1,6,5,1.9,tr,13,1.6,174,133,15,15,1,13,0,27,6,0
+Belgium endive raw,1 endive,53,9,38,tr,2,N/A,1.6,tr,10,0.1,1,112,5,14,1,9,N/A,20,1,0
+Bok Choy Pak-Choi shredded boiled drained,125 mL,90,11,45,1,2,1,0.9,tr,84,0.9,31,333,10,26,190,2289,0,37,23,0
+Broccoli chopped boiled drained,125 mL,82,29,120,2,6,1,2,tr,33,0.6,34,241,17,55,81,973,0,89,53,0
+Broccoli chopped raw,125 mL,46,16,66,1,3,1,1.1,tr,22,0.3,15,147,10,31,15,178,0,29,41,0
+Broccoli frozen spears boiled drained,125 mL,97,27,114,3,5,1,2.3,tr,50,0.6,23,175,19,53,54,645,0,29,39,0
+Brussels sprouts fresh or frozen boiled drained,4 sprouts,84,33,137,3,6,2,3.2,tr,26,0.7,15,255,16,47,36,428,0,68,45,0
+Cabbage green shredded boiled drained,125 mL,79,17,73,1,4,2,1.3,tr,25,0.1,6,77,6,12,6,59,0,16,16,0
+Cabbage green shredded raw,125 mL,37,9,37,1,2,1,0.7,tr,17,0.2,7,91,6,9,3,33,0,16,12,0
+Cabbage napa shredded boiled drained,125 mL,58,7,29,1,1,N/A,N/A,tr,17,0.4,6,50,5,11,7,77,0,25,2,0
+Cabbage red shredded raw,125 mL,37,11,48,1,3,1,0.8,tr,17,0.3,10,90,6,11,21,248,7,7,21,0
+Carrots baby raw,8,80,28,117,1,7,4,1.4,tr,26,0.7,62,190,8,22,552,5113,0,26,7,0
+Carrots fresh or frozen boiled drained,125 mL,77,28,116,1,6,3,1.9,tr,25,0.3,45,165,8,24,652,6333,1,10,2,0
+Carrots raw,1 medium,61,25,104,1,6,3,1.5,tr,20,0.2,42,195,7,21,367,3522,1,12,4,0
+Cauliflower pieces boiled drained,125 mL,66,15,63,1,3,1,1.8,tr,10,0.2,10,93,6,21,1,5,0,29,29,0
+Cauliflower pieces raw,125 mL,53,13,55,1,3,1,0.9,tr,12,0.2,16,160,8,23,1,4,0,30,25,0
+Celery raw,1 stalk,40,6,24,tr,1,1,0.6,tr,16,0.1,32,104,4,10,9,108,0,14,1,0
+Corn sweet canned cream style,125 mL,135,97,407,2,25,4,1.8,1,4,0.5,385,181,23,69,5,41,0,61,6,0
+Corn sweet canned niblets,125 mL,111,88,366,3,22,4,2.3,1,6,0.5,302,206,26,71,4,37,0,54,6,0
+Corn sweet on or off cob fresh or frozen boiled drained,125 mL,87,82,343,3,19,3,2,1,2,0.5,8,209,26,79,7,50,0,35,4,0
+Cucumber peeled raw,4 slices,28,3,14,tr,1,tr,0.2,tr,4,0.1,1,38,3,6,1,9,0,4,1,0
+Edamame,125 mL,82,100,417,9,8,2,4.3,4,52,1.9,5,357,52,138,N/A,N/A,N/A,255,5,0
+Eggplant pieces boiled drained,125 mL,52,18,76,tr,5,2,1.3,tr,3,0.1,1,64,6,8,1,12,0,7,1,0
+Fiddleheads frozen boiled,125 mL,98,33,139,4,6,N/A,0.9,tr,27,1,tr,244,26,78,171,1911,N/A,N/A,22,0
+Fireweed leaves raw,125 mL,12,13,52,1,2,N/A,1.3,tr,52,0.3,4,60,19,13,22,262,N/A,14,tr,0
+Hearts of palm canned,2,66,18,77,2,3,N/A,1.6,tr,38,2.1,281,117,25,43,0,0,N/A,26,5,0
+Kale chopped boiled drained,125 mL,69,19,80,1,4,1,1.4,tr,49,0.6,16,157,12,19,468,5613,0,9,28,0
+Leeks chopped boiled drained,125 mL,55,17,71,tr,4,N/A,0.5,tr,16,0.6,5,48,8,9,1,15,N/A,13,2,0
+Lettuce Boston shredded,250 mL,58,8,31,1,1,1,0.6,tr,20,0.7,3,138,8,19,96,1155,0,42,2,0
+Lettuce iceberg shredded,250 mL,58,8,34,1,2,1,0.7,tr,10,0.2,6,82,4,12,15,174,0,17,2,0
+Lettuce looseleaf shredded,250 mL,59,9,37,1,2,tr,0.8,tr,21,0.5,17,115,8,17,219,2629,0,22,11,0
+Lettuce romaine shredded,250 mL,59,10,42,1,2,1,1.2,tr,20,0.6,5,146,8,18,172,2062,0,80,14,0
+Lettuce spring mix (mesclun),250 mL,58,12,50,1,2,tr,1.1,tr,43,0.7,21,202,19,23,124,1489,0,62,9,0
+Mushrooms pieces canned drained,125 mL,82,21,87,2,4,2,2.3,tr,9,0.7,350,106,12,54,0,0,0,10,1,0
+Mushrooms portobello grilled,125 mL,85,30,124,4,4,0,1.9,1,3,0.5,9,443,13,128,0,0,0,16,0,0
+Mushrooms raw,3 medium,54,12,50,2,2,1,0.6,tr,2,0.3,2,170,5,46,0,0,0,9,1,0.02
+Mushrooms shiitake sliced stir-fried,125 mL,57,27,115,2,4,tr,2.1,tr,1,0.3,3,186,11,63,0,0,0,8,0,0
+Mushrooms white sliced stir-fried,125 mL,57,15,62,2,2,0,1,tr,2,0.1,7,226,6,60,0,0,0,11,0,0
+Onions green (scallion) raw,1 medium,15,5,20,tr,1,tr,0.4,tr,11,0.2,2,41,3,6,8,90,0,10,3,0
+Onions yellow chopped raw,60 mL,41,17,71,tr,4,2,0.6,tr,9,0.1,1,58,4,11,0,tr,0,8,3,0
+Onions yellow chopped sauteed,125 mL,46,61,254,tr,4,2,0.8,5,9,0.1,6,61,4,15,N/A,N/A,N/A,N/A,1,0
+Parsnip sliced boiled drained,125 mL,82,59,245,1,14,4,2.7,tr,30,0.5,8,302,24,57,0,0,0,48,11,0
+Peas green canned drained,125 mL,90,62,260,4,11,4,4,tr,18,0.9,226,155,15,60,24,287,0,40,9,0
+Peas green frozen boiled drained,125 mL,85,66,276,4,12,4,3.7,tr,20,1.3,61,93,19,65,89,1057,0,50,8,0
+Peas snowpeas boiled drained,125 mL,85,36,149,3,6,3,2.4,tr,36,1.7,3,203,22,46,44,505,0,25,40,0
+Peas snowpeas raw,10,34,14,60,1,3,1,0.6,tr,15,0.7,1,68,8,18,18,214,0,14,20,0
+Pepper jalapeno raw,1,14,4,18,tr,1,tr,0.4,tr,1,0.1,tr,30,3,4,6,64,0,7,6,0
+Pepper sweet green raw,0.5,82,16,69,1,4,2,1.2,tr,8,0.3,2,144,8,16,15,171,0,9,66,0
+Pepper sweet green sauteed,125 mL,74,95,396,1,3,2,1.3,9,6,0.2,13,100,6,11,8,101,0,1,132,0
+Pepper sweet red raw,0.5,60,15,65,1,4,2,0.8,tr,4,0.3,1,126,7,15,93,966,183,11,113,0
+Pepper sweet red sauteed,125 mL,74,99,413,1,5,3,1.3,9,5,0.4,16,144,9,17,98,1169,361,1,121,0
+Pepper sweet yellow raw,0.5,93,25,105,1,6,N/A,0.8,tr,10,0.4,2,197,11,22,9,112,N/A,24,171,0
+Pepper sweet yellow sauteed,125 mL,74,36,149,1,5,0,0.6,2,9,0.3,175,153,9,18,30,86,0,19,132,tr
+Potato baked flesh,1,156,145,607,3,34,3,3.4,tr,8,0.5,8,610,39,78,0,0,0,14,20,0
+Potato baked flesh and skin,1,173,161,673,4,37,2,3.8,tr,26,1.9,17,926,48,121,2,10,0,48,17,0
+Potato boiled without skin,1,135,116,486,2,27,1,1.9,tr,11,0.4,7,443,27,54,0,3,0,12,10,0
+Potato boiled flesh and skin,1,150,129,540,3,30,1,2.5,tr,13,1.3,7,572,34,67,0,0,0,15,18,0
+Potato canned drained,4,140,84,351,2,19,N/A,1.3,tr,7,1.8,307,321,20,39,0,0,0,8,7,0
+Potato microwaved flesh and skin,1,202,212,887,5,49,N/A,5.1,tr,22,2.5,16,903,55,212,0,0,0,24,31,0
+Potato microwaved peeled after cooking,1,156,156,652,3,36,N/A,3.4,tr,8,0.6,11,641,39,170,0,0,0,19,24,0
+Potatoes French fried frozen home-prepared in oven,20 strips,48,96,403,2,15,tr,1.6,4,4,0.6,14,201,11,40,0,1,0,6,5,0
+Potatoes hashed brown plain frozen heated,125 mL,82,180,752,3,23,1,1.8,9,12,1.2,28,359,14,59,0,0,0,6,5,0
+Potatoes mashed dried with 2% milk and margarine,125 mL,111,107,447,3,15,2,1.1,4,46,0.2,284,235,15,59,61,2,0,8,14,0.13
+Potatoes mashed homemade with 2% milk and margarine,125 mL,111,116,487,2,19,N/A,2.2,4,29,0.3,327,321,20,51,19,N/A,0,9,7,0.06
+Potatoes scalloped from mix with water with 2% milk and margarine,125 mL,129,120,502,3,16,2,1,5,66,0.4,420,243,17,81,64,1,0,8,3,0.11
+Potatoes scalloped homemade,125 mL,129,111,466,4,14,N/A,2.5,5,74,0.7,434,489,25,82,N/A,83,0,16,14,0
+Pumpkin canned,125 mL,129,44,184,1,10,4,3.8,tr,34,1.8,6,267,30,45,1007,8983,0,16,5,0
+Radicchio chopped,125 mL,21,5,20,tr,1,tr,0.2,tr,4,0.1,5,64,3,8,tr,3,0,13,2,0
+Radishes,3 medium,14,2,9,tr,tr,tr,0.2,tr,3,tr,5,31,1,3,0,1,0,3,2,0
+Rutabaga (yellow turnip) diced boiled drained,125 mL,90,35,146,1,8,5,1.6,tr,43,0.5,18,293,21,50,13,1,0,13,17,0
+Sauerkraut canned not drained,125 mL,75,14,59,1,3,1,1.9,tr,23,1.1,496,128,10,15,1,6,0,18,11,0
+Seaweed dulse dried,60 mL,4,8,35,1,1,tr,0.1,tr,17,0.4,11,84,tr,14,62,740,N/A,35,9,0
+Spinach boiled drained,125 mL,95,22,91,3,4,tr,2.3,tr,129,3.4,67,443,83,53,498,5980,0,139,9,0
+Spinach chopped raw,250 mL,32,7,30,1,1,tr,0.7,tr,31,0.9,25,177,25,16,149,1783,0,61,9,0
+Squash acorn cubed baked,125 mL,108,61,253,1,16,N/A,2.1,tr,48,1,4,473,47,49,23,277,N/A,21,12,0
+Squash butternut cubed baked,125 mL,108,43,181,1,11,2,1.8,tr,44,0.6,4,308,31,29,413,4950,0,21,16,0
+Squash spaghetti baked,125 mL,82,22,93,1,5,2,0.9,tr,17,0.3,15,96,9,11,5,48,0,7,3,0
+Sweet potato baked peeled after cooking,0.5,57,51,214,1,12,5,1.9,tr,22,0.4,21,271,15,31,548,6560,0,3,11,0
+Sweet potato boiled without skin,0.5,76,57,240,1,13,4,1.9,tr,20,0.5,20,174,14,24,594,7130,0,5,10,0
+Swiss chard chopped boiled drained,125 mL,92,18,78,2,4,1,1.9,tr,54,2.1,165,508,80,31,283,3376,0,8,17,0
+Tomatoes canned stewed,125 mL,135,35,147,1,8,6,1.4,tr,46,1.8,298,279,16,27,12,140,5436,7,11,0
+Tomatoes canned whole,125 mL,127,22,90,1,5,3,1,tr,39,1.2,162,238,14,24,8,89,3423,10,18,0
+Tomatoes raw,1,123,22,92,1,5,3,1.5,tr,12,0.3,6,292,14,30,52,552,3165,18,16,0
+Tomatoes sun-dried,1 piece,2,5,22,tr,1,1,0.2,tr,2,0.2,42,69,4,7,1,10,815,1,1,0
+Tomatoes sun-dried packed in oil drained,1 piece,3,6,27,tr,1,N/A,0.2,tr,1,0.1,8,47,2,4,2,23,N/A,1,3,0
+Turnip (white turnip) cubed boiled drained,125 mL,82,18,76,1,4,2,1.6,tr,27,0.1,13,146,7,21,0,0,0,7,10,0
+Vegetables Asian mix (broccoli carrots green beans mini corn snow peas sweet red pepper) frozen boiled drained,125 mL,74,29,122,1,6,2,1.8,tr,24,0.5,15,128,13,32,192,1878,tr,23,22,0
+Vegetables broccoli and cauliflower frozen boiled drained,125 mL,95,22,93,2,4,1,2.4,tr,33,0.5,20,152,14,38,27,322,0,34,34,0
+Vegetables mixed (corn lima beans snap beans peas carrots) frozen boiled drained,125 mL,96,63,262,3,13,3,2.8,tr,24,0.8,34,163,21,49,206,2002,0,18,3,0
+Vegetables peas and carrots canned not drained,125 mL,135,51,214,3,11,N/A,2.7,tr,31,1,350,135,19,62,389,0,N/A,24,9,0
+Zucchini raw slices,4,40,6,27,tr,1,1,0.4,tr,6,0.1,4,104,7,15,4,48,0,11,7,0
+Zucchini sliced boiled drained,125 mL,95,15,64,1,4,2,1.3,tr,12,0.3,3,241,21,38,53,637,0,16,4,0
+#Vegetable Juices and Other Products
+Carrot juice,125 mL,125,50,208,1,12,5,1,tr,30,0.6,36,364,17,52,966,11599,2,5,11,0
+Coleslaw with dressing homemade,125 mL,63,44,183,1,8,N/A,1,2,29,0.4,15,115,6,20,34,87,N/A,17,21,0
+Potato salad homemade,125 mL,132,205,858,4,14,3,1.4,15,28,0.7,579,276,17,66,57,183,0,22,17,0.2
+Tomato clam cocktail,125 mL,128,61,257,1,14,4,0.5,tr,10,0.2,462,114,6,14,9,163,3807,10,6,0.04
+Tomato juice,125 mL,128,22,91,1,5,5,0.9,tr,13,0.6,345,294,14,23,30,347,11602,26,10,0
+Tomato juice without added salt,125 mL,184,31,131,1,8,7,0.7,tr,18,0.8,18,421,20,33,42,N/A,16611,37,34,0
+Tomato sauce for spaghetti canned,125 mL,132,143,600,2,21,N/A,1.9,6,37,0.9,652,505,32,47,82,967,N/A,28,15,0
+Tomato sauce canned,125 mL,129,41,173,2,10,6,1.9,tr,17,1.3,678,428,21,34,22,271,19612,12,8,0
+Vegetable juice cocktail,125 mL,128,24,101,1,6,4,0.7,tr,14,0.5,345,247,14,22,100,1061,12351,27,35,0
+Vegetable juice cocktail low sodium,125 mL,128,28,118,1,6,5,1,tr,14,0.5,89,247,14,22,66,1061,12350,27,35,0
+#Fruit
+Apple with skin (7 cm.diam),1,138,72,300,tr,19,14,2.6,tr,8,0.2,1,148,7,15,4,37,0,4,6,0
+Applesauce unsweetened,125 mL,129,55,232,tr,15,13,1.5,tr,4,0.2,3,97,4,9,1,17,0,1,13,0
+Apricots dried,3,21,67,281,1,17,N/A,1.2,tr,13,1.3,3,389,13,33,133,0,0,1,2,0
+Apricots raw,3,105,50,211,1,12,10,2.1,tr,14,0.4,1,272,11,24,101,1149,0,9,11,0
+Avocado,0.5,101,161,672,2,9,1,6.7,15,12,0.6,7,487,29,52,7,62,0,81,10,0
+Banana,1,118,105,439,1,27,14,2.1,tr,6,0.3,1,422,32,26,4,31,0,24,10,0
+Blackberries,125 mL,76,33,137,1,7,4,4,tr,22,0.5,1,123,15,17,8,97,0,19,16,0
+Blueberries frozen unsweetened,125 mL,82,42,174,tr,10,7,2.6,1,7,0.1,1,44,4,9,2,23,0,6,2,0
+Blueberries raw,125 mL,77,44,182,1,11,8,2,tr,5,0.2,1,59,5,9,2,25,0,5,7,0
+Cherries sweet,10,68,43,179,1,11,9,1.4,tr,9,0.2,0,151,7,14,2,26,0,3,5,0
+Clementine,1,74,35,146,1,9,7,1.3,tr,22,0.1,1,131,7,16,N/A,N/A,N/A,18,36,0
+Cranberries dried sweetened,60 mL,31,95,396,tr,25,20,1.8,tr,3,0.2,1,12,2,2,0,0,0,0,tr,0
+Dates dried,3,25,70,294,1,19,16,2,tr,10,0.3,tr,163,11,15,0,1,0,5,tr,0
+Figs dried,2,17,42,175,1,11,8,1.6,tr,27,0.3,2,114,11,11,tr,1,0,2,tr,0
+Figs raw,1,50,37,155,tr,10,8,1.5,tr,18,0.2,1,116,9,7,4,43,0,3,1,0
+Fruit cocktail canned juice pack,125 mL,125,58,240,1,15,14,1.3,tr,10,0.3,5,119,9,18,19,193,0,4,3,0
+Fruit cocktail canned light syrup pack,125 mL,128,73,304,1,19,18,1.3,tr,8,0.4,8,114,6,14,13,133,0,4,2,0
+Fruit salad tropical canned heavy syrup pack,125 mL,136,117,489,1,30,N/A,1.8,tr,18,0.7,3,178,18,10,8,102,N/A,12,24,0
+Fruit salad tropical canned juice pack,125 mL,131,70,272,1,18,16,1.1,tr,17,0.3,4,160,14,10,8,96,0,4,16,0
+Grapefruit pink or red,0.5,123,52,216,1,13,8,2,tr,27,0.1,0,166,11,22,71,844,1745,16,38,0
+Grapefruit white,0.5,118,39,163,1,10,9,2.1,tr,14,0.1,0,175,11,9,2,17,0,12,39,0
+Grapes,20,100,69,289,1,18,15,1.2,tr,10,0.4,2,191,7,20,3,39,0,2,11,0
+Groundcherries,10,49,26,108,1,5,N/A,N/A,tr,4,0.5,tr,75,N/A,19,17,210,N/A,3,5,0
+Kiwifruit,1,76,46,194,1,11,7,2.3,tr,26,0.2,2,237,13,26,3,40,0,19,70,0
+Lychees (litchis),10,96,63,265,1,16,15,1.2,tr,5,0.3,1,164,10,30,0,0,0,13,69,0
+Mango,0.5,104,67,282,1,18,15,1.9,tr,10,0.1,2,161,9,11,39,461,0,14,29,0
+Mango Dried Kirkland,0.5 cup,40,140,586,1,34,24,2,0,0,0,15,0,0,350,0,0,0,0,0,0
+Melon cantaloupe cubes,125 mL,85,29,120,1,7,7,0.6,tr,8,0.2,14,226,10,13,143,1708,0,18,31,0
+Melon honeydew cubes,125 mL,90,32,136,tr,8,7,0.7,tr,5,0.2,16,205,9,10,3,27,0,17,16,0
+Melon watermelon cubes,125 mL,80,24,100,tr,6,5,0.3,tr,6,0.2,1,90,8,9,22,243,3639,2,7,0
+Nectarine,1,136,60,250,1,14,11,2.3,tr,8,0.4,0,273,12,35,18,204,0,7,7,0
+Orange,1,131,62,258,1,15,12,2.3,tr,52,0.1,0,237,13,18,8,93,0,39,70,0
+Papaya cubes,125 mL,74,29,121,tr,7,4,1.3,tr,18,0.1,2,190,7,4,17,204,0,28,46,0
+Peach,1,98,38,160,1,9,8,1.9,tr,6,0.2,0,186,9,20,16,159,0,3,6,0
+Peach canned halves or slices juice pack,125 mL,132,58,243,1,15,14,1.7,tr,8,0.4,5,169,9,22,25,250,0,4,5,0
+Peach canned halves or slices light syrup pack,125 mL,133,72,300,1,19,18,1.7,tr,4,0.5,7,129,7,15,24,233,0,4,9,0
+Peach canned halves or slices water pack,125 mL,129,31,129,1,8,6,1.7,tr,3,0.4,4,128,6,13,35,340,0,4,4,0
+Pear with skin,1,166,96,403,1,26,16,5,tr,15,0.3,2,198,12,18,2,22,0,12,7,0
+Pear canned halves juice pack,125 mL,131,66,274,tr,17,13,2.1,tr,12,0.4,5,126,9,16,0,4,0,1,2,0
+Pear canned halves light syrup pack,125 mL,133,76,316,tr,20,16,2.1,tr,7,0.4,7,88,5,9,0,0,0,1,2,0
+Pear canned halves water pack,125 mL,128,37,155,tr,10,8,2,tr,5,0.3,3,68,5,9,0,0,0,1,1,0
+Pineapple canned juice pack,125 mL,132,79,330,1,21,19,1.2,tr,18,0.4,1,160,18,8,3,30,0,7,12,0
+Pineapple cubes,125 mL,82,42,174,tr,11,8,1.1,tr,11,0.2,1,88,10,7,2,28,0,16,46,0
+Plantain baked or boiled sliced,125 mL,81,94,395,1,25,11,1.9,tr,2,0.5,4,378,26,23,37,300,0,21,9,0
+Plum,1,66,30,127,tr,8,7,1.1,tr,4,0.1,0,104,5,11,11,125,0,3,6,0
+Pomegranate (9.5 cm diam),0.5,77,53,220,1,13,13,0.5,tr,2,0.2,2,200,2,6,2,31,0,5,5,0
+Prunes dried,3,25,60,253,1,16,10,1.8,tr,11,0.2,1,184,10,17,10,99,0,1,tr,0
+Prunes dried cooked without added sugar,60 mL,63,67,281,1,18,16,3.6,tr,12,0.3,1,202,11,19,11,109,0,0,2,0
+Raisins,60 mL,37,110,460,1,29,22,1.3,tr,18,0.7,4,275,12,37,0,0,0,2,1,0
+Raspberries,125 mL,65,34,141,1,8,3,4.2,tr,16,0.4,1,98,14,19,1,8,0,14,17,0
+Rhubarb frozen cooked with added sugar,125 mL,127,147,615,tr,40,36,2.5,tr,184,0.3,1,122,15,10,5,56,0,6,4,0
+Strawberries,7,84,27,113,1,6,4,1.9,tr,13,0.4,1,129,11,20,1,6,0,20,49,0
+Strawberries frozen unsweetened,125 mL,117,41,170,1,11,5,1.8,tr,19,0.9,2,173,13,15,2,32,0,20,48,0
+Tangerine (mandarin),1,84,45,186,1,11,9,1.5,tr,31,0.1,2,139,10,17,11,130,0,13,22,0
+Tangerine (mandarin) canned juice pack drained,125 mL,100,38,159,1,9,8,1.2,tr,12,0.3,5,136,11,11,25,298,0,5,34,0
+#Fruit Juices
+Apple juice ready-to-drink vitamin C added,125 mL,126,59,249,tr,15,14,0.1,tr,9,0.5,4,150,4,9,0,0,0,tr,52,0
+Cranberry juice cocktail ready-to-drink vitamin C added,125 mL,134,76,318,0,19,16,0.1,tr,4,0.2,3,24,3,3,0,0,0,0,48,0
+Cranberry juice unsweetened ready-to-drink,125 mL,134,61,257,1,16,16,0.1,tr,11,0.3,3,103,8,17,3,36,0,1,12,0
+Cranberry-apple juice-drink ready-to-drink low Calorie vitamin C added,125 mL,127,24,100,tr,6,6,0.1,0,13,0.1,6,57,4,1,1,8,0,0,41,0
+Grape juice frozen sweetened diluted vitamin C added,125 mL,132,67,281,tr,17,17,0.1,tr,5,0.1,3,28,5,5,0,7,0,1,20,0
+Grape juice ready-to-drink vitamin C added,125 mL,132,81,337,1,20,20,0.1,tr,12,0.3,4,174,13,15,0,7,0,4,32,0
+Grapefruit juice ready-to-drink unsweetened or freshly squeezed,125 mL,130,50,210,1,12,12,0.4,tr,10,0.3,1,206,14,17,1,11,0,13,44,0
+Grapefruit juice ready-to-drink sweetened,125 mL,132,61,254,1,15,15,0.1,tr,11,0.5,3,214,13,15,0,4,0,13,36,0
+Lemon juice canned or bottled,15 mL,15,3,14,tr,1,tr,0.1,tr,2,tr,3,16,1,1,tr,tr,0,2,4,0
+Lime juice canned or bottled,15 mL,16,3,14,tr,1,tr,0.1,tr,2,tr,2,12,1,2,tr,2,0,1,1,0
+Nectar apricot,125 mL,133,74,310,tr,19,18,0.8,tr,9,0.5,4,151,7,12,88,1042,0,1,44,0
+Nectar mango,125 mL,133,68,281,tr,17,17,0.4,tr,23,0.5,7,32,4,3,46,533,0,9,20,0
+Orange and grapefruit juice ready-to-drink,125 mL,130,56,235,1,13,13,0.1,tr,10,0.6,4,206,13,18,8,26,0,18,38,0
+Orange juice frozen diluted,125 mL,132,59,247,1,14,11,0.3,tr,12,0.1,1,250,13,21,7,22,0,58,51,0
+Orange juice ready-to-drink,125 mL,132,58,242,1,13,N/A,0.3,tr,13,0.2,1,250,14,14,5,61,0,24,43,0
+Orange juice ready-to-drink refrigerated vitamin D and calcium added,125 mL,132,58,242,1,13,N/A,0.3,tr,185,0.2,1,250,14,14,5,N/A,0,N/A,43,0
+Orange strawberry and banana juice ready-to-drink,125 mL,124,57,237,1,15,13,0.2,tr,14,0.3,5,124,12,15,1,21,0,21,31,0
+Pineapple juice ready-to-drink vitamin C added,125 mL,132,74,309,tr,18,13,0.3,tr,22,0.3,1,177,17,11,0,4,0,30,32,0
+Pomegranate juice ready-to-drink,125 mL,128,72,300,0,20,17,0,0,0,0,5,215,N/A,N/A,0,N/A,N/A,N/A,0,0
+Prune juice ready-to-drink,125 mL,135,96,402,1,24,22,1.4,tr,16,1.6,5,373,19,34,0,3,0,0,6,0
+#Dairy Foods and Other Related Products
+Buttermilk,250 mL,259,104,432,9,12,12,2,1.4,10,300,0.1,272,391,28,230,18,0.2,13,0.57,0.4
+Milk chocolate 1% M.F.,250 mL,264,166,695,9,28,26,3,1.6,8,304,0.6,161,449,34,272,153,2.6,13,0.9,0.44
+Milk chocolate 2% M.F.,250 mL,264,190,795,8,27,26,5,3.3,18,301,0.6,158,446,34,269,145,2.6,13,0.9,0.43
+Milk skim,250 mL,259,88,368,9,13,13,tr,0.2,5,324,0.1,109,404,28,261,158,2.7,13,1.37,0.47
+Milk partly skimmed 1% M.F.,250 mL,258,108,454,9,13,13,3,1.6,13,307,0.1,113,387,28,245,150,2.6,13,1.13,0.48
+Milk partly skimmed 2% M.F.,250 mL,258,129,539,9,12,13,5,3.3,21,302,0.1,106,387,28,242,142,2.8,13,1.19,0.48
+Milk partly skimmed 2% M.F.  with added milk solids,250 mL,260,146,608,10,14,14,5,3.2,21,372,0.2,153,473,42,291,143,2.6,16,1.12,0.5
+Milk whole 3.3% M.F.,250 mL,258,155,647,8,12,14,8,5.4,26,291,0.1,103,369,26,235,72,2.7,13,1.13,0.47
+Rice beverage flavoured and unflavoured enriched,250 mL,259,127,531,tr,26,N/A,2,0.2,0,319,0.2,91,72,10,36,52,2.2,96,1.03,0.03
+Soy beverage chocolate enriched,250 mL,257,162,673,6,26,20,4,0.6,0,323,1.2,136,367,38,131,180,2.6,29,1.8,0.67
+Soy beverage original and vanilla enriched,250 mL,257,110,465,7,13,9,4,0.5,0,316,1.1,120,313,38,110,142,2.7,23,2.19,0.47
+Soy beverage unsweetened enriched,250 mL,257,85,354,7,4,1,4,0.5,0,318,1.2,95,308,41,82,160,3.1,18,2.85,0.53
+Silk Original Almond Milk,1 cup,240,60,251,1,8,7,1,2.5,0,0,450,0.7,150,160,17,30,150,0,0,3
+#Processed Milk
+Milk condensed sweetened canned (Eagle Brand),15 mL,19,62,260,2,11,11,2,1.1,7,55,tr,25,72,5,49,14,N/A,2,0.09,0.08
+Milk evaporated partly skimmed canned diluted 2% M.F.,250 mL,258,122,512,10,15,13,3,1.6,10,369,0.3,149,422,35,264,104,2.9,11,0.28,0.41
+Milk evaporated partly skimmed canned undiluted 2% M.F.,15 mL,16,15,62,1,2,2,tr,0.2,1,44,tr,18,51,4,32,12,0.3,1,0.03,0.05
+Milk evaporated skim canned diluted 0.2% M.F.,250 mL,259,105,438,10,15,15,tr,0.2,5,392,0.4,157,446,38,262,159,2.9,12,0.32,0.42
+Milk evaporated skim canned undiluted 0.2% M.F.,15 mL,16,13,53,1,2,2,tr,tr,1,47,tr,19,54,4,32,19,0.4,1,0.04,0.05
+Milk evaporated whole canned diluted 7.8% M.F.,250 mL,258,178,744,9,13,13,10,6.3,39,349,0.3,143,403,33,270,86,2.9,11,0.21,0.42
+Milk evaporated whole canned undiluted 7.8% M.F.,15 mL,16,21,89,1,2,2,1,0.8,5,42,tr,17,48,4,32,10,0.3,1,0.03,0.05
+Milk reconstituted from skim milk powder,250 mL,259,86,360,8,13,13,tr,0.1,4,301,0.1,137,410,30,237,170,2.6,12,0.96,0.42
+Skim milk powder,5 mL,1,5,22,1,1,1,tr,tr,tr,18,tr,8,25,2,14,10,0.2,1,0.06,0.03
+#Milk Beverages
+Chocolate milk chocolate flavour powder + 2% milk,250 mL,279,207,863,9,33,N/A,6,3.4,20,321,0.8,176,531,59,274,143,2.8,N/A,0.92,0.46
+Chocolate milk syrup + 2% milk,250 mL,298,238,998,10,38,N/A,5,3.3,21,319,1,158,489,60,298,146,2.8,15,0.95,0.45
+Eggnog,250 mL,268,362,1516,10,36,23,20,11.9,158,349,0.5,145,443,51,293,121,1.1,3,1.21,0.51
+Hot chocolate aspartame sweetened powder + water,250 mL,270,78,326,3,15,9,1,0,0,127,1.1,240,569,46,189,38,N/A,3,0.35,0.29
+Hot chocolate homemade with cocoa + 2% milk,250 mL,264,203,851,9,28,26,6,3.8,21,277,1.3,116,520,61,277,135,2.6,13,1.11,0.48
+Hot chocolate powder + 2% milk,250 mL,264,255,1068,10,41,37,6,3.8,20,318,0.5,272,595,55,327,126,2.5,11,1.52,0.62
+Hot chocolate powder + water,250 mL,291,160,669,2,34,30,2,0.9,3,64,0.5,206,285,35,125,0,N/A,0,0.52,0.23
+Instant breakfast powder + 2% milk,250 mL,280,260,1087,16,36,12,5,3.1,24,555,3.9,286,811,61,459,444,2.6,12,2.21,1.41
+Milk shake chocolate,250 mL,249,296,1240,8,53,52,7,4.2,27,329,0.8,276,558,40,314,45,1,12,0.8,0.55
+Milk shake vanilla,250 mL,249,279,1166,10,44,44,8,4.7,30,364,0.2,237,456,30,286,62,0.5,17,1.3,0.49
+#Yogurt / Yogourts and Fermented Milk Products
+Drinkable yogourt,200 mL,207,145,607,5,24,24,3,2.1,12,191,0.2,81,257,23,157,N/A,0.2,25,0.58,0.23
+Fresh cheese (Danimal Minigo),1,60,68,286,3,10,10,2,1.1,6,138,0.1,32,84,7,50,N/A,N/A,N/A,N/A,N/A
+Kefir plain,175 mL,165,104,433,6,7,6,6,3.8,25,187,0.1,70,250,19,148,58,0.2,23,0.33,0.3
+Yogurt parfait with berries and granola,175 mL,188,233,973,7,40,3,5,2.7,14,208,2.2,119,337,36,201,23,0,40,0.59,0.31
+Yogurt plain 1-2% M.F.,175 mL,181,114,477,10,13,13,3,1.8,11,332,0.1,127,424,31,261,25,N/A,20,1.01,0.39
+Yogurt plain 2-4% M.F.,175 mL,181,129,538,9,12,8,5,3.3,17,292,0.1,111,412,28,246,31,N/A,21,1.03,0.42
+Yogurt plain fat-free,175 mL,189,79,332,8,11,9,tr,0,6,253,0.1,113,368,26,215,N/A,1.8,N/A,0.89,0.32
+Yogurt vanilla or fruit 1-2% M.F.,175 mL,185,183,767,7,30,25,4,2.3,17,227,0.1,98,335,20,167,N/A,N/A,N/A,0.31,0.15
+Yogurt vanilla or fruit fat-free,175 mL,181,116,484,8,21,19,tr,tr,4,229,0.2,103,349,20,163,N/A,N/A,N/A,0.59,N/A
+Yogurt vanilla or fruit fat-free with sugar substitute,175 mL,189,94,394,7,16,14,tr,0,6,205,0.2,92,311,22,179,N/A,1.4,N/A,0.72,0.27
+Plain Greek Yogurt 5%,175 g,175,180,753,16,8,4,0,9,6,35,175,0.1,55,250,14,200,0,0,0,0.75
+Oikos Greek Yogurt 0% Plain,0.75 cup,175,100,418,17,6,5,0,0,0,5,175,0,50,225,tr,tr,tr,tr,0,tr
+PC Greek Yogurt 0% Plain,0.50 cup,115,60,251,12,4,3,0,0,0,5,125,0,40,175,tr,tr,tr,tr,0,tr
+#Cheese
+Blue,50 g,50,177,738,11,1,tr,14,9.3,38,264,0.2,698,128,12,194,99,0.2,18,0.61,0.19
+Brick,50 g,50,186,776,12,1,tr,15,9.4,47,337,0.2,280,68,12,226,146,0.2,10,0.63,0.18
+Brie,50 g,50,167,699,10,tr,tr,14,8.7,50,92,0.3,315,76,10,94,87,0.2,33,0.83,0.26
+Camembert,50 g,50,150,628,10,tr,tr,12,7.6,36,194,0.2,421,94,10,174,121,0.2,31,0.65,0.24
+Cheddar,50 g,50,202,843,12,1,tr,17,10.5,53,361,0.3,311,49,14,256,133,0.1,9,0.42,0.19
+Cheddar low fat (18% M.F.),50 g,50,141,590,14,1,N/A,9,5.8,28,453,0.1,363,47,18,292,75,N/A,10,0.83,0.15
+Cottage cheese (1% M.F.),125 mL,119,86,359,15,3,3,1,0.8,5,73,0.2,500,103,6,160,13,N/A,14,0.75,0.2
+Cream cheese light,30 mL,30,70,294,3,2,tr,5,3.4,17,34,0.5,90,51,2,44,56,N/A,5,0.18,0.09
+Cream cheese regular,30 mL,29,103,430,2,1,tr,10,6.5,32,24,0.4,87,35,2,31,108,N/A,4,0.12,0.06
+Edam,50 g,50,179,747,12,1,1,14,8.8,45,366,0.2,483,94,15,268,122,0.5,8,0.77,0.19
+Feta,50 g,50,132,552,7,2,2,11,7.7,46,247,0.3,558,31,10,169,63,0.2,16,0.87,0.44
+Goat cheese soft,50 g,50,134,561,9,tr,tr,11,7.3,23,70,1,184,13,8,128,144,0.2,6,0.1,0.19
+Gouda,50 g,50,178,745,13,1,1,14,9,58,350,0.1,410,61,15,273,83,0.2,11,0.78,0.17
+Gruyere,50 g,50,207,864,15,tr,tr,16,9.5,55,506,0.1,168,41,18,303,136,0.2,5,0.8,0.14
+Imitation cheese,50 g,50,120,500,8,6,4,7,4.4,18,281,0.2,673,121,15,356,57,0,4,0.2,0.22
+Mozzarella (22.5% M.F.),50 g,50,141,588,10,1,1,11,6.8,39,269,0.1,187,34,10,186,90,0.1,4,0.33,0.13
+Mozzarella partially skimmed (16.5% M.F.),50 g,50,127,531,13,1,1,8,5.2,29,323,0.1,241,42,12,239,64,0.1,5,0.41,0.16
+Parmesan grated,15 mL,6,27,114,2,tr,tr,2,1.1,6,70,0.1,97,8,2,46,8,tr,1,0.14,0.03
+Processed cheese food thin slices,1,21,78,327,5,tr,tr,7,4.1,20,115,tr,310,35,6,107,53,tr,2,0.15,0.07
+Processed cheese food thin slices light,1,21,50,209,4,2,2,3,1.8,11,110,tr,331,69,7,173,53,tr,4,0.23,0.1
+Processed cheese spread (Cheez Whiz) 30 mL,31,90,375,5,3,N/A,7,4.1,17,174,0.1,503,75,9,271,N/A,0.1,2,0.12,0.13,
+Processed cheese spread light (Light Cheez Whiz),30 mL,31,69,287,6,4,3,3,2.2,13,178,tr,491,107,9,317,91,N/A,N/A,N/A,0.2
+Ricotta cheese partly skimmed milk,125 mL,131,181,756,15,7,tr,10,6.5,41,356,0.6,164,164,20,240,140,N/A,17,0.38,0.24
+Romano grated,15 mL,6,25,103,2,tr,tr,2,1.1,7,67,tr,76,5,3,48,6,tr,tr,0.07,0.02
+Swiss (Emmental),50 g,50,190,795,13,3,1,14,8.9,46,396,0.1,96,39,19,284,110,0.6,3,1.67,0.15
+Swiss processed thin slices,1,21,70,291,5,tr,tr,5,3.3,18,161,0.1,285,45,6,159,41,0.2,1,0.26,0.06
+Babybel Original Mini Cheese,1 mini wheel,21,70,293,5,0,0,0,6,4,20,150,0,160,30,5,110,50,4,0,0.4
+#Cream
+Half and half 10% M.F.,15 mL,15,18,76,tr,1,tr,2,1,5,16,tr,6,20,2,15,15,tr,tr,0.05,0.02
+Sour cream 14% M.F.,15 mL,15,22,93,tr,1,tr,2,1.3,6,16,tr,6,19,1,14,17,0.1,2,0.04,0.02
+Sour cream light 5% M.F.,15 mL,16,21,89,1,1,tr,2,1,6,22,tr,11,33,2,11,14,N/A,2,0.07,0.02
+Table cream (coffee cream) 18% M.F.,15 mL,15,28,118,tr,1,tr,3,1.7,9,15,tr,6,19,1,13,25,0.1,tr,0.04,0.02
+Whipped pressurized,60 mL,15,39,164,tr,2,1,3,2.1,12,15,tr,20,22,2,14,29,0.1,tr,0.04,0.01
+Whipping cream 35% M.F. not whipped,15 mL,15,49,207,tr,tr,tr,5,3.3,19,10,tr,5,12,1,9,62,0.1,1,0.03,0.02
+Whipping cream 35% M.F. sweetened whipped,60 mL,30,100,419,1,3,2,10,6.2,36,19,tr,10,23,2,17,117,0.2,1,0.05,0.03
+Imitation Cream Products
+Coffee whitener frozen liquid,15 mL,15,21,87,tr,2,2,2,0.3,0,1,tr,12,29,0,10,tr,0,0,0,0
+Coffee whitener powdered,5 mL,2,11,45,tr,1,1,1,0.6,0,tr,tr,4,16,tr,8,tr,0,0,0,tr
+Coffee whitener powdered light,5 mL,2,9,36,tr,1,1,tr,0.1,0,tr,tr,5,18,0,3,tr,0,tr,0,0
+Dessert topping frozen,60 mL,19,60,253,tr,4,4,5,4.1,0,1,tr,5,3,tr,2,1,0,0,0,0
+Dessert topping frozen low fat,60 mL,19,42,175,1,4,4,2,2.1,tr,14,tr,14,19,1,14,1,N/A,1,0.04,0.02
+Dessert topping powdered prepared with 2% milk,60 mL,20,37,153,1,3,3,2,2,1,19,tr,12,31,2,18,9,0.2,1,0.07,0.03
+Dessert topping pressurized,60 mL,18,47,196,tr,3,3,4,3.4,0,1,tr,11,3,tr,3,1,0,0,0,0
+#Pudding
+All flavours instant from mix prepared with 2% milk,125 mL,139,149,623,4,27,23,3,1.6,9,141,0.2,391,206,18,307,65,1.3,6,0.54,0.23
+Chocolate ready-to-eat,1 unit,99,138,575,3,23,18,4,0.7,3,89,0.5,128,178,21,79,10,N/A,3,0,0.15
+Chocolate ready-to-eat fat-free,1 unit,99,96,402,3,20,15,tr,0.2,1,72,0.8,168,139,19,75,47,N/A,4,0.22,0.15
+Rice homemade,125 mL,119,160,669,4,32,19,2,1.2,7,115,0.3,55,211,18,112,51,1,5,0.24,0.19
+Rice ready-to-eat,1 unit,99,161,675,2,22,N/A,7,1.2,1,51,0.3,84,59,8,67,25,0.1,3,0.21,0.07
+Tapioca ready-to-eat,1 unit,99,118,493,2,19,18,4,0.6,1,83,0.2,157,95,8,78,0,N/A,3,0.21,0.1
+Tapioca ready-to-eat fat-free,1 unit,99,88,368,2,20,16,tr,0,1,50,0.3,210,52,5,40,32,N/A,2,0.15,0.1
+Vanilla ready-to-eat,1 unit,99,128,534,2,22,20,4,0.6,7,87,0.1,134,112,8,67,6,N/A,0,0.1,0.14
+Vanilla ready-to-eat fat-free,1 unit,99,92,385,2,22,16,tr,tr,1,59,0.4,211,71,7,49,40,N/A,3,0.19,0.12
+#Eggs and Egg Dishes
+Egg substitute frozen (yolk replaced) cooked,2 eggs,111,226,947,14,4,17,2.9,4.6,8.8,2,89,2.4,291,258,88,60,1.9,14,0.35,2.2
+Egg white cooked,1 large,33,16,66,3,tr,0,0,0,0,0,3,tr,106,39,4,0,0,0,0.01,0
+Egg yolk cooked,1 large,17,59,249,3,1,6,1.7,2.3,0.8,202,22,0.7,34,17,64,106,0.8,30,0.88,1.4
+Egg fried,2 large,92,173,726,12,2,14,3.6,5.8,2.7,367,46,1.4,322,116,127,236,1.9,54,1.62,2.7
+Egg hard-boiled,1 large,50,78,324,6,1,5,1.6,2,0.7,216,25,0.6,62,63,86,85,0.7,22,0.56,0.5
+Egg poached,1 large,50,74,308,6,tr,5,1.5,1.9,0.7,215,27,0.9,147,67,95,70,0.4,24,0.64,0.5
+Eggs benedict,2 eggs,310,572,2393,34,30,35,12.5,14.2,4.9,458,189,4,2015,456,453,265,2.1,113,1.96,1.7
+Eggs scrambled made with 2 eggs,2 eggs,124,189,792,13,4,14,4.1,5.9,2.7,363,90,1.4,476,171,160,253,2.3,55,1.73,2.6
+Omelet cheese made with 2 eggs,1 omelet,150,273,1142,18,5,20,8,7.8,2.8,376,238,1.6,890,241,356,304,2.3,56,1.99,2.7
+Omelet spanish made with 2 eggs (mushrooms onions green peppers tomatoes),1 omelet,290,319,1336,15,13,24,5.7,10.4,6.3,353,111,1.8,607,514,211,403,4.3,72,1.7,3.7
+Omelet western made with 2 eggs (green peppers ham onions),1 omelet,158,237,993,17,5,17,5.1,7.3,2.9,346,86,1.5,720,258,202,231,2.2,53,1.72,2.5
+#Fish and Shellfish
+Anchovies canned in oil drained solids,2,8,17,70,2,0,1,0.2,0.2,0.1,0.06,7,19,0.4,293,44,20,1,0.1,0.07,0.3
+Arctic char cooked,75 g,75,119,496,20,0,4,0.7,0.9,0.3,0.38,N/A,23,0.4,38,N/A,188,68,2.8,N/A,N/A
+Bass mixed species baked or broiled,75 g,75,110,458,18,0,4,0.8,1,0.34,0.23,65,77,1.4,68,342,192,26,N/A,1.73,N/A
+Burbot (loche) raw,90 g,90,71,297,16,0,1,0.1,0.3,0.09,0.06,54,22,0.3,63,288,171,5,0.5,0.72,N/A
+Catfish channel farmed baked or broiled,75 g,75,114,477,14,0,6,1.3,1,0.1,0.04,48,7,0.6,60,241,184,11,N/A,2.1,1
+Cisco (lake herring tullibee) baked or broiled,75 g,75,98,408,17,0,3,N/A,N/A,N/A,N/A,N/A,38,0.5,38,312,188,0,N/A,N/A,N/A
+Cisco (lake herring tullibee) raw,90 g,90,88,369,17,0,2,1.1,1.2,0.46,0.11,45,10,0.4,50,319,137,27,N/A,0.9,N/A
+Cod Atlantic baked or broiled,75 g,75,79,329,17,0,1,0.1,0.2,0.12,tr,41,11,0.4,59,183,104,11,0.5,0.79,0.6
+Cod Atlantic dried and salted soaked in water,75 g,75,62,259,13,0,1,0.1,0.2,0.09,tr,32,35,0.5,1353,265,183,9,0.5,1.82,0.6
+Gefiltefish,75 g,75,63,263,7,6,1,0.3,0.2,0.03,0.06,23,17,1.9,393,68,55,20,N/A,0.63,N/A
+Grayling baked or broiled,75 g,75,80,332,17,0,1,N/A,N/A,N/A,N/A,N/A,29,0.5,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Haddock baked or broiled,75 g,75,84,351,18,0,1,0.1,0.2,0.12,0.06,56,32,1,65,299,181,14,0.2,1.04,0.4
+Halibut Atlantic and Pacific baked or broiled,75 g,75,105,439,20,0,2,0.3,0.7,0.28,0.07,31,45,0.8,52,432,214,41,3.6,1.03,2.2
+Herring Atlantic kippered,75 g,75,163,680,18,0,9,2.1,2.2,0.88,0.73,62,63,1.1,689,335,244,30,1.6,14.03,1.2
+Mackerel Atlantic baked or broiled,75 g,75,197,822,18,0,13,3.1,3.2,0.52,0.38,56,11,1.2,62,301,209,41,2,14.25,1.5
+Ocean Perch Atlantic baked or broiled,75 g,75,91,380,18,0,2,0.2,0.4,0.2,0.08,41,103,0.9,72,263,208,11,N/A,0.86,1.2
+Pickerel (Walleye) baked or broiled,75 g,75,89,374,18,0,1,0.2,0.4,0.22,0.08,83,106,1.3,49,374,202,18,3.5,1.73,N/A
+Pike northern baked or broiled,75 g,75,71,298,16,0,1,0.2,0.2,0.08,0.08,38,33,0.3,23,323,180,1,2.4,1.73,0.2
+Pollock Atlantic baked or broiled,75 g,75,89,370,19,0,1,0.1,0.5,0.34,0.07,68,58,0.4,83,342,212,9,1.4,2.76,0.2
+Salmon Atlantic farmed baked or broiled,75 g,75,155,646,17,0,9,1.9,3.3,1.09,0.52,47,11,0.3,46,288,189,11,5.1,2.1,N/A
+Salmon chum (keta) baked or broiled,75 g,75,116,483,19,0,4,0.8,0.9,0.38,0.22,71,11,0.5,48,413,272,26,14,2.6,1.1
+Salmon chum (keta) canned drained solids with bone salted,75 g,75,106,443,16,0,4,1.1,1.1,0.53,0.35,29,187,0.5,365,225,266,14,5,3.3,1.2
+Salmon chum (keta) canned drained solids with bone unsalted,75 g,75,106,443,16,0,4,1.1,1.1,0.53,0.35,29,187,0.5,56,225,266,14,4.2,3.3,1.2
+Salmon coho farmed baked or broiled,75 g,75,134,558,18,0,6,1.5,1.5,0.65,0.31,47,9,0.3,39,345,249,44,N/A,2.38,0.7
+Salmon eggs raw,90 g,90,116,485,24,0,9,2.1,2.3,1.17,0.99,N/A,11,0.6,45,369,198,N/A,N/A,N/A,N/A
+Salmon king or chinook smoked canned,75 g,75,113,470,17,1,4,N/A,N/A,N/A,N/A,N/A,45,1.4,N/A,N/A,N/A,72,N/A,N/A,N/A
+Salmon pink canned drained with bones,75 g,75,102,427,17,0,4,0.6,1.1,0.52,0.27,62,208,0.7,299,233,274,17,N/A,3.71,1
+Salmon smoked,2 pieces,40,47,196,7,0,2,0.4,0.4,0.11,0.07,9,4,0.3,314,70,66,10,4.2,1.3,0.5
+Salmon smoked lox,2 pieces,40,47,196,7,0,2,0.4,0.4,0.11,0.07,9,4,0.3,800,70,66,10,4.2,1.3,N/A
+Salmon sockeye baked or broiled,75 g,75,162,677,20,0,8,1.4,1.8,0.53,0.4,65,5,0.4,50,281,207,47,17,4.35,2.3
+Sardines Atlantic canned in oil drained with bones,1 can,106,220,922,26,0,12,1.6,5.5,0.54,0.5,151,405,3.1,535,421,519,34,2.5,9.48,2.2
+Sardines Pacific canned in tomato sauce drained with bones,1 can,106,197,825,22,1,11,2.8,2.2,0.92,0.56,65,254,2.4,439,361,388,36,12.7,9.54,1.5
+Smelt breaded and fried,5,80,201,840,17,10,10,2.5,2.7,N/A,N/A,79,31,1,N/A,332,246,20,N/A,N/A,N/A
+Snapper mixed species baked or broiled,75 g,75,96,401,20,0,1,0.3,0.4,0.2,0.04,35,30,0.2,43,392,151,26,2.2,2.63,0.5
+Sole (flatfish) baked or broiled,75 g,75,88,367,18,0,1,0.3,0.5,0.19,0.18,51,14,0.3,79,258,217,10,1.1,1.88,0.5
+Trout rainbow farmed baked or broiled,75 g,75,127,530,18,0,5,1.6,1.7,0.62,0.25,51,65,0.2,32,331,200,65,4.8,3.73,0
+Tuna light canned in water drained salted,75 g,75,87,364,19,0,1,0.2,0.3,0.17,0.04,23,8,1.1,254,178,122,13,0.9,2.24,0.3
+Tuna light canned with oil drained salted,75 g,75,149,621,22,0,6,1.2,2.2,0.08,0.02,14,10,1,266,155,233,17,0.7,1.65,0.7
+Turbot baked or broiled,75 g,75,92,383,15,0,3,N/A,N/A,N/A,N/A,47,17,0.3,144,229,124,9,N/A,1.91,N/A
+Whitefish lake native baked,75 g,75,100,417,17,0,3,0.9,2.1,0.9,0.3,58,12,0.3,33,294,168,8,11.3,0.72,N/A
+Clams mixed species boiled or steamed,5 large,60,89,371,15,3,1,0.1,0.3,0.09,0.08,40,55,16.8,67,377,203,103,0.1,59.33,0.4
+Clams mixed species canned drained solids,125 mL,85,125,523,22,4,2,0.2,0.5,0.12,0.12,57,78,23.6,95,531,286,153,0.1,83.59,0.5
+Crab canned drained,125 mL,71,71,295,15,0,1,0.2,0.3,0.12,0.14,63,72,0.6,238,267,185,1,N/A,0.33,1.3
+Crab snow boiled or steamed,125 mL,62,72,300,15,0,1,0.1,0.3,0.09,0.21,44,21,1.8,431,125,80,32,N/A,6.47,N/A
+Crayfish mixed species farmed boiled or steamed,4 medium,60,52,218,11,0,1,0.1,0.2,0.02,0.07,82,31,0.7,58,143,145,9,N/A,1.86,N/A
+Lobster boiled or steamed,125 mL,77,75,314,16,1,tr,0.1,0.1,0.02,0.04,55,47,0.3,291,270,142,20,N/A,2.38,0.8
+Mussels boiled or steamed,15 small,75,129,539,18,6,3,0.6,0.9,0.38,0.21,42,25,5,277,201,214,68,0.2,18,0.8
+Oysters boiled or steamed,6 medium,42,58,241,6,3,2,0.6,0.8,0.25,0.23,44,38,5,177,118,85,23,3.4,14.71,0.7
+Oysters canned solids and liquid,125 mL,131,90,379,9,5,3,0.8,1,0.3,0.28,72,59,8.8,147,300,182,118,N/A,25.06,1.1
+Oysters raw,6 medium,84,50,207,4,5,1,0.4,0.5,0.17,0.16,21,37,4.9,150,104,78,7,N/A,13.61,0.5
+Scallops cooked steamed,6 medium,78,87,365,18,0,1,0.1,0.4,0.16,0.13,41,90,2.3,207,371,264,23,0,1.01,1.2
+Shrimp boiled or steamed,6 medium,30,30,124,6,0,tr,0.1,0.1,0.04,0.05,59,12,0.9,67,55,41,20,N/A,0.45,0.4
+Calamari breaded and fried,125 mL,79,156,651,14,9,7,1.7,1.6,0.27,0.11,197,45,1,303,216,194,17,0.1,1.02,1
+Caviar black or red,15 mL,16,41,171,4,1,3,0.7,1.2,0.62,0.44,95,45,1.9,243,29,58,91,0.5,3.25,1.1
+Crab cake,1,60,93,389,12,tr,5,0.9,1.4,0.13,0.14,90,63,0.6,198,194,128,34,N/A,3.56,N/A
+Crab imitation made from surimi,125 mL,67,68,284,8,7,1,0.2,0.4,0.24,0.16,13,9,0.3,560,60,188,13,1.2,1.07,0.1
+Fish cake,1,120,240,1004,16,15,12,3.3,2.6,0.1,tr,63,30,0.8,290,526,201,28,1.5,0.73,0.7
+Fish fillet battered and fried,1,134,265,1108,22,9,15,3.6,3.4,0.14,0.08,71,42,1,133,508,266,23,0.8,1.02,1
+Fish sticks frozen heated (10 cm x 2.5 cm x 1.3 cm),3 sticks,83,227,948,13,20,10,2.6,2.6,0.11,0.07,93,17,0.6,485,217,151,26,0.1,1.5,0.4
+Shrimp breaded and fried,6 medium,66,160,668,14,8,8,1.4,3.4,0.08,0.07,117,44,0.8,227,149,144,N/A,N/A,1.23,N/A
+Tuna salad,125 mL,108,203,847,17,10,10,1.7,4.5,0.06,0.02,14,18,1.1,435,193,193,26,3.6,1.3,N/A
+#Beef
+Blade roast lean + fat braised,75 g,75,200,834,26,0,10,4,5,0.4,71,2.5,46,202,18,142,0,0.5,2.38,4,0.1
+Blade steak lean + fat braised,75 g,75,227,947,23,0,14,5.7,7.1,0.5,71,2.4,49,178,17,138,0,0.5,2,4,0.2
+Composite roast lean + fat cooked,75 g,75,181,756,24,0,8,3.5,4.2,0.4,61,2.3,40,230,19,155,0,0.5,1.89,4,0.1
+Composite steak lean + fat cooked,75 g,75,196,819,25,0,9,3.9,4.9,0.4,64,2.4,40,200,18,148,0,0.5,1.78,4,0.1
+Cross rib roast lean + fat braised,75 g,75,197,825,27,0,9,3.6,4.5,0.5,70,2.6,52,242,21,164,0,0.5,1.89,5,0.6
+Eye of round roast lean + fat roasted,75 g,75,148,618,24,0,5,2.1,2.5,0.2,50,1.5,40,243,19,152,0,0.5,1.44,5,0.2
+Eye of round steak lean + fat braised,75 g,75,171,715,28,0,5,2.2,2.8,0.3,61,1.8,35,243,19,152,0,0.5,1.38,5,0.2
+Flank steak lean + fat braised,75 g,75,184,769,25,0,8,3.6,4.1,0.3,54,2.2,45,243,19,152,0,0.5,2.15,5,0.3
+Ground extra lean crumbled pan-fried,75 g,75,167,696,23,0,8,3.2,3.3,0.3,59,2.1,65,311,22,180,0,0.3,2.06,5,N/A
+Ground lean crumbled pan-fried,75 g,75,194,809,22,0,11,4.5,5.1,0.3,59,2.1,70,293,21,174,0,0.5,2.16,0,N/A
+Ground medium crumbled pan-fried,75 g,75,214,894,22,0,13,5.6,6,0.4,61,2,68,303,21,173,0,0.6,1.88,6,N/A
+Ground regular crumbled pan-fried,75 g,75,243,1016,22,0,17,7,7.9,0.4,63,2.2,78,301,21,178,0,0.8,2.72,0,N/A
+Inside (top) round roast lean + fat roasted,75 g,75,133,555,24,0,3,1.4,1.6,0.2,53,2.1,48,253,20,163,0,0.5,1.68,5,0.1
+Inside (top) round steak lean + fat braised,75 g,75,175,731,30,0,5,2.1,2.6,0.3,68,2.4,38,204,20,157,0,0.5,1.43,5,0.4
+Outside (bottom) round roast lean + fat roasted,75 g,75,158,659,25,0,5,2.1,2.8,0.3,58,2.9,42,243,19,152,0,0.5,1.67,5,0.2
+Outside (bottom) round steak lean + fat braised,75 g,75,195,815,29,0,8,3,4.2,0.4,72,3.1,43,243,19,152,0,0.5,1.41,5,0.3
+Rib eye steak lean + fat broiled,75 g,75,230,963,20,0,16,6.7,8,0.5,53,2.4,40,243,19,152,0,0.5,1.54,5,0.8
+Rib steak lean + fat broiled,75 g,75,232,969,23,0,15,6.4,7.3,0.5,58,1.9,56,243,19,152,0,0.5,1.8,5,0.5
+Rump roast lean + fat broiled,75 g,75,164,684,21,0,8,3.2,3.6,0.3,59,1.9,47,296,20,180,0,0.3,2.27,7,N/A
+Short ribs lean + fat simmered,75 g,75,309,1292,17,0,26,11.2,11.8,1,57,1.4,29,146,10,86,0,1.7,1.97,4,N/A
+Sirloin tip roast lean + fat roasted,75g,75,156,653,25,0,5,2.2,2.8,0.3,58,2.7,44,243,19,152,0,0.5,1.85,5,0.1
+Standing rib roast lean + fat roasted,75g,75,237,992,21,0,16,6.9,8,0.5,55,1.7,53,243,19,152,0,0.5,1.73,5,0.5
+Stewing beef lean simmered,75g,75,183,765,28,0,7,2.9,N/A,N/A,68,2.6,45,214,19,150,0,0.5,1.8,4,0.2
+Strip loin ( New York ) steak lean + fat broiled,75g,75,191,797,23,0,10,4.3,5.2,0.4,55,2.1,43,243,19,152,0,0.5,1.72,5,0.3
+T-Bone (Porterhouse) steak lean + fat broiled,75g,75,216,903,22,0,13,5.6,6.6,0.4,54,2.1,51,243,19,152,0,0.5,1.89,5,0.1
+Tenderloin steak lean + fat broiled,75g,75,170,709,24,0,7,3.2,3.6,0.3,59,2.9,50,243,19,152,0,0.5,2.04,5,0.2
+Top sirloin steak lean + fat broiled,75g,75,146,611,21,0,6,2.6,3.1,0.3,52,2,43,257,20,160,0,0.5,2.33,5,0.2
+#Veal
+Composite cuts lean + fat cooked,75g,75,173,725,23,0,9,3.2,3.3,0.6,86,0.9,65,244,20,179,0,1.1,1.18,11,0.3
+Cutlets grain-fed pan-fried,75g,75,136,568,27,0,2,0.7,0.8,0.6,78,1.5,33,266,21,171,0,0.5,2.46,N/A,0.3
+Cutlets milk-fed pan-fried,75g,75,142,593,28,0,2,0.6,0.8,1,78,0.5,58,332,16,218,0,0.5,1.27,12,0.3
+Ground broiled,75g,75,129,539,18,0,6,2.3,2.1,0.4,77,0.7,62,253,18,163,0,0.8,0.95,8,0.1
+Leg lean + fat breaded pan-fried,75g,75,171,715,20,7,7,2.3,2.5,1.1,84,1.2,341,278,23,188,8,0.9,0.93,24,0.4
+Leg lean + fat roasted,75g,75,120,502,21,0,3,1.4,1.3,0.3,77,0.7,51,292,21,176,0,0.5,0.88,12,0.4
+Loin lean + fat roasted,75g,75,163,680,19,0,9,3.9,3.6,0.6,77,0.7,70,244,19,159,0,1.3,0.93,11,0.3
+Shoulder whole lean + fat roasted,75g,75,142,593,23,0,5,2.2,1.8,0.3,65,0.7,56,266,17,140,0,0.7,2.5,N/A,0.4
+Stewing meat lean braised,75g,75,141,590,26,0,3,1,1,0.3,109,1.1,70,257,21,179,0,0.7,1.25,12,0.3
+#Pork
+Back ribs lean + fat roasted,75g,75,274,1145,21,0,20,7.9,8.9,2.6,85,0.9,100,251,18,147,2,0.8,0.83,2,N/A
+Centre cut loin chop lean + fat broiled,75g,75,180,753,22,0,10,3.6,4.4,0.7,62,0.6,44,269,19,174,2,0.4,0.55,5,0.1
+Centre cut loin chop lean + fat pan-fried,75g,75,208,869,22,0,12,4.5,5.3,1.4,69,0.7,60,319,22,194,2,0.5,0.55,5,0.2
+Ground lean pan-fried,75g,75,175,731,19,0,11,4.1,5,1.3,60,0.9,60,278,20,166,2,0.5,0.8,5,0.2
+Ground medium pan-fried,75g,75,224,938,18,0,16,6,7.3,2.2,66,0.8,68,275,19,164,2,0.5,0.86,5,0.2
+Leg butt end lean + fat roasted,75g,75,189,791,22,0,11,3.9,4.8,1,72,0.8,47,281,20,204,2,0.4,0.54,2,0.2
+Loin rib end lean + fat broiled,75g,75,197,825,22,0,12,4.3,5.2,0.9,62,0.6,47,301,20,178,2,0.4,0.55,2,0.3
+Loin rib end lean + fat pan-fried,75g,75,199,831,20,0,13,4.8,5.6,1.4,55,0.5,38,323,19,177,2,0.5,0.53,2,0.2
+Shoulder butt lean + fat roasted,75g,75,198,828,19,0,13,5,5.9,1.9,67,1.1,50,245,18,153,2,0.6,0.92,4,0.2
+Shoulder whole lean + fat roasted,75g,75,219,916,17,0,16,5.9,7.1,1.5,68,1,51,247,14,159,2,0.5,0.6,4,0.1
+Spareribs lean + fat braised,75g,75,251,1048,20,0,18,7,7.8,2.5,74,1.1,49,118,14,107,2,0.6,0.68,3,N/A
+Tenderloin lean roasted,75g,75,108,452,21,0,2,0.8,0.9,0.4,52,1,44,302,23,184,2,0.1,0.41,5,0.2
+#Lamb
+American fresh foreshank lean + fat cooked,75g,75,182,762,21,0,10,4.2,4.3,0.7,80,1.6,54,193,17,125,0,0.2,1.71,13,0.1
+American fresh ground cooked,75g,75,212,888,19,0,15,6.1,6.2,1.1,73,1.3,61,254,18,151,0,0.6,1.96,14,0.1
+American fresh leg whole lean + fat cooked,75g,75,194,809,19,0,12,5.2,5.2,0.9,70,1.5,50,235,18,143,0,0.5,1.94,15,0.1
+American fresh loin lean + fat cooked,75g,75,232,969,17,0,18,7.7,7.3,1.4,71,1.6,48,185,17,135,0,0.5,1.66,14,0.1
+American fresh rib lean + fat cooked,75g,75,269,1126,16,0,22,9.6,9.4,1.6,73,1.2,55,203,15,125,0,0.5,1.67,11,0.1
+American fresh shoulder whole lean+ fat cooked,75g,75,207,866,17,0,15,6.3,6.1,1.2,69,1.5,50,188,17,138,0,0.5,1.98,16,0.1
+New Zealand frozen composite lean + fat cooked,75g,75,203,847,19,0,13,6.6,5.2,0.7,80,1.6,35,121,14,158,0,0.5,2.03,1,0.1
+New Zealand frozen foreshank lean + fat braised,75g,75,194,809,20,0,12,5.9,4.6,0.5,77,1.6,35,89,11,131,0,0.3,1.83,1,0.1
+New Zealand frozen leg whole lean + fat roasted,75g,75,176,734,19,0,10,5.1,4.1,0.5,76,1.6,33,128,15,166,0,0.5,1.96,1,0.1
+New Zealand frozen loin lean + fat broiled,75g,75,222,929,18,0,16,7.9,6.2,0.7,85,1.6,38,123,15,160,0,0.5,1.91,1,0.1
+#Chicken Poultry and Game Birds
+Chicken broiler breast meat and skin roasted,75g,75,142,593,19,0,7,1.8,2.6,1.4,63,0.4,45,241,20,N/A,20,0.2,0.24,3,0.2
+Chicken broiler breast meat roasted,75g,75,119,499,25,0,2,0.4,0.5,0.3,64,0.4,56,301,22,N/A,5,0.2,0.26,3,0.2
+Chicken broiler drumstick meat and skin roasted,75g,75,161,671,16,0,10,2.8,3.8,2.3,68,1,68,172,17,131,23,0.2,0.24,6,0.2
+Chicken broiler drumstick meat roasted,75g,75,127,530,19,0,5,1.4,1.7,1.3,70,1,71,185,18,N/A,14,0.2,0.26,7,0.2
+Chicken broiler flesh and skin roasted,75g,75,179,749,20,0,10,2.8,4,2.2,66,0.9,62,167,17,137,35,0.2,0.23,4,0.2
+Chicken broiler flesh roasted,75g,75,143,596,22,0,6,1.5,2,1.3,67,0.9,65,182,19,146,12,0.2,0.25,5,0.2
+Chicken broiler thigh meat and skin roasted,75g,75,187,781,15,0,14,3.8,5.4,3,70,1,63,167,17,131,36,0.2,0.22,5,0.2
+Chicken broiler thigh meat roasted,75g,75,127,530,19,0,5,1.5,2,1.2,71,1,66,179,18,N/A,15,0.1,0.23,6,0.2
+Chicken broiler wing meat and skin roasted,75g,75,218,910,20,0,15,4.1,5.7,3.1,63,1,62,138,14,113,35,0.5,0.22,2,0.2
+Chicken cornish game hens flesh and skin roasted,75g,75,195,815,17,0,14,3.8,6,2.7,98,0.7,48,184,14,110,24,0.3,0.21,2,0.3
+Chicken ground lean cooked,75g,75,153,640,16,0,9,N/A,N/A,N/A,59,1.2,51,212,N/A,N/A,9,0.2,N/A,N/A,N/A
+Duck domesticated roasted,75g,75,253,1057,14,0,21,7.3,9.7,2.7,63,2,44,153,12,117,47,4.1,0.23,5,0.5
+Duck wild cooked,75g,75,128,533,23,0,3,1,1.4,0.4,N/A,7.4,40,197,23,187,12,N/A,N/A,N/A,N/A
+Goose domesticated flesh roasted,75g,75,179,746,22,0,10,3.4,3.3,1.2,72,2.2,57,291,19,232,9,0.1,0.37,9,N/A
+Goose wild ( Canada goose) flesh roasted,75g,75,150,627,23,0,6,0.7,1.9,1.1,72,7.4,57,291,19,232,9,0.1,0.37,9,N/A
+Ptarmigan flesh cooked,75g,75,116,483,23,0,2,N/A,N/A,N/A,N/A,6.5,37,247,27,190,N/A,N/A,N/A,N/A,N/A
+Spruce grouse flesh cooked,75g,75,99,414,20,0,2,N/A,N/A,N/A,N/A,3.3,38,204,25,152,N/A,N/A,N/A,N/A,N/A
+Turkey dark meat and skin roasted,75g,75,162,677,17,0,9,2,2.6,1.4,82,1.7,60,207,17,148,0,0.5,0.28,7,N/A
+Turkey dark meat roasted,75g,75,139,581,19,0,6,1.6,2,1,82,1.7,62,220,17,154,0,0.2,0.29,8,N/A
+Turkey ground cooked,75g,75,176,737,21,0,10,2.5,3.7,2.4,77,1.4,80,203,18,147,0,0.8,0.25,5,0.3
+Turkey light meat and skin roasted,75g,75,143,599,21,0,4,0.9,1.2,0.6,58,1.1,50,215,20,157,0,0.2,0.27,5,N/A
+Turkey light meat roasted,75g,75,116,483,21,0,2,0.7,0.9,0.5,55,1,51,231,21,165,0,0.2,0.29,5,N/A
+#Game Meats and Other Meats
+Bear simmered,75g,75,194,812,24,0,10,2.7,4.2,1.8,74,8,53,197,17,128,14,N/A,1.85,5,0.4
+Beaver roasted,75g,75,95,398,20,0,1,1.6,1.4,1,88,3.6,68,255,17,135,N/A,N/A,6.23,8,0.3
+Bison roasted,75g,75,107,449,21,0,2,0.7,0.7,0.2,62,2.6,43,271,20,157,0,N/A,2.15,6,0.3
+Caribou (reindeer) roasted,75g,75,122,512,24,0,2,1.9,1.4,0.9,82,4.2,35,268,23,168,4,0.2,4.98,4,0.3
+Deer (venison) roasted,75g,75,119,496,23,0,2,0.9,0.7,0.5,84,3.4,41,251,18,170,0,N/A,N/A,N/A,N/A
+Emu inside drum broiled,75g,75,117,489,24,0,2,0.5,0.6,0.3,68,5.5,89,234,25,230,2,N/A,1.8,8,0.2
+Goat roasted,75g,75,107,449,20,0,2,0.7,1,0.2,56,2.8,65,304,0,151,0,N/A,0.89,4,0.3
+Horsemeat roasted,75g,75,131,549,21,0,5,1.4,1.6,0.6,51,3.8,41,284,19,185,0,N/A,2.37,N/A,N/A
+Moose roasted,75g,75,121,505,26,0,1,0.2,0.2,0.2,59,3.8,38,375,23,188,0,N/A,4.73,3,0.2
+Narwhal skin (muktuk) raw,90g,90,119,497,20,0,4,0.6,2.7,0.3,N/A,0.3,91,332,14,146,126,N/A,N/A,N/A,N/A
+Ostrich inside strip cooked,75g,75,123,515,22,0,3,1.3,1.3,0.6,73,3.6,55,275,20,190,0,N/A,4.83,12,0.2
+Rabbit composite cuts roasted,75g,75,148,618,22,0,6,1.8,1.6,1.2,62,1.7,35,287,16,197,0,0.1,6.23,8,N/A
+Seal meat boiled,75g,75,129,539,26,0,2,0.8,1.6,0.3,133,17.6,33,212,20,139,11,N/A,N/A,N/A,N/A
+#Liver and Organ Meats
+Heart beef simmered,75g,75,124,518,21,tr,4,1.1,0.8,0.7,159,4.8,44,164,16,191,0,1.3,8.1,4,0.2
+Kidney beef simmered,75g,75,119,496,20,0,3,0.8,0.5,0.6,537,4.4,71,101,9,228,0,1.3,N/A,62,0.1
+Liver beef pan-fried,75g,75,131,549,20,4,4,1.1,0.5,0.4,286,4.6,58,263,17,364,5808,0.5,N/A,195,0.4
+Liver chicken pan-fried,75g,75,129,539,19,1,5,1.5,1,1,423,9.7,69,236,20,332,3972,N/A,N/A,420,0.6
+Liver veal pan-fried,75g,75,145,605,21,3,5,1.6,0.9,0.8,364,4.5,64,265,17,362,N/A,0.2,N/A,263,0.5
+Thymus veal braised,75g,75,94,392,17,0,2,0.7,0.7,0.2,263,0.9,44,326,18,470,0,N/A,2.14,15,0.1
+Tongue beef canned or pickled,75g,75,200,838,14,tr,15,7.5,6.8,0,71,1.6,55,148,11,137,0,N/A,N/A,4,0.3
+#Processed Lunch Meat Products
+Back bacon pork grilled,2 slices,47,87,364,11,1,4,1.3,1.9,0.4,27,0.4,727,183,10,139,0,0.1,0.37,2,0.2
+Bacon pork broiled pan-fried or roasted,3 slices,24,130,543,9,tr,10,3.3,4.4,1.1,26,0.3,554,136,8,128,3,0.4,0.3,tr,tr
+Bacon pork broiled pan-fried or roasted reduced sodium,3 slices,24,130,543,9,tr,10,3.3,4.4,1.1,26,0.3,247,136,8,128,3,0.1,0.3,tr,0.1
+Bologna (baloney) beef and pork,2 slices,56,153,640,7,3,13,4.7,5.9,1.1,31,0.8,549,132,6,51,14,0.6,0.74,3,0.2
+Bologna (baloney) beef and pork light,2 slices,56,129,539,6,1,11,4.1,5.1,0.9,22,0.4,620,87,7,101,0,0.4,0.73,3,0.1
+Bologna (baloney) chicken,2 slices,56,127,531,7,4,9,3,2.8,2.5,55,0.9,492,111,8,73,0,0.3,0.15,4,N/A
+Chicken canned flaked,60 mL,52,89,372,9,tr,5,1.5,2.1,1.2,32,0.8,374,135,6,58,18,0.2,0.15,2,N/A
+Corned beef brisket cooked,2 slices,56,101,422,11,1,6,2,2.9,0.2,55,1,653,112,7,70,0,0.2,0.91,3,0.1
+Cottage roll pork lean and fat roasted,2 slices,56,69,291,9,1,3,1,1.3,0.3,38,0.5,642,152,7,87,0,0.1,0.59,2,0.2
+Creton,30 mL,34,193,808,5,tr,19,8.3,7.7,1.6,36,0.3,129,96,6,56,1,0.3,0.19,1,0.1
+Deli meat beef thin sliced,4 slices,56,83,349,11,tr,4,1.6,1.7,0.2,39,1.2,791,240,11,94,0,0,1.44,6,0.1
+Deli meat chicken breast roll,2 slices,56,75,314,8,1,4,1.4,1.6,0.8,22,0.2,494,181,10,68,0,0.3,0.13,2,tr
+Deli meat chicken breast low fat,2 slices,56,48,199,10,1,tr,0.1,0.1,tr,25,0.7,696,177,20,143,0,0,N/A,N/A,tr
+Deli meat ham extra lean (5% fat),2 slices,56,62,258,10,1,2,0.5,0.7,0.2,27,0.4,619,196,10,122,0,0.1,0.42,2,0.2
+Deli meat ham regular (11% fat),2 slices,56,91,382,9,2,5,1.6,2.4,0.4,32,0.6,730,161,12,86,0,0.1,0.24,4,tr
+Deli meat mock chicken loaved,2 slices,56,147,616,7,2,12,7.4,N/A,1.7,33,N/A,536,129,N/A,N/A,0,0.4,N/A,N/A,0.1
+Deli meat turkey breast,2 slices,56,63,262,8,4,2,0.1,0.3,0.2,31,1.2,672,195,11,88,0,0,0.12,2,0.1
+Ham extra lean canned,2 slices,56,62,260,9,tr,2,0.8,1.2,0.2,21,0.5,638,151,10,125,0,0.1,0.46,3,0.1
+Ham lean canned,2 slices,56,81,337,10,0,4,1.4,2,0.4,21,0.5,715,187,9,116,0,0.2,0.45,3,0.1
+Ham flaked canned,60 mL,35,48,199,6,tr,3,0.9,1.3,0.3,16,0.3,367,87,5,49,0,0.1,0.24,tr,0.1
+Ham lean and regular roasted,75g,75,124,518,16,tr,6,2,2.8,0.8,43,1.1,1039,272,14,186,0,0.2,0.51,2,0.2
+Ham lean roasted,75g,75,118,493,19,1,4,1.4,1.9,0.5,41,0.7,995,237,17,170,0,0.2,0.53,3,0.2
+Kielbasa (Kolbassa) pork and beef,1 piece,56,124,517,9,2,9,3.1,4.1,1,38,0.8,520,155,9,83,0,0,0.9,3,0.1
+Liver sausage (liverwurst) pork,30 mL,27,93,388,4,1,8,3,3.8,0.7,43,1.7,191,41,3,62,2248,0.2,3.64,8,0.1
+Pastrami beef,2 slices,56,74,309,10,1,3,1.3,1.8,0.1,52,1.1,694,121,10,84,0,0.2,0.99,4,N/A
+Pate liver canned,30 mL,26,84,352,4,tr,7,2.5,3.3,0.8,67,1.4,184,36,3,53,261,0.2,0.84,16,N/A
+Pepperoni pork beef,10 slices,55,252,1053,11,2,22,8.7,10.3,1.4,64,0.8,966,170,10,95,0,0,0.85,3,tr
+Salami beef and pork,2 slices,46,118,495,6,2,9,3.7,4.2,0.9,30,1.2,490,105,7,53,0,0.2,1.68,1,0.1
+Salami pork and beef dry or hard,5 slices,50,185,774,12,1,15,5.1,7.2,1.4,40,0.8,900,194,9,71,0,0.4,0.95,1,0.1
+Salami pork and beef reduced salt,2 slices,46,182,762,7,7,14,4.9,6.1,1.4,41,0.7,287,631,14,125,tr,0.4,0.81,4,0.1
+Sausage Bratwurst pork cooked,1,75,184,769,11,2,14,5.2,6.8,1.5,45,1,418,159,11,112,0,0.8,0.71,2,0
+Sausage Italian pork cooked,1,75,258,1079,14,3,20,7.2,9,2.5,43,1.1,905,228,14,128,8,0.8,0.98,4,0.2
+Sausage breakfast pork and beef cooked,1,13,51,215,2,tr,5,1.7,2.2,0.5,9,0.1,105,25,2,14,0,0.1,0.06,tr,tr
+Sausage breakfast pork cooked,1,13,35,145,2,tr,3,0.9,1.2,0.3,11,0.2,102,28,2,24,2,0.1,0.22,tr,0.1
+Sausage turkey cooked,1,75,147,588,18,0,8,1.7,2.2,2,69,1.1,499,224,16,152,9,0.1,0.92,1,tr
+Summer sausage beef,2 slices,56,188,785,9,tr,17,6.7,7.3,0.7,42,1.4,696,152,8,62,0,0.5,3.08,1,N/A
+Turkey canned flaked,60 mL,34,50,207,6,tr,3,0.8,0.9,0.7,23,0.6,229,92,7,55,0,0.2,0.1,2,N/A
+Vienna sausage (cocktail) beef and pork canned,3,48,110,462,5,1,9,3.4,4.6,0.6,42,0.4,465,48,3,24,0,0.4,0.49,2,0.1
+Wiener (frankfurter) beef,1,38,104,436,5,2,8,3.3,4,0.5,23,0.6,343,54,5,60,0,0.3,0.65,2,0.1
+Wiener (frankfurter) beef and pork,1,38,107,449,5,2,9,3.4,4.3,0.9,19,0.4,374,69,4,32,0,0.3,0.49,2,0.1
+Wiener (frankfurter) beef and pork light,1,38,58,242,4,2,4,1.4,1.8,0.4,17,0.5,471,56,4,53,0,0.1,0.49,2,tr
+Wiener (frankfurter) chicken,1,38,93,390,4,2,7,2.1,3.2,1.5,38,0.8,514,32,4,40,14,0.2,0.09,2,0.1
+#Meatless Products
+Meatless breaded chicken nuggets,2,72,168,705,15,6,0,3.1,9,0.8,2.3,3.3,30,2.8,288,216,9,176,40,3.68,1.4
+Meatless ground beef,75 g,75,148,618,16,6,1,3.5,7,1.1,1.6,3.5,22,1.6,413,135,14,258,59,1.8,1.3
+Soy patty,1,70,136,568,15,5,1,3.2,6,0.8,1.2,2.5,20,1.5,385,126,13,241,55,1.68,1.2
+Tofu regular firm and extra firm,150 g,150,189,791,21,3,1,0,11,1.3,1.8,2.7,234,2.4,26,222,56,182,29,0,tr
+Tofu silken soft,150 g,150,83,345,7,4,2,0.2,4,0.5,0.8,2.3,47,1.2,8,270,44,93,N/A,0,tr
+Vegetable patty,1,90,138,576,18,7,N/A,5.7,4,1,2.1,0.3,102,3.9,411,432,70,225,22,0,N/A
+Vegetarian luncheon meat,4 slices,56,106,442,10,2,1,0,6,0.7,1.2,2.5,23,1,398,112,13,248,56,2.24,1.7
+Wiener meatless,1,46,107,448,9,4,0,1.8,6,0.9,1.8,3.6,15,0.6,217,45,8,158,36,1.08,0.9
+#Beans Peas and Lentils Hummus
+Beans baked homemade,175 mL,187,283,1181,10,40,N/A,10.3,10,3.6,4,1.4,114,3.7,790,670,80,204,90,0,N/A
+Beans baked plain or vegetarian canned,175 mL,188,177,738,9,40,17,7.7,1,0.2,0.2,0.2,64,2.2,633,408,49,135,23,0,0.3
+Beans baked with pork canned,175 mL,187,198,829,10,37,N/A,10.4,3,1.1,1.3,0.4,99,3.2,775,578,64,202,67,0,N/A
+Beans black canned not drained,175 mL,178,162,676,11,29,N/A,12.2,1,0.1,tr,0.2,62,3.4,682,547,62,192,108,0,1.3
+Beans kidney dark red canned not drained,175 mL,189,161,672,10,30,tr,12.1,1,0.1,0.1,0.4,45,2.4,646,487,53,178,97,0,1.1
+Beans navy canned not drained,175 mL,194,219,917,15,40,1,9.9,1,0.2,0.1,0.4,91,3.6,868,558,91,260,120,0,1.5
+Beans pinto canned not drained,175 mL,178,153,639,9,27,tr,8.2,1,0.3,0.3,0.5,76,2.6,522,431,48,163,107,0,1.1
+Beans refried canned,175 mL,186,175,733,10,29,tr,9.9,2,0.9,1,0.3,65,3.1,557,498,62,160,21,0,N/A
+Beans white canned not drained,175 mL,194,227,948,14,43,N/A,9.3,1,0.1,tr,0.2,141,5.8,315,880,99,176,126,0,1.6
+Black-eyed peas canned not drained,175 mL,178,137,572,8,24,N/A,5.9,1,0.3,0.1,0.4,36,1.7,531,305,50,124,91,0,0.5
+Chickpeas (garbanzo beans) canned not drained,175 mL,178,211,884,9,40,N/A,7.8,2,0.2,0.5,0.9,57,2.4,531,305,51,160,119,0,0.3
+Falafel homemade,1 ball,17,57,237,2,5,N/A,1.3,3,0.4,1.7,0.7,9,0.6,50,99,14,33,18,0,N/A
+Hummus commercial,60 mL,57,94,394,4,8,N/A,3.4,5,0.8,2.3,2.1,22,1.4,215,129,40,100,47,0,N/A
+Lentils boiled salted,175 mL,146,170,710,13,29,3,6.2,1,0.1,0.1,0.3,28,4.9,349,540,53,264,265,0,N/A
+Lentils pink boiled,175 mL,179,190,793,14,32,N/A,5.9,1,0.2,0.3,0.6,22,4.1,4,317,39,161,112,0,N/A
+Peas split boiled,175 mL,145,171,715,12,31,4,4.2,1,0.1,0.1,0.2,20,1.9,3,525,52,144,94,0,N/A
+Soybeans boiled,175 mL,127,220,920,21,13,4,8,11,1.7,2.5,6.4,130,6.5,1,655,109,312,69,0,N/A
+#Peanuts
+Peanut butter chunk type fat sugar and salt added,30 mL,32,191,799,8,7,3,2.6,16,2.6,8,4.8,15,0.6,158,242,52,103,30,0,2
+Peanut butter natural,30 mL,31,184,770,7,7,1,2.5,16,2.2,7.8,4.9,17,0.7,2,207,55,113,46,0,2.2
+Peanut butter smooth type fat sugar and salt added,30 mL,32,191,798,8,6,3,1.8,16,3.3,7.7,4.5,14,0.6,149,210,50,116,24,0,2.9
+Peanut butter smooth type light,30 mL,36,190,794,9,13,3,1.9,12,2.7,5.9,3.7,13,0.7,197,244,62,135,22,0,2.4
+Peanuts all types shelled oil-roasted salted,60 mL,37,219,915,10,6,2,2.7,19,3.2,9.5,5.6,22,0.6,117,265,64,145,44,0,2.5
+Peanuts all types shelled roasted,60 mL,37,217,906,9,8,2,3,18,2.6,9.1,5.8,20,0.8,2,244,65,133,54,0,2.6
+#Nuts
+Almonds dried,60 mL,36,208,870,8,7,2,4.2,18,1.4,11.6,4.4,89,1.5,tr,262,99,171,10,0,9.3
+Almonds oil roasted,60 mL,40,242,1010,8,7,2,4.2,22,1.7,13.9,5.4,116,1.5,tr,278,109,186,11,0,10.3
+Almonds roasted salted,60 mL,35,209,874,8,7,2,4.1,18,1.4,11.8,4.4,93,1.6,119,261,100,171,12,0,9.1
+Brazil nuts dried,60 mL,36,233,974,5,4,1,2.7,24,5.4,8.7,7.3,57,0.9,1,234,133,257,8,0,2
+Cashews roasted salted,60 mL,35,199,834,5,11,2,1,16,3.2,9.5,2.7,16,2.1,222,196,90,170,24,0,0.3
+Hazelnuts or filberts dried,60 mL,34,215,899,5,6,1,3.3,21,1.5,15.6,2.7,39,1.6,0,233,56,99,39,0,5.2
+Macadamia nuts roasted salted,60 mL,34,243,1017,3,4,1,2.7,26,4.1,20.1,0.5,24,0.9,90,123,40,67,3,0,0.2
+Mixed nuts oil roasted salted,60 mL,36,222,929,6,8,2,3.2,20,3.1,11.4,4.8,39,1.2,151,209,85,167,30,0,2.6
+Mixed nuts roasted,60 mL,35,206,863,6,9,N/A,3.1,18,2.4,10.9,3.7,24,1.3,4,207,78,151,17,0,N/A
+Mixed nuts roasted salted,60 mL,35,206,863,6,9,2,3.1,18,2.4,10.9,3.7,24,1.3,232,207,78,151,17,0,3.8
+Pecans dried,60 mL,25,173,726,2,3,1,2.4,18,1.6,10.2,5.4,18,0.6,0,103,30,70,6,0,0.4
+Pine nuts pignolia dried,60 mL,34,230,963,5,4,1,1.3,23,1.7,6.4,11.7,5,1.9,1,204,86,197,12,0,3.2
+Pistachios shelled roasted salted,60 mL,31,177,741,7,8,2,3.2,14,1.7,7.6,4.3,34,1.3,126,325,37,151,16,0,0.6
+Walnuts dried,60 mL,25,166,694,4,3,1,1.7,17,1.6,2.3,12,25,0.7,1,112,40,88,25,0,0.2
+#Nut Butters
+Almond butter,30 mL,32,205,858,5,7,N/A,1.2,19,1.8,12.4,4,88,1.2,4,246,98,170,21,0,N/A
+Cashew butter,30 mL,32,190,796,6,9,N/A,0.6,16,3.2,9.4,2.7,14,1.6,5,177,84,148,22,0,0.5
+Sesame butter tahini,30 mL,30,181,757,5,6,tr,2.8,16,2.3,6.2,7.2,130,2.7,35,126,29,223,30,0,0.1
+#Seeds
+Flaxseeds whole and ground,15 mL,11,56,235,2,3,tr,3,4,0.4,0.8,3.2,36,0.5,3,89,39,53,30,0,tr
+Pumpkin and squash seeds kernels dried,60 mL,35,189,792,9,6,tr,1.4,16,3,5,7.3,15,5.2,6,282,187,411,20,0,N/A
+Sunflower seed kernels roasted salted,60 mL,32,189,790,6,8,1,2.9,16,1.7,3.1,10.7,23,1.2,133,276,42,375,77,0,8.5
+Mixed Dishes
+Chia seeds,1 tbsp,12,59,247,2,5.1,0,4.2,3.7,0.4,0,77,0.9,2,49,41,114,0,6,0.2,0
+#Mexican
+Burrito with beans and cheese,1,93,189,790,8,27,N/A,3.8,6,3.4,14,107,1.1,583,248,40,90,49,52,1,0.45
+Burrito with beef cheese and chilli,1,152,316,1322,20,32,N/A,2.2,12,5.2,85,111,3.9,1046,333,35,158,99,99,2,1.03
+Nachos with cheese,15-20 nachos,113,346,1446,9,36,N/A,4.1,19,7.8,18,272,1.3,816,172,55,276,N/A,N/A,1,0.82
+Quesadilla with meat,1,184,627,2622,31,40,tr,2.5,38,17.3,95,442,3.9,1265,319,44,457,167,104,6,1.03
+Taco salad,250 mL,129,193,807,12,13,2,2,11,4.1,35,92,1.3,452,275,29,138,40,18,4,0.58
+Taco with beef cheese salsa + vegetables,2,78,168,704,9,12,N/A,N/A,9,5.2,26,101,1.1,366,216,32,93,N/A,45,1,0.48
+#Sandwiches
+Club sandwich,1,246,558,2335,32,47,5,2.8,26,5.8,76,152,4.5,1152,480,47,347,43,163,6,0.48
+Egg salad sandwich,1,157,479,2003,14,27,3,1.2,35,6.6,335,119,2.9,693,155,19,187,153,121,0,0.92
+Hot chicken sandwich,1,284,388,1621,40,31,2,1.7,10,3,89,109,4.7,1344,519,43,327,0,96,0,0.54
+Ham sandwich,1,121,260,1089,13,28,2,2.1,10,2.6,32,92,2.5,1132,229,25,139,49,93,3,0.24
+Roast beef sandwich,1,139,346,1447,22,33,N/A,2.5,14,3.6,51,54,4.2,792,316,31,239,11,69,2,1.22
+Salmon salad sandwich,1,162,340,1422,16,33,5,1.7,16,2.9,27,222,2.5,818,271,31,257,27,105,1,2.45
+Tuna salad sandwich,1,162,371,1552,20,33,5,1.7,18,2.9,15,93,2.9,745,220,32,233,30,97,1,1.25
+#Salads
+Caesar,250 mL,114,179,751,5,7,1,1.7,15,2,39,92,1.3,268,233,17,81,234,118,20,0.3
+Caesar salad with chicken,500 mL,327,491,2055,41,12,3,3.7,31,4.3,137,147,2.9,718,890,61,146,504,249,42,0.76
+Garden,250 mL,77,47,198,1,4,3,0.9,4,0.6,0,13,0.3,216,135,6,16,48,15,4,0
+Greek,250 mL,111,139,580,4,4,2,1.1,13,3.9,19,121,0.6,315,130,12,85,43,20,11,0.36
+Pasta salad with vegetables,250 mL,187,245,1001,5,33,5,2.2,10,1.6,0,27,1.8,1273,173,25,69,98,129,10,0
+#Pasta
+Lasagna with meat (7.5 cm x 9 cm),1 piece,232,364,1523,22,37,6,2.4,14,7.4,50,251,3.2,623,428,46,280,83,99,11,0.65
+Lasagna vegetarian (7.5 cm x 9 cm),1 piece,256,355,1485,19,46,7,2.9,11,6.6,38,304,3.2,737,423,49,290,102,119,13,0.21
+Macaroni and cheese (Kraft Dinner),250 mL,202,395,1653,11,49,6,2,17,4.1,9,158,2.2,784,162,36,194,165,191,tr,0.22
+Macaroni casserole with beef and tomato soup,250 mL,263,319,1334,23,32,6,1.9,10,4,52,31,3.5,376,399,40,186,14,112,2,1.3
+Spaghetti with cream sauce,250 mL,211,250,1047,9,47,4,1.9,2,0.9,5,81,2.2,111,140,34,140,33,192,tr,0.22
+Spaghetti with meat sauce,250 mL,262,401,1678,19,50,9,4.9,14,4.5,56,101,4.7,1008,761,60,216,68,162,13,0.89
+#Other Mixed Meals
+Beef pot pie commercial individual,1 serving,227,638,2667,18,57,N/A,2,38,11.4,41,45,2.3,1203,293,N/A,109,279,88,0,N/A
+Beef stew,250 mL,259,168,701,18,14,3,1.8,4,1.6,39,29,2.2,604,496,33,183,132,26,9,1.52
+Butter chicken,250 mL,258,368,1538,28,13,4,1.5,23,9.9,116,125,2.4,740,669,54,307,147,15,11,0.44
+Chicken fajita,1 fajita,223,350,1462,19,50,3,4.1,8,2.1,33,52,3.4,540,405,41,183,28,153,26,0.09
+Chicken pot pie commercial individual,1 serving,227,494,2065,21,37,3,3.1,29,9.5,62,59,3,347,349,34,195,222,102,9,0.2
+Pad Thai,250 mL,171,220,920,15,26,4,1.5,6,0.9,68,26,0.9,344,258,30,56,36,24,5,0.23
+Poutine,250 mL,165,380,1587,13,25,1,1.9,26,9.9,40,282,1.4,755,387,26,261,97,16,7,0.38
+Samosa vegetarian,2,100,306,1280,5,32,1,2.1,18,5.6,8,33,1.8,795,178,17,70,36,68,3,0.06
+Shepherd's pie,250 mL,257,389,1628,17,40,5,3.1,17,5,41,52,1.9,584,766,54,213,94,42,14,1.23
+Stir fry with beef,250 mL,229,290,1213,22,20,11,2.2,14,2.3,46,45,2.7,888,534,37,211,30,43,69,1.77
+Stir fry with chicken,250 mL,171,255,1067,18,8,2,1.5,17,4,63,27,1.3,552,387,25,165,109,16,22,0.19
+Stir fry with tofu,250 mL,171,183,767,14,10,3,1.4,10,1.1,tr,142,1.8,493,326,36,141,72,22,20,0.02
+Sushi with fish,4,104,164,684,5,35,7,0.8,tr,0.1,3,20,0.5,666,142,21,66,52,15,2,0.11
+Sushi with vegetables no fish,4,104,122,510,2,27,5,0.5,tr,0.1,0,13,0.2,100,60,13,38,16,7,2,tr
+Sweet and sour meatballs,6,258,472,2322,26,33,19,0.7,26,10.6,95,76,3.3,931,409,37,243,33,34,1,2.6
+Tourtiere homemade (20 cm diam),0.17,113,307,1283,15,23,1,1.2,17,6.4,47,28,1.9,352,273,22,157,1,59,1,0.3
+pierogi pierogies potato and cheese,1,30,60,251,2,10,0.5,0.5,1.5,0.5,10,15,0.4,130,60,5,30,5,8,0.5,0.05
+#Soups Ready-to-serve
+Beef or chicken broth/bouillon,250 mL,254,18,74,3,tr,0,0,1,0.3,0,15,0.4,827,137,5,33,0,5,0,0.18
+Beef chunky,250 mL,254,180,753,12,21,2,1.5,5,2.7,15,33,2.5,915,355,5,127,137,15,7,0.66
+Chicken noodle chunky,250 mL,254,185,773,13,18,2,4.1,6,1.5,20,25,1.5,898,114,10,76,71,65,0,0.33
+Chicken noodle low fat reduced salt,250 mL,257,105,444,9,13,1,2.1,2,1,13,21,0,501,N/A,N/A,N/A,N/A,N/A,0,N/A
+Chicken vegetable chunky,250 mL,254,175,733,13,20,N/A,0.9,5,1.5,18,28,1.5,1128,388,10,112,317,13,6,0.25
+Clam chowder Manhattan,250 mL,254,142,593,8,20,4,3,4,2.2,15,71,2.8,1057,406,20,89,178,10,13,8.37
+Minestrone chunky,250 mL,254,134,563,5,22,6,6.1,3,1.6,5,63,1.9,913,647,15,117,226,72,5,0
+Split pea with ham chunky,250 mL,254,195,817,12,28,5,4.1,4,1.7,8,36,2.3,1019,322,41,188,259,5,7,0.25
+Vegetable chunky,250 mL,254,129,540,4,20,4,1.3,4,0.6,0,58,1.7,1068,418,8,76,307,18,6,0
+#Soups Condensed prepared with water
+Beef noodle,250 mL,258,88,366,5,9,2,0.8,3,1.2,5,15,1.2,1005,106,5,49,8,31,tr,0.21
+Chicken broth,250 mL,254,41,170,5,1,1,0,1,0.4,0,10,0.5,806,218,3,76,0,5,0,0.25
+Chicken noodle,250 mL,255,79,331,4,10,N/A,0.8,3,0.7,8,18,0.8,1169,59,5,38,38,37,tr,0.15
+Cream of mushroom,250 mL,258,137,572,2,10,2,0.5,9,2.6,3,49,0.5,931,106,5,52,15,5,1,0.05
+Tomato,250 mL,258,90,376,2,18,9,1.2,2,0.4,0,13,1.9,735,278,8,36,26,15,3,0
+Tomato reduced salt,250 mL,258,90,376,2,19,8,0.5,2,0.4,0,13,1.9,52,278,8,36,44,18,70,0
+Vegetables with beef,250 mL,258,83,345,6,11,1,0.7,2,0.9,5,18,1.2,835,183,5,44,101,10,1,0.34
+Vegetarian vegetable,250 mL,255,76,318,2,13,4,0.5,2,0.3,0,23,1.1,868,222,8,36,122,10,2,0
+#Soups Condensed prepared with 2% milk
+Clam chowder New England,250 mL,262,157,658,10,18,N/A,1.6,5,1.9,16,202,1.6,1051,320,26,168,71,10,4,10.85
+Cream of chicken,250 mL,262,189,789,8,16,7,0.3,10,3.7,21,194,0.7,1108,293,21,162,86,N/A,1,0.58
+Cream of mushroom,250 mL,262,202,844,6,16,N/A,0.5,13,4.2,10,191,0.6,983,288,24,168,86,10,2,0.52
+Cream of mushroom reduced salt,250 mL,262,134,558,6,17,9,0.8,5,2.4,14,168,0.7,562,691,21,189,74,21,tr,0.5
+Cream of tomato,250 mL,262,155,647,6,24,16,1.3,5,1.9,10,173,1.9,802,480,26,160,69,22,4,0.47
+#Soups Dehydrated prepared with water
+Chicken noodle,250 mL,254,58,243,2,9,1,0.3,1,0.3,10,5,0.5,581,33,8,30,3,28,0,0.05
+Minestrone,250 mL,268,83,349,5,13,N/A,0.8,2,0.9,3,40,1.1,1084,360,8,64,16,51,1,0
+Onion,250 mL,260,29,120,1,5,2,0.8,1,0.1,0,13,0.2,897,68,5,31,0,3,tr,0
+Ramen noodles chicken flavour cooked,250 mL,258,162,678,3,20,N/A,6.2,8,3.5,0,N/A,1.2,792,N/A,N/A,N/A,72,N/A,0,N/A
+Tomato vegetable,250 mL,255,56,234,2,10,2,0.5,1,0.4,0,8,0.6,1154,104,20,31,10,10,6,0
+#Soups Homemade
+Chicken noodle,250 mL,255,135,564,19,7,2,0.9,3,0.7,64,26,1.1,336,302,30,168,136,28,3,0.22
+Cream of vegetable,250 mL,251,62,262,5,7,3,0.8,2,0.7,2,53,0.6,586,287,11,95,99,11,3,0.31
+French onion,250 mL,255,204,852,10,28,3,1.9,6,2.9,13,159,1.5,904,204,25,157,30,69,2,0.58
+Lentil,250 mL,262,193,805,12,27,3,5.1,5,0.4,0,41,3.3,654,365,41,171,45,69,6,0
+Split pea with ham,250 mL,267,190,797,13,31,5,3.8,2,0.6,7,39,1.9,312,437,50,176,56,70,2,0.04
+Vegetable,250 mL,252,49,204,3,8,2,1.4,1,0.2,0,34,0.7,692,336,16,58,93,20,11,0.14
+#Fats
+Becel tub calorie-reduced canola and safflower oils (non-hydrogenated),5 mL,5,17,70,tr,tr,2,0.3,0.8,0.6,tr,0,1,0,46,1,tr,1,48,0.6,0.2
+Becel tub canola and safflower oils (non-hydrogenated),5 mL,5,34,144,tr,tr,4,0.5,1.7,1.2,tr,0,1,0,52,2,tr,1,48,0.6,0.2
+Butter,5 mL,5,34,144,tr,tr,4,2.5,1,0.1,0.2,10,1,tr,28,1,tr,1,33,tr,0.1
+Chefmaster tub unspecified vegetable oils (hydrogenated),5 mL,5,34,144,tr,tr,4,0.5,1.6,0.9,0.5,0,1,0,52,2,tr,1,48,0.6,0.2
+Imperial stick soy and canola oils (hydrogenated),5 mL,5,34,141,tr,tr,4,0.5,2.5,0.4,1.5,0,tr,tr,31,1,tr,tr,48,0.6,0.3
+Imperial tub soya oil (non-hydrogenated),5 mL,5,34,144,tr,tr,4,0.9,0.7,1.8,tr,0,1,0,52,2,tr,1,48,0.6,0.2
+Lactantia tub soya oil (hydrogenated),5 mL,5,34,144,tr,tr,4,0.7,1.3,1.4,0.6,0,1,0,52,2,tr,1,48,0.6,0.2
+Margarine tub composite,5 mL,5,34,144,tr,tr,4,0.6,1.7,1.3, ,0,1,0,52,2,tr,1,48,0.6,0.2
+Spread (20% butter / 80% margarine),5 mL,5,34,141,tr,tr,4,1,2.2,0.4,1,2,1,tr,43,2,tr,1,47,N/A,0.4
+Spread (50% butter / 50% margarine),5 mL,5,33,137,tr,tr,4,1.5,1.8,0.2,0.7,5,1,tr,40,2,tr,1,16,0,0.2
+#Oils
+Canola,15 mL,14,125,525,0,0,14,1,8.4,4.2,0.3,0,0,0,0,0,0,0,0,0,2.4
+Corn,15 mL,14,122,510,0,0,14,1.8,3.8,7.5,0.1,0,0,0,0,0,0,0,0,0,2
+Flaxseed,15 mL,14,122,511,0,0,14,1.4,2.5,9.9,tr,0,0,0,0,0,0,0,0,0,2.4
+Grapeseed,15 mL,14,122,510,0,0,14,1.3,2.2,9.6,N/A,0,0,0,0,0,0,0,0,0,4
+Olive,15 mL,14,121,506,0,0,14,1.8,10.1,1.4,tr,0,tr,0.1,tr,0,0,0,0,0,2
+Peanut,15 mL,14,121,506,0,0,14,2.3,6.3,4.4,N/A,0,0,tr,0,0,0,0,0,0,2.2
+Sesame,15 mL,14,122,510,0,0,14,2,5.5,5.7,N/A,0,0,0,0,0,0,0,0,0,0.2
+Soybean,15 mL,14,122,510,0,0,14,2,3.2,8,0.2,0,0,tr,0,0,0,0,0,0,1.3
+Sunflower,15 mL,14,122,510,0,0,14,1.4,2.7,9.1,0.1,0,0,0,0,0,0,0,0,0,5.7
+#Other fats
+Bacon grease,15 mL,12,110,459,0,0,12,4.8,5.5,1.4,N/A,12,0,0,18,0,0,0,0,0,0.1
+Lard,15 mL,13,117,489,0,0,13,5.2,5.9,1.5,0.2,12,0,0,0,0,0,0,0,0,0.1
+Shortening,15 mL,13,115,481,0,0,13,3.2,5.4,3.7,N/A,0,tr,tr,1,0,0,0,0,0,0.1
+#Salad Dressings
+Blue cheese,15 mL,16,78,327,1,1,8,1.5,1.9,4.3,N/A,3,13,tr,170,6,0,11,10,N/A,0.9
+Blue cheese low Calorie,15 mL,16,15,64,1,tr,1,0.4,0.3,0.4,N/A,tr,14,0.1,186,1,1,13,N/A,N/A,tr
+Creamy Caesar,15 mL,15,79,329,tr,tr,9,1.3,2,4.9,N/A,tr,4,tr,161,4,tr,3,tr,tr,0.8
+Creamy Caesar low Calorie,15 mL,15,17,70,tr,3,1,0.1,0.2,0.4,N/A,tr,4,tr,164,4,tr,3,tr,0,0.1
+Creamy dressing fat-free,15 mL,16,21,90,tr,5,tr,tr,tr,tr,N/A,0,1,0.1,130,14,tr,0,tr,0,tr
+French,15 mL,16,72,303,tr,2,7,0.9,1.3,3.3,N/A,0,4,0.1,133,11,1,3,4,0,0.8
+French low fat,15 mL,16,33,138,tr,4,2,0.3,0.5,1.2,N/A,0,2,0.1,165,13,0,2,2,0,0.5
+Italian,15 mL,15,43,181,tr,2,4,0.7,0.9,1.9,N/A,0,1,0.1,246,7,tr,1,2,0,0.7
+Italian low Calorie,15 mL,15,11,48,tr,1,1,0.1,0.3,0.3,N/A,1,1,0.1,208,13,1,2,tr,0,tr
+Mayonnaise,15 mL,14,100,419,tr,1,11,1.7,2.7,6,tr,5,3,0.1,79,5,tr,4,11,tr,0.7
+Mayonnaise light,15 mL,16,51,215,tr,1,5,0.8,1.3,2.8,tr,6,1,0.1,107,6,tr,6,3,N/A,0.5
+Non creamy dressing fat-free,15 mL,15,7,29,tr,1,tr,tr,tr,tr,N/A,tr,4,0.1,165,15,1,16,tr,0,0.1
+Oil and vinegar,15 mL,16,73,305,0,tr,8,1.5,2.4,3.9,N/A,0,0,0,tr,1,0,0,0,0,0.8
+Ranch,15 mL,15,71,297,tr,1,8,1.2,1.7,4.2,0,5,5,0.1,120,9,1,24,1,tr,0.7
+Ranch low fat,15 mL,16,36,149,tr,3,3,0.2,0.9,0.7,0,3,20,0.1,151,21,1,31,3,tr,0.3
+Salad dressing mayonnaise type,15 mL,15,58,243,tr,4,5,0.7,1.3,2.7,0.4,4,2,tr,106,1,tr,4,3,tr,0.3
+Salad dressing mayonnaise type fat-free,15 mL,16,14,57,tr,3,tr,0.1,0.3,tr,N/A,1,1,tr,128,8,tr,1,0,N/A,tr
+Salad dressing mayonnaise type light,15 mL,15,44,184,0,2,4,0.2,2.2,1.1,N/A,0,tr,0,117,0,0,N/A,3,N/A,tr
+Thousand Island,15 mL,16,59,245,tr,2,6,0.8,1.2,2.9,N/A,4,3,0.2,137,17,1,4,2,N/A,0.6
+Thousand Island low Calorie,15 mL,16,32,132,tr,3,2,0.1,1,0.4,N/A,tr,2,0.1,129,31,1,2,2,N/A,0.2
+#Sugar Honey and Substitutes
+Brown sugar,5 mL,5,18,73,0,5,4,0,0,0,0,4,0.1,2,16,1,1,0,0,0,0
+Honey,5 mL,7,22,91,tr,6,6,tr,0,0,0,tr,tr,tr,4,tr,tr,0,tr,0,0
+Icing sugar (powdered),5 mL,3,10,41,0,2,2,0,tr,0,0,tr,tr,tr,0,0,0,0,0,0,0
+Sugar substitute aspartame (Equal),1 packet,1,4,15,tr,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sugar substitute sucralose (Splenda),5 mL,1,2,7,0,tr,tr,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+White sugar (granulated),5 mL,4,16,68,0,4,4,0,0,0,0,tr,0,0,0,0,0,0,0,0,0
+#Syrup and Molasses
+Chocolate syrup thin type,15 mL,20,110,461,1,26,20,1,tr,0.2,0,6,0.8,28,89,26,51,tr,tr,0,6
+Corn syrup,15 mL,21,59,249,0,16,6,0,0,0,0,4,0.1,32,9,2,2,0,0,0,0
+Maple syrup,15 mL,20,55,230,0,14,12,0,tr,tr,0,22,0.2,2,46,4,tr,0,0,0,0
+Molasses,15 mL,21,62,257,0,16,12,0,tr,tr,0,44,1,8,311,51,7,0,0,0,0
+Pancake syrup,15 mL,20,47,195,0,12,7,0.1,0,0,0,1,tr,16,3,tr,2,0,0,0,0
+#Preserves
+Double fruit jam type spread,15 mL,19,42,177,tr,10,9,0.5,tr,0,0,2,0.1,6,N/A,N/A,N/A,N/A,tr,N/A,N/A
+Double fruit jam type spread reduced sugar,15 mL,17,23,95,tr,5,5,0.4,tr,0,0,3,0.1,3,N/A,N/A,N/A,N/A,tr,N/A,N/A
+Jams and preserves,15 mL,20,56,234,tr,14,10,0.2,tr,tr,0,4,0.1,6,16,1,4,tr,2,0,0
+Jelly,15 mL,21,56,235,tr,15,11,0.2,tr,tr,0,1,tr,6,11,1,1,0,tr,0,0
+Marmalade,15 mL,20,50,207,tr,13,12,0.1,0,0,0,8,tr,11,7,tr,1,1,1,0,0
+#Dessert Toppings and Spreads
+Chocolate topping fudge-type,30 mL,39,135,564,2,24,13,1.1,3,1.5,1,39,0.6,133,174,25,65,2,tr,0.11,3
+Pie filling cherry canned,30 mL,25,29,121,tr,7,N/A,0.2,tr,tr,0,3,0.1,5,26,2,4,3,1,0,0
+Spread chocolate hazelnut (Nutella),30 mL,38,203,848,2,23,21,2,11,2,0,41,1.6,15,153,24,57,tr,0,0.11,3
+Topping or spread butterscotch,30 mL,42,105,438,1,27,N/A,0.4,tr,tr,tr,22,0.1,145,35,3,20,11,tr,0.04,0
+Topping strawberry,30 mL,43,110,458,tr,29,12,0.3,tr,tr,0,3,0.1,9,22,2,2,tr,6,0,0
+#Candies
+Butterscotch,1 piece,5,21,87,tr,5,4,0,tr,0.1,tr,tr,tr,21,0,tr,tr,1,0,0,0
+Candy chocolate covered sweetened with sorbitol,1 piece,5,29,120,1,2,1,0.2,2,1.1,1,15,0.1,5,30,5,17,3,tr,0.04,tr
+Caramel,4,40,154,646,2,31,26,0.5,3,2.7,3,56,0.1,99,86,7,46,tr,tr,0,0
+Chewing gum,1 stick,3,7,31,0,2,2,0.1,tr,tr,0,0,0,tr,0,0,0,0,0,0,0
+Chewing gum sugarless,1 stick,2,5,22,0,2,0,tr,tr,tr,0,tr,0,tr,0,0,0,0,0,0,0
+Fruit leather,1 roll,14,52,217,tr,12,7,0.5,tr,0.1,0,4,0.1,44,41,3,4,1,17,0,0
+Fudge chocolate homemade,1 piece,17,70,292,tr,13,13,0.3,2,1,2,8,0.3,8,22,6,12,7,0,0.02,1
+Fudge vanilla homemade,1 piece,22,84,353,tr,18,18,0,1,0.6,3,7,tr,11,10,1,6,10,0,0.02,0
+Gumdrops,10 pieces,36,143,596,0,36,21,tr,0,0,0,1,0.1,16,2,tr,tr,0,0,0,0
+Hard candy,1,6,24,99,0,6,4,0,tr,0,0,tr,tr,2,0,tr,tr,0,0,0,0
+Hard candy reduced sugar,1,3,11,47,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jellybeans,10 beans,28,105,439,0,26,20,0.1,tr,0,0,1,tr,14,10,1,1,0,0,0,0
+Licorice strawberry (Twizzlers),3 strips,38,132,553,1,30,15,0,1,0,0,0,0.2,108,N/A,N/A,N/A,0,0,0,0
+Marshmallows,1,7,23,96,tr,6,4,tr,tr,tr,0,tr,tr,6,0,tr,1,0,0,0,0
+Sesame crunch (sesame snap),4 pieces,35,181,757,4,18,11,2.8,12,1.6,0,229,1.5,58,113,88,148,0,tr,0,0
+Skittles,10 candies,11,43,181,tr,10,8,0,tr,0.1,0,0,tr,2,1,tr,tr,0,7,0,0
+Toffee,1 piece,12,67,281,tr,8,8,0,4,2.5,12,4,tr,16,6,tr,4,38,tr,0.01,0
+#Chocolate Bars
+Almonds chocolate covered,10,32,180,752,4,15,12,1.4,12,4.8,4,64,0.8,16,N/A,N/A,N/A,0,0,N/A,N/A
+Caramel coated cookies chocolate covered (Twix),1 package,58,289,1210,3,38,28,0.6,14,5.2,3,52,0.5,112,110,19,63,13,tr,0.17,2
+Caramel with nuts chocolate covered (Turtles),2,28,132,550,3,17,12,1.2,6,1.3,0,22,0.5,7,125,23,46,12,tr,0,5
+Caramel chocolate covered (Rolo Caramilk),1 bar,52,246,1031,3,35,33,0.5,11,7.5,6,75,0.2,98,98,0,37,18,tr,0.14,2
+Chocolate covered wafer (Kit Kat Coffee Crisp),1 bar,42,218,910,3,27,20,0.4,11,7.5,5,53,0.4,23,97,16,57,10,0,0.24,6
+Chocolate malt-nougat and caramel chocolate covered (Mars),1 bar,58,245,1026,3,42,35,1,9,4.5,8,75,0.4,139,140,20,84,10,1,0.19,5
+Chocolate candy coated (M&M'S Smarties),1 package,40,201,841,2,27,25,1.1,9,5.8,6,46,0.5,27,117,18,66,16,tr,0.12,N/A
+Chocolate semisweet bars or chips,60 mL,43,204,853,2,27,23,2.5,13,7.6,0,14,1.3,5,156,49,56,0,0,0,26
+Coconut candy chocolate covered (Bounty -Almond Joy),1 bar,49,235,981,2,29,24,2.5,13,8.6,2,31,0.6,70,124,N/A,55,N/A,tr,N/A,N/A
+Fondant chocolate covered (After Eight),2 pieces,16,59,246,tr,13,11,0.3,2,1.3,0,4,0.3,2,N/A,N/A,N/A,tr,0,N/A,N/A
+Fudge caramel and nuts chocolate covered (Oh Henry!),1 bar,63,289,1208,5,41,31,1.3,14,4.2,6,51,0.4,144,203,32,88,6,tr,0.13,3
+Milk chocolate and crisped rice (Nestle Crunch),1 bar,40,209,873,2,26,22,1,11,6.1,5,68,0.2,53,138,23,81,8,tr,0.15,10
+Milk chocolate bars or chips,1 bar,50,268,1119,4,30,26,1.7,15,7.1,12,95,1.2,40,186,32,104,25,0,0.31,10
+Peanut butter cups (Reese's),3 cups,51,263,1099,5,28,24,1.8,16,5.5,3,40,0.6,160,175,32,82,9,tr,0.29,9
+Peanuts chocolate covered,10,40,208,868,5,20,15,1.9,13,5.8,4,42,0.5,16,201,38,85,14,0,0.18,9
+Raisins chocolate covered (Glosette),10 pieces,10,39,163,tr,7,6,0.4,1,0.9,tr,9,0.2,4,51,5,14,2,tr,0.02,3
+Toffee chocolate covered (Skor),1 bar,39,209,872,1,24,23,0.5,13,7.3,21,51,0.2,124,60,4,24,60,tr,N/A,N/A
+#Desserts Frozen
+Chocolate ice milk bar (Fudgesicle),1,51,65,271,3,14,10,0.9,tr,0.2,2,81,0.5,48,N/A,N/A,N/A,N/A,1,N/A,N/A
+Frozen yogourt chocolate,125 mL,91,116,484,3,20,20,1.2,3,2.1,12,91,0.4,57,213,23,81,36,6,0.06,3
+Frozen yogourt vanilla,125 mL,76,124,519,3,18,18,0,4,2.6,2,109,0.2,66,161,11,98,45,1,0.22,0
+Fruit and juice bar,1,77,63,264,1,16,13,0.8,tr,0,0,4,0.1,3,41,3,5,1,7,0,0
+Ice cream cone vanilla chocolate covered with nuts,1,78,222,928,5,23,16,1.9,14,5.4,25,105,0.8,54,208,42,117,68,tr,0.23,4
+Ice cream cone vanilla soft serve,1,150,266,1110,7,43,32,0.6,7,4.3,39,232,0.5,116,305,22,154,90,2,0.67,0
+Ice cream sandwich,1,59,143,598,3,22,14,0.9,6,3.2,20,60,0.6,36,122,13,63,53,tr,0.18,1
+Ice cream chocolate,125 mL,70,151,630,3,20,18,0.8,8,4.7,24,76,0.6,53,174,20,75,82,tr,0.2,2
+Ice cream dairy free,125 mL,87,237,990,4,21,N/A,0.8,16,2,0,36,1.2,216,64,19,59,tr,tr,0,0
+Ice cream strawberry,125 mL,70,134,560,2,19,N/A,0.6,6,3.6,20,84,0.1,42,131,10,70,67,5,0.21,0
+Ice cream vanilla low fat,125 mL,93,117,490,5,20,10,0,2,1.5,11,146,0.1,65,205,13,113,27,1,0.46,0
+Ice cream vanilla low fat aspartame sweetened,125 mL,69,106,445,3,15,4,0.5,5,2.8,19,93,0.1,66,135,6,52,1,1,0.36,0
+Ice cream vanilla premium,125 mL,113,282,1177,4,25,23,0,18,11.7,104,132,0.4,69,178,12,119,206,0,0.44,0
+Ice cream vanilla regular,125 mL,76,153,640,3,18,16,0.5,8,5.2,33,97,0.1,61,151,11,80,90,tr,0.3,0
+Popsicles,1,75,54,226,0,14,10,0,0,0,0,0,0,9,3,1,0,0,0,0,0
+Sherbet orange,125 mL,78,113,471,1,24,19,2.6,2,0.9,0,42,0.1,36,75,6,31,8,5,0.09,0
+Soft serve ice cream with Oreo cookies (Blizzard McFlurry),1 small,275,575,2404,13,89,68,1.9,20,10.5,63,386,4.7,368,564,52,279,148,3,1.12,5
+#Desserts Other 
+Chocolate mousse homemade,125 mL,90,203,847,4,14,13,0.5,14,8.2,126,86,0.5,34,129,18,105,126,tr,0.42,6
+Gelatin dessert calorie-reduced prepared (Jello),125 mL,124,25,104,1,5,0,0,0,0,0,4,tr,59,1,1,84,0,0,0,0
+Gelatin dessert prepared (Jello),125 mL,143,88,369,2,20,19,0,0,0,0,4,tr,107,1,1,31,0,0,0,0
+#Popcorn
+Air-popped,250 mL,8,32,135,1,7,tr,1.3,tr,tr,0,1,0.2,tr,25,11,25,1,2,0,0
+Caramel-coated,250 mL,37,160,670,1,29,20,1.9,5,1.3,2,16,0.6,77,41,13,31,1,2,0,tr
+Microwave low fat and reduced salt,250 mL,8,34,144,1,6,tr,1.1,1,0.1,0,1,0.2,39,19,12,21,tr,1,0,0
+Oil-popped regular and microwaved,250 mL,12,58,243,1,7,tr,1.2,3,0.6,0,1,0.3,103,26,13,29,1,2,tr,0
+#Chips
+Corn-based puffs or twists cheese (Cheesies),250 mL,37,205,857,3,20,1,0.4,13,2.4,1,21,0.9,388,61,7,40,2,67,tr,0.05
+Potato chips made from dried potatoes plain (Pringles),17 chips,28,156,654,2,14,1,1,11,2.6,0,7,0.4,184,282,16,44,0,2,2,0
+Potato chips baked plain,1 small bag,43,202,843,2,31,2,2.1,8,1.1,0,54,0.3,394,310,18,118,0,0,0,0
+Potato chips flavoured,1 small bag,43,211,883,3,23,N/A,1.9,14,3.5,0,22,0.8,323,542,32,80,5,36,15,0
+Potato chips plain,1 small bag,43,230,964,3,21,tr,1.6,15,1.8,0,9,0.7,229,571,30,65,0,20,25,0
+Tortilla chips nacho flavoured (Doritos),1 small bag,50,249,1042,4,31,2,2.7,13,2.5,2,74,0.7,354,108,41,122,12,7,1,0
+Tortilla chips plain,26 small,47,234,980,3,29,tr,3,12,2.3,0,72,0.7,247,92,41,96,2,5,0,0
+Lay's Classic Snack size,1 bag,60,330,1381,4,33,2,3,21,2.5,0,10,1.25,300,750,40,98,0,21,15,0
+Lay's Ketchup Chips,1 small bag,28,150,628,2,16,2,1,9,1,0,tr,tr,190,300,tr,tr,tr,tr,tr,tr
+#Snacks Other
+Banana chips,10 chips,14,73,304,tr,8,5,1.1,5,4.1,0,3,0.2,1,75,11,8,1,2,1,0
+Beef jerky (22 cm long),1 stick,20,81,340,7,2,2,0.4,5,2.1,10,4,1.1,438,118,10,81,0,27,0,0.2
+Beer nuts,10 nuts,34,186,779,8,10,5,2.2,14,2,0,26,0.6,2,203,54,152,0,37,tr,0
+Bits and bites snack bites (Bits & Bites),125 mL,31,132,554,4,21,3,1.9,4,1,1,18,2.6,263,92,24,71,2,37,tr,0.03
+Fruit leather bar (Fruit to Go),1 bar,14,49,206,tr,11,N/A,0.5,1,0.6,0,4,0.1,11,19,3,8,1,1,1,0
+Pretzels hard plain salted,10 sticks,5,19,80,tr,4,tr,0.2,tr,tr,0,2,0.2,86,7,2,6,0,12,0,0
+Pretzels hard plain unsalted,10 sticks,5,19,80,tr,4,tr,0.2,tr,tr,0,2,0.2,15,7,2,6,0,12,0,0
+Rice cakes plain,1,9,35,146,1,7,tr,0.4,tr,0.1,0,1,0.1,29,26,12,32,0,2,0,0
+Sesame sticks salted,60 mL,14,75,316,2,6,tr,0.4,5,0.9,0,24,0.1,208,25,6,19,0,3,0,0
+Soybeans roasted salted,60 mL,44,205,859,15,15,2,7.7,11,1.6,0,60,1.7,71,641,63,158,4,92,1,0
+Trail mix regular,60 mL,38,176,735,5,17,N/A,2.5,11,2.1,0,30,1.2,87,261,60,131,tr,27,1,0
+Trail mix tropical,60 mL,36,144,604,2,23,N/A,2.4,6,3,0,20,0.9,4,252,34,66,1,15,3,0
+#Coffee Tea and Substitutes
+Chai latte,250 mL,242,149,624,5,26,26,0,3,2,13,186,0.1,67,263,19,150,88,tr,0,13
+Coffee brewed,250 mL,250,3,10,tr,0,0,0,tr,tr,0,5,tr,5,123,8,8,0,0,0,100
+Coffee brewed decaffeinated,250 mL,251,3,10,tr,0,0,0,0,0,0,5,0.1,5,135,13,3,0,0,0,3
+Coffee instant regular powder + water,250 mL,253,5,20,tr,1,0,0,tr,tr,0,10,0.1,5,76,8,8,0,0,0,66
+Coffee latte,250 mL,256,101,420,5,7,9,0,6,3.5,16,188,0.2,79,340,89,156,46,tr,0,193
+Coffee substitute powder + water,250 mL,254,13,53,tr,3,tr,0.8,tr,tr,0,8,0.2,8,79,10,18,0,0,0,0
+Iced cappuccino - original - with cream (Tim Hortons),250 mL,N/A,211,886,2,28,28,0,9,5,38,80,0.3,42,N/A,N/A,N/A,N/A,0,N/A,N/A
+Iced cappuccino - with 2% milk (Tim Hortons),250 mL,N/A,127,533,3,27,27,0,1,1,4,70,0.3,30,N/A,N/A,N/A,N/A,0,N/A,N/A
+Iced coffee Frappuccino (Starbucks),250 mL,N/A,127,533,3,26,22,0,2,1,7,110,0,120,N/A,N/A,N/A,N/A,0,N/A,60
+Iced tea lemon flavour ready-to-drink,250 mL,254,91,383,0,23,23,0,0,0,0,N/A,N/A,53,N/A,N/A,N/A,0,N/A,0,N/A
+Iced tea lemon flavour powder + water,250 mL,274,93,389,tr,23,23,0,tr,tr,0,5,0.1,8,52,5,3,0,tr,0,30
+Tea brewed,250 mL,250,3,10,0,1,0,0,tr,tr,0,0,0.1,8,93,8,3,0,0,0,50
+Tea brewed herbal,250 mL,250,3,10,0,1,0,0,tr,tr,0,5,0.2,3,23,3,0,0,0,0,0
+#Carbonated Drinks Fizzy Soda Pop
+Club soda,250 mL,250,0,0,0,0,0,0,0,0,0,13,tr,53,5,3,0,0,0,0,0
+Cola,250 mL,262,110,461,tr,28,24,0,0,0,0,8,0.1,10,3,3,34,0,0,0,26
+Cola aspartame sweetened,250 mL,250,3,10,tr,tr,0,0,0,0,0,8,0.1,13,15,3,28,0,0,0,35
+Cola decaffeinated,250 mL,262,107,448,0,28,28,0,0,0,0,5,0.1,10,8,0,29,0,0,0,0
+Ginger ale,250 mL,258,88,366,0,23,22,0,0,0,0,8,0.5,18,3,3,0,0,0,0,0
+Lemon-lime soda,250 mL,260,104,433,0,27,23,0,0,0,0,5,0.2,29,3,3,0,0,0,0,0
+Non cola soda aspartame sweetened,250 mL,250,0,0,0,tr,0,0,0,0,0,10,0.1,40,5,3,0,0,0,0,0
+Orange soda,250 mL,262,126,527,0,32,N/A,0,0,0,0,13,0.2,31,5,3,3,0,0,0,0
+Tonic water,250 mL,258,124,520,0,32,32,0,0,0,0,4,tr,15,0,0,0,0,0,0,0
+#Fruit Flavoured Drinks
+Citrus juice drink frozen diluted (Five Alive),250 mL,262,131,548,tr,32,30,0.3,tr,0,0,13,1.8,5,128,10,10,N/A,38,0,0
+Fruit flavour drink low Calorie powder + water (Crystal Light),250 mL,254,3,14,0,1,0,0,tr,0,0,6,tr,6,0,3,2,tr,0,0,0
+Fruit punch flavour drink powder (Kool-Aid) + water,250 mL,276,102,427,0,26,N/A,0,tr,tr,0,44,0.1,39,3,3,55,0,0,0,0
+Fruit punch flavour drink vitamin C added powder + water,250 mL,277,102,429,0,26,N/A,0,tr,tr,0,44,0.1,39,3,3,55,0,100,0,0
+Fruit punch juice drink ready-to-drink (Sunny D),250 mL,262,123,516,0,33,31,0,0,0,0,3,0.1,26,31,N/A,3,0,3,0,0
+Lemonade pink or white frozen diluted,250 mL,262,105,440,tr,27,13,0.2,tr,tr,0,8,0.4,6,39,5,5,0,10,0,0
+Mixed vegetable and fruit juice drink ready-to-drink (V8 Splash),250 mL,257,113,472,tr,29,5,0.3,tr,0,0,10,0.2,41,62,5,8,N/A,81,0,0
+Orange drink vitamin C added (Hi-C) ready-to-drink,250 mL,262,134,558,0,34,29,0,tr,tr,0,16,0.7,42,47,5,3,N/A,94,0,0
+Orange drink vitamin C added (Tang Quench Rise'n Shine) powder + water,250 mL,286,135,564,0,34,34,0,0,0,0,140,0.1,11,69,3,63,N/A,88,0,0
+#Other Beverages
+Sports drink fruit flavour low Calorie ready-to-drink (Gatorade Powerade),250 mL,261,29,120,0,8,0,0,0,0,0,0,0.1,91,26,3,23,0,16,0,0
+Sports drink fruit flavour ready-to-drink (Gatorade Powerade),250 mL,258,67,281,0,16,14,0,tr,0,0,3,0.5,101,36,3,23,0,1,N/A,N/A
+Water mineral (Perrier),250 mL,250,0,0,0,0,0,0,0,0,0,35,0,3,0,0,0,0,0,0,0
+Water municipal,250 mL,250,0,0,0,0,0,0,0,0,0,5,0,5,0,3,0,0,0,0,0
+#Alcoholic
+Beer de-alcoholized  (Labbat .5),1 can,350,210,878,1,47,28,0,tr,0.1,0,24,0.2,45,28,24,56,0,2,1,0
+Beer high alcohol (7%alcohol by volume),1 bottle,342,183,766,1,10,N/A,0.7,0,0,0,17,0.1,17,86,21,41,0,0,20,0
+Beer light (4% alcohol by volume),1 bottle,340,99,412,1,5,tr,0,0,0,0,14,0.1,14,71,17,41,0,0,11,0
+Beer regular (5% alcohol by volume),1 bottle,342,140,586,1,10,0,0,0,0,0,14,0.1,14,92,21,48,0,0,14,0
+Cocktail daiquiri,125 mL,128,237,993,tr,9,7,0.1,tr,tr,0,4,0.1,6,27,3,6,0,2,29,0
+Cocktail margarita,125 mL,131,246,1031,tr,6,4,0.1,tr,tr,0,4,0.1,527,23,2,7,tr,2,33,0
+Liqueur coffee and cream,45 mL,53,172,719,1,11,10,0,8,5.1,31,8,0.1,48,17,1,26,91,tr,7,4
+Sangria,125 mL,123,87,365,tr,12,10,0.1,tr,tr,0,9,0.2,13,80,8,10,1,6,6,0
+Spirits (gin rum vodka whisky),50 mL,47,109,456,0,0,0,0,0,0,0,0,tr,1,1,0,2,0,0,16,0
+Vodka cooler,1 bottle,390,220,799,tr,33,12,0.3,1,tr,0,20,0.9,12,211,23,19,tr,11,13,0
+Wine dessert sweet,125 mL,127,203,848,tr,17,10,0,0,0,0,10,0.3,11,117,11,11,0,0,19,0
+Wine table red,125 mL,125,90,375,tr,2,1,0,0,0,0,10,0.5,6,140,16,17,0,0,12,0
+Wine table white,125 mL,125,85,354,tr,1,1,0,0,0,0,11,0.4,6,100,12,17,0,0,12,0
+Crazy Uncle Hard root beer,473 mL,473,325,1360,0,30,28,0,0,0,0,14,0,25,50,7,25,0,0,0,0
+#Condiments
+Bacon bits simulated meat,15 mL,7,34,141,2,2,0,2,0.3,0.4,1,0,7,0.1,126,10,7,15,0,0,9
+Ketchup,15 mL,15,15,64,tr,4,3,tr,tr,tr,tr,0,3,0.1,169,57,3,5,7,2586,2
+Mustard,15 mL,16,11,44,1,1,tr,1,tr,0.4,0.2,0,9,0.2,180,22,8,17,1,0,1
+Olives pickled canned or bottled,4,16,23,97,tr,1,tr,2,0.3,1.8,0.2,0,8,0.1,249,7,2,1,3,0,tr
+Olives ripe canned jumbo,2,16,13,54,tr,1,0,1,0.1,0.8,0.1,0,15,0.5,144,1,1,tr,3,0,0
+Pickle relish sweet,15 mL,15,20,83,tr,5,2,tr,tr,tr,tr,0,tr,0.1,123,4,1,2,1,0,tr
+Pickles cucumber dill,1 medium pickle,65,12,49,tr,3,1,tr,tr,tr,0.1,0,6,0.3,833,75,7,14,6,0,1
+Pickles cucumber sweet slices,4,28,33,137,tr,9,5,tr,tr,tr,tr,0,1,0.2,263,9,1,3,3,0,tr
+Salsa,15 mL,17,5,19,tr,1,1,tr,tr,tr,tr,0,5,0.1,100,50,3,5,3,1758,1
+PC Lime Crema,15 mL,15,50,209,0,1,0,0,6,0.5,0,0,0,100,10,tr,tr,tr,tr,tr,tr
+PC Baba Ghanouj,2 tbsp,30,35,146,0.8,3.2,1.5,1,2.5,0.4,0,12,0.3,120,90,8,20,2,10,1,0
+Herdez Salsa Verde,2 tbsp,31,10,42,0,2,1,0,0,0,0,0,0,230,0,0,0,0,0,0,0
+#Dips
+Cream cheese dip,30 mL,30,108,451,2,1,tr,11,5.8,3,1.6,28,23,0.3,176,39,2,28,92,0,4
+Onion dip,30 mL,31,50,211,1,3,tr,4,2.5,1.2,0.2,11,34,0.1,206,60,4,31,33,0,3
+Spinach dip,30 mL,30,74,309,1,2,tr,7,1.6,1.9,3.3,6,26,0.3,84,57,8,17,75,tr,15
+#Gravies and Sauces
+Gravy beef canned,60 mL,59,31,131,2,3,tr,1,0.7,0.6,tr,2,4,0.4,331,48,1,18,1,0,1
+Gravy beef dehydrated prepared with water,60 mL,65,20,85,1,3,0,1,0.2,0.2,tr,tr,9,0.1,271,15,2,11,tr,0,2
+Gravy chicken canned,60 mL,60,48,199,1,3,tr,3,0.9,1.5,0.9,1,12,0.3,348,66,1,18,1,0,1
+Gravy chicken dehydrated prepared with water,60 mL,66,22,93,1,4,0,1,0.2,0.3,0.1,1,10,0.1,244,24,3,15,2,0,8
+Gravy turkey canned,60 mL,61,31,130,2,3,tr,1,0.4,0.6,0.3,1,2,0.4,353,67,1,18,0,0,1
+Gravy unspecified dehydrated prepared with water,60 mL,66,22,91,1,4,0,1,0.2,0.2,0.1,tr,11,0.1,362,16,3,13,0,0,3
+Sauce barbecue,15 mL,16,12,50,tr,2,4,tr,tr,0.1,0.1,0,3,0.1,129,28,3,3,tr,68,1
+Sauce cheese dehydrated prepared with 2% milk,60 mL,71,81,337,5,7,6,4,2.1,1.3,0.4,11,163,0.1,445,158,12,127,45,0,4
+Sauce cranberry canned sweetened,60 mL,70,106,443,tr,27,27,tr,tr,tr,tr,0,3,0.2,20,18,2,4,1,0,1
+Sauce nacho cheese ready-to-serve,60 mL,64,121,505,5,3,0,10,4.3,3.1,2.1,20,120,0.2,499,20,6,107,66,N/A,3
+Sauce soy,15 mL,18,7,30,tr,1,tr,tr,tr,tr,tr,0,1,0.3,1038,28,1,17,0,0,2
+Sauce steak (HP A1),15 mL,15,9,39,tr,2,N/A,tr,tr,tr,tr,0,4,0.2,218,60,2,6,7,N/A,1
+Sauce sweet and sour,15 mL,17,20,85,tr,4,3,tr,0.1,0.1,0.2,0,3,0.1,59,11,1,2,1,N/A,tr
+Sauce teriyaki,15 mL,18,15,64,1,3,2,0,0,0,0,0,5,0.3,700,41,11,28,0,0,4
+Sauce white medium homemade with 2% milk,60 mL,61,89,374,2,6,3,6,1.7,2.7,1.7,4,72,0.2,215,95,9,60,55,0,6
